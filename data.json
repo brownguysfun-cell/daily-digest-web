@@ -1,67 +1,125 @@
 {
-  "last_updated": "2026-07-12T08:30:00.000Z",
+  "last_updated": "2026-07-12T09:09:38.503577+00:00",
   "digests": {
     "2026-07-12": [
       {
-        "title": "Faille ClawJacked dans OpenClaw AI corrigée",
-        "summary": "OpenClaw a corrigé une vulnérabilité critique qui permettait à des sites malveillants de prendre le contrôle d'agents d'IA OpenClaw exécutés localement via WebSocket. Cette faille réside dans le système central, sans dépendance à des extensions ou modules supplémentaires.",
-        "category": "Cybersécurité & IA",
+        "title": "Décès du sénateur américain Lindsey Graham",
+        "summary": "Le sénateur américain Lindsey Graham est décédé à l'âge de 71 ans. Il était connu pour son engagement en faveur d’un interventionnisme militaire américain. Ses homologues israéliens ont présenté leurs condoléances.",
+        "category": "Général",
         "sources": [
-          {"name": "Hacker News", "url": "https://news.ycombinator.com/item?id=1"},
-          {"name": "The Guardian", "url": "https://www.theguardian.com/world"}
-        ],
-        "reading_time": 2,
-        "importance": 5
-      },
-      {
-        "title": "Exposition massive de 3 000 clés d'API Google Cloud",
-        "summary": "Une recherche a révélé que près de 3 000 clés d'API Google Cloud ont été exposées dans du code client. Cette fuite permet potentiellement un accès non autorisé à des données sensibles via des points de terminaison privés de Gemini, exposant à des risques financiers importants.",
-        "category": "Cybersécurité & IA",
-        "sources": [
-          {"name": "Hacker News", "url": "https://news.ycombinator.com/item?id=2"}
-        ],
-        "reading_time": 1,
-        "importance": 4
-      },
-      {
-        "title": "Le Pentagone classe Anthropic comme risque d'approvisionnement",
-        "summary": "Le Pentagone a classé l'entreprise d'IA Anthropic comme un 'risque de chaîne d'approvisionnement' en raison de divergences sur l'utilisation de Claude pour la surveillance et l'armement. Cette désignation pourrait entraver les futures collaborations gouvernementales.",
-        "category": "Intelligence Artificielle",
-        "sources": [
-          {"name": "Le Monde", "url": "https://www.lemonde.fr/technologies/"}
-        ],
-        "reading_time": 2,
-        "importance": 4
-      },
-      {
-        "title": "Wall Street se réfugie vers les valeurs sûres face aux tensions",
-        "summary": "Les investisseurs américains adoptent une stratégie 'Haven-First' face à la crise au Moyen-Orient. Ce mouvement pousse les capitaux vers des actifs refuges traditionnels comme les obligations du Trésor américain, l'or et le franc suisse.",
-        "category": "Finance & Marchés",
-        "sources": [
-          {"name": "Bloomberg", "url": "https://www.bloomberg.com/markets"}
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/disparitions/article/2026/07/12/lindsey-graham-senateur-americain-proche-de-donald-trump-est-mort-a-l-age-de-71-ans-selon-son-entourage_6722880_3382.html"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWkpCQ1VONEVtbkF1Ym5xeldsQ0RWTXhncGJlMGFUOXFKYjZDanlkOXRfbUJKS2RlMTVES2xRbEx1UGlXdXVRTVlKeDBZSExDQTlpeWdnUEE4bENTTkJSaVUxcHF4b1V2VTg1c1BtaExoQjhRM2VIVkliRzF4S1Vvc2tLamQ4LXkxZHkzdXRhb1RKTzY2d3ZWcGxxNU1xS0VwTW1VLXIybHBPLTlraUxXeU1yaUdYMlFHOTNOS29rV1VELUxsQ1A0clEzdHljQQ?oc=5"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSDRlcGhiT2g4U1kxVkVJMW5lTkdKR2tTaXhVQlhnTUl2d19Uekt3M1Q4U3ltNTI4ZEJFZGtYejhoU3E4SFRZeG9RMllqa0tHbjFKZXAzSmVMTUdaM3ptenQxOUt5bDBUSU5pZW85aXphVm1iTm55MUUyTHdZdkd5WlN3ZEhUSjVVWHotQkhUZXBMbHdpQzFMRkkwd1h2bzZJZm9V?oc=5"
+          }
         ],
         "reading_time": 1,
         "importance": 4
       },
       {
-        "title": "Poutine renforce sa doctrine nucléaire",
-        "summary": "En réponse au contexte ukrainien, Vladimir Poutine a officialisé un durcissement de la doctrine d'utilisation des armes nucléaires russes. Cette manœuvre est perçue par l'Occident comme une tentative d'intimidation visant à affaiblir les traités de contrôle des armements.",
+        "title": "Guerre au Moyen-Orient",
+        "summary": "La situation au Moyen-Orient se détériore avec des bombardements et des fermetures de détroits. L'Iran a décrété une nouvelle fermeture du détroit d’Ormuz.",
         "category": "Géopolitique",
         "sources": [
-          {"name": "Reuters", "url": "https://www.reuters.com/world/"},
-          {"name": "Le Monde", "url": "https://www.lemonde.fr/international/"}
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-bombarde-140-fois-l-iran-pendant-la-nuit-des-explosions-entendues-dans-plusieurs-pays-du-golfe_6722873_3210.html"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTU5taWZqa0hpeXU0ZmE1V1czbHdjSHNBUVNNNDJTMkx6LUthNEljYUFveUY2Y0tQT09VNVIxdWhCT2JoTUtpeHJjOFc1Y28zRi1jX3BreURwZHNIM3N2YTJNSEhjNndFdGd3MGVwSFU3THItWTRHM3N5TWQ0Z0taSk54eUR6UWk5LTR6eTlXTWt3UFdHSG1vckI3UU1lbEt0V1pLa192MlFkb3NVeGc?oc=5"
+          }
         ],
         "reading_time": 2,
         "importance": 5
       },
       {
-        "title": "Découverte d'un nouveau mécanisme de propagation du cancer du pancréas",
-        "summary": "Des chercheurs ont identifié comment les cellules tumorales pancréatiques colonisent des organes secondaires comme le foie. Cette avancée permet d'envisager de nouveaux traitements ciblant spécifiquement ces voies de migration cellulaire critiques.",
+        "title": "Coupe du monde 2026",
+        "summary": "La Coupe du monde 2026 se poursuit avec des matchs intenses. L'Argentine et l'Angleterre se sont qualifiées pour les demi-finales.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/sport/article/2026/07/12/coupe-du-monde-2026-l-argentine-rejoint-l-angleterre-en-demi-finale-ce-qu-il-faut-retenir-du-samedi-11-juillet_6722869_3242.html"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjdjRVRIVE9NQVA5aXdUdmlkZzN1dmM1NWgtaFY1TUtzNFlwangwRHBPdWY4TjUyVXkzZzJmRFlRWFMtYnNaSGVKZi1tTS16RzR0a0FBVUljR2NIS0pqTjRxelpPdUJrV3lNZnVpcjJuTEN4RVlnOGotUU1RakFIZXlyaXVrNG5FNGhHREZBcDIwd2hZLXlhYWtqQ01sX2otVWMzQTktYzhTVk5vaXlGU2J0bU9jTzJWd1BLV2YwN0xXemM?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Sécurité énergétique",
+        "summary": "La Chine a mis en place des politiques pour promouvoir les véhicules électriques, mais ceux-ci ne restent en moyenne que 1,8 an sur la route.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWJiMWMzWDJMNU5JVzVUNUFiR1E2UWZRRXF0WE9VTW9mUkpjd0FkNUUxZHdKcWJpSmdySU9DNVczdTJOS2djdVJQR2ZLU2xBTWF6R2N5VmJ3VlVJemw5Sk9HTDM2ZTd1R0hNNEE0akVZUmptOWlEcFpKQUZ5U3ZWRmh4QXNUMmRZaWhJT2F0eWtBbWdJV1AtU19aNkZVaEY3YzlHdDF6b25TWHJf?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Présidentielle 2027",
+        "summary": "Les sondages pour la présidentielle 2027 sont en cours. Jean-Luc Mélenchon progresse dans les intentions de vote au premier tour.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdmg5OHpJMG5sWlh4eEphS0JxTldvZ1ZlTkM2VmJnV2FwU2dxNkVLdVRfQ092NFY4eTQxY1RlTlNTOEphcjlLNjNWS1VzMnBEN0VzN0pUVFZlLXlyd196ZVgtTGFiWXMxYU13UHlBMzlLVW5LV05EUGg4RzdkVjFOTmp3WGpaQ2R6UWpxeHRDRXhYWFhZV1ZvTFJPTHQwZkR3UkRQUmhNNG1zek1pNjFEc1c5TExZTVExcUoycXZ5OXdNNW96QVJjdXdoSDRCeUYtSnp5YTVrRUVoSkUwcWlsdVB4WHpfUFRXWDhRM19KMWVvN1U4M2Q1N0ZKRUNUd2tFSVAyc2VaX0gwUy1MWnhodkhXM2kzT05WWFVBZVZrRlZaeVAyamswWmtnRXpHX3V3WVVnUDdQV1VsZ01iT2Fj?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Décès de l'ancien émir du Qatar",
+        "summary": "L'ancien émir du Qatar, Sheikh Hamad bin Khalifa Al Thani, est décédé à l'âge de 74 ans.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0haajRKdWJvZENRMEpjQnFRUFJ1cEptbFRKQ1B5WHN2LTlHeDNEUUc2Q1lVS2FNV25jd2cxQUx5M1UwWXB0WWppa2FLallzNnAtWnVxc1I1eGo0UGJQNmpzRUdGR2p0OVVDdmNnODFVdGtuYjM4ZllpX3V3bDBLREVtNDlPUHp4N2ZVV1JZb1JTbkFheVllMDFNMFNTSHdmSGh6bWpUN3NXcDlxWTJMa0h2RQ?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Sécurité au Venezuela",
+        "summary": "Le Venezuela est touché par des tremblements de terre qui ont fait plus de 4 300 morts. La situation humanitaire est critique.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "Essais cliniques contre Ebola",
+        "summary": "Des essais cliniques contre Ebola ont démarré en République démocratique du Congo. L'objectif est de réduire la mortalité due à cette maladie.",
         "category": "Médecine & Santé",
         "sources": [
-          {"name": "ScienceDaily", "url": "https://www.sciencedaily.com/releases/1"}
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc"
+          }
         ],
-        "reading_time": 2,
+        "reading_time": 1,
         "importance": 3
       }
     ],
@@ -71,7 +129,10 @@
         "summary": "Des heurts majeurs ont éclaté dans plusieurs villes d'Iran suite à l'annonce de la succession du Guide suprême. La situation reste confuse et fait craindre une escalade de l'instabilité politique régionale dans les prochains jours.",
         "category": "Géopolitique",
         "sources": [
-          {"name": "Reuters", "url": "https://www.reuters.com/world/middle-east"}
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/middle-east"
+          }
         ],
         "reading_time": 2,
         "importance": 4
@@ -81,7 +142,10 @@
         "summary": "La découverte de deux gènes clés responsables de la maladie par dépôt de pyrophosphate de calcium ouvre la voie à des thérapies ciblées. Cela offre de nouvelles perspectives pour les patients souffrant de cette forme douloureuse d'arthrite.",
         "category": "Médecine & Santé",
         "sources": [
-          {"name": "ScienceDaily", "url": "https://www.sciencedaily.com/releases/2"}
+          {
+            "name": "ScienceDaily",
+            "url": "https://www.sciencedaily.com/releases/2"
+          }
         ],
         "reading_time": 1,
         "importance": 3
@@ -91,7 +155,10 @@
         "summary": "Le Kazakhstan a commencé à extruder des citoyens russes fuyant la conscription vers Moscou, marquant un alignement diplomatique renforcé avec le Kremlin. Cette décision suscite une vive inquiétude parmi les réfugiés russes présents dans le pays.",
         "category": "Géopolitique",
         "sources": [
-          {"name": "Le Monde", "url": "https://www.lemonde.fr/international/"}
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/"
+          }
         ],
         "reading_time": 2,
         "importance": 3
