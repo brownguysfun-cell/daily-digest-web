@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>L'Écho du Globe — Votre Digest Quotidien Intelligent</title>
+  <meta name="description" content="Une synthèse stratégique quotidienne des actualités mondiales majeures, dédupliquée et classée par l'intelligence artificielle.">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- CSS Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Fond animé en dégradé -->
+  <div class="bg-blur-blobs">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+  </div>
+
+  <div class="app-container">
+    <!-- Barre latérale / En-tête -->
+    <header class="app-sidebar">
+      <div class="brand">
+        <div class="logo-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/></svg>
+        </div>
+        <div class="brand-text">
+          <h1>L'Écho du Globe</h1>
+          <span>Veille Stratégique IA</span>
+        </div>
+      </div>
+
+      <div class="date-selector-wrapper">
+        <label for="date-select" class="sidebar-label">Période du digest</label>
+        <div class="custom-select">
+          <select id="date-select">
+            <!-- Rempli par JavaScript -->
+          </select>
+          <div class="select-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </div>
+        </div>
+      </div>
+
+      <div class="stats-box">
+        <div class="stat-item">
+          <span class="stat-value" id="stat-total-news">-</span>
+          <span class="stat-label">Actualités</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-value" id="stat-total-sources">-</span>
+          <span class="stat-label">Sources analysées</span>
+        </div>
+      </div>
+
+      <footer class="sidebar-footer">
+        <p>Mise à jour : <span id="last-updated-time">--:--</span></p>
+        <p>Propulsé par Gemini & n8n</p>
+      </footer>
+    </header>
+
+    <!-- Zone principale -->
+    <main class="app-main">
+      <!-- Zone supérieure : Recherche et Filtrage -->
+      <section class="control-panel">
+        <div class="search-bar-wrapper">
+          <div class="search-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          </div>
+          <input type="text" id="search-input" placeholder="Rechercher un sujet, un mot-clé ou une source..." autocomplete="off">
+          <button id="clear-search" class="clear-btn" aria-label="Effacer la recherche">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+          </button>
+        </div>
+
+        <!-- Filtres de catégories (Défilement horizontal sur mobile) -->
+        <div class="categories-filter-container">
+          <div class="categories-track" id="categories-track">
+            <button class="category-pill active" data-category="all">
+              <span class="pill-icon">🌍</span>
+              <span class="pill-name">Tous</span>
+              <span class="pill-count" id="count-all">0</span>
+            </button>
+            <button class="category-pill" data-category="Cybersécurité & IA">
+              <span class="pill-icon">🔐</span>
+              <span class="pill-name">Cyber & IA</span>
+              <span class="pill-count" id="count-cyber">0</span>
+            </button>
+            <button class="category-pill" data-category="Intelligence Artificielle">
+              <span class="pill-icon">🤖</span>
+              <span class="pill-name">IA Générale</span>
+              <span class="pill-count" id="count-ia">0</span>
+            </button>
+            <button class="category-pill" data-category="Finance & Marchés">
+              <span class="pill-icon">📈</span>
+              <span class="pill-name">Finance</span>
+              <span class="pill-count" id="count-finance">0</span>
+            </button>
+            <button class="category-pill" data-category="Géopolitique">
+              <span class="pill-icon">🗺️</span>
+              <span class="pill-name">Géopolitique</span>
+              <span class="pill-count" id="count-geopolitics">0</span>
+            </button>
+            <button class="category-pill" data-category="Médecine & Santé">
+              <span class="pill-icon">🧬</span>
+              <span class="pill-name">Santé & Médecine</span>
+              <span class="pill-count" id="count-health">0</span>
+            </button>
+            <button class="category-pill" data-category="Sciences & Technologies">
+              <span class="pill-icon">🔬</span>
+              <span class="pill-name">Sciences & Tech</span>
+              <span class="pill-count" id="count-tech">0</span>
+            </button>
+            <button class="category-pill" data-category="Général">
+              <span class="pill-icon">📰</span>
+              <span class="pill-name">Général</span>
+              <span class="pill-count" id="count-general">0</span>
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Grille d'actualités -->
+      <section class="news-section">
+        <div class="section-header">
+          <h2 id="current-date-title">Digest du jour</h2>
+          <div class="sorting-controls">
+            <span class="sort-label">Trier par :</span>
+            <button id="sort-importance" class="sort-btn active">Importance</button>
+            <button id="sort-time" class="sort-btn">Temps de lecture</button>
+          </div>
+        </div>
+
+        <div class="news-grid" id="news-grid">
+          <!-- Chargé dynamiquement par JS -->
+          <div class="loader">
+            <div class="spinner"></div>
+            <p>Analyse des synthèses de presse...</p>
+          </div>
+        </div>
+
+        <div class="empty-state" id="empty-state" style="display: none;">
+          <div class="empty-icon">🔍</div>
+          <h3>Aucun résultat trouvé</h3>
+          <p>Essayez de modifier vos filtres ou le terme de recherche.</p>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- Pied de page sur mobile -->
+  <footer class="mobile-footer">
+    <p>© 2026 L'Écho du Globe. Généré automatiquement par IA.</p>
+  </footer>
+
+  <!-- Notification de lecture audio -->
+  <div class="audio-player-toast" id="audio-player-toast">
+    <div class="audio-wave">
+      <span></span><span></span><span></span><span></span>
+    </div>
+    <div class="audio-info">
+      <span class="audio-title">Lecture en cours...</span>
+      <span class="audio-subtitle">Synthèse Vocale</span>
+    </div>
+    <button class="audio-stop-btn" id="stop-audio-btn" aria-label="Arrêter la lecture">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"/></svg>
+    </button>
+  </div>
+
+  <!-- JavaScript -->
+  <script src="app.js"></script>
+</body>
+</html>

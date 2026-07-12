@@ -1,0 +1,101 @@
+{
+  "last_updated": "2026-07-12T08:30:00.000Z",
+  "digests": {
+    "2026-07-12": [
+      {
+        "title": "Faille ClawJacked dans OpenClaw AI corrigée",
+        "summary": "OpenClaw a corrigé une vulnérabilité critique qui permettait à des sites malveillants de prendre le contrôle d'agents d'IA OpenClaw exécutés localement via WebSocket. Cette faille réside dans le système central, sans dépendance à des extensions ou modules supplémentaires.",
+        "category": "Cybersécurité & IA",
+        "sources": [
+          {"name": "Hacker News", "url": "https://news.ycombinator.com/item?id=1"},
+          {"name": "The Guardian", "url": "https://www.theguardian.com/world"}
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Exposition massive de 3 000 clés d'API Google Cloud",
+        "summary": "Une recherche a révélé que près de 3 000 clés d'API Google Cloud ont été exposées dans du code client. Cette fuite permet potentiellement un accès non autorisé à des données sensibles via des points de terminaison privés de Gemini, exposant à des risques financiers importants.",
+        "category": "Cybersécurité & IA",
+        "sources": [
+          {"name": "Hacker News", "url": "https://news.ycombinator.com/item?id=2"}
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "Le Pentagone classe Anthropic comme risque d'approvisionnement",
+        "summary": "Le Pentagone a classé l'entreprise d'IA Anthropic comme un 'risque de chaîne d'approvisionnement' en raison de divergences sur l'utilisation de Claude pour la surveillance et l'armement. Cette désignation pourrait entraver les futures collaborations gouvernementales.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {"name": "Le Monde", "url": "https://www.lemonde.fr/technologies/"}
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Wall Street se réfugie vers les valeurs sûres face aux tensions",
+        "summary": "Les investisseurs américains adoptent une stratégie 'Haven-First' face à la crise au Moyen-Orient. Ce mouvement pousse les capitaux vers des actifs refuges traditionnels comme les obligations du Trésor américain, l'or et le franc suisse.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {"name": "Bloomberg", "url": "https://www.bloomberg.com/markets"}
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "Poutine renforce sa doctrine nucléaire",
+        "summary": "En réponse au contexte ukrainien, Vladimir Poutine a officialisé un durcissement de la doctrine d'utilisation des armes nucléaires russes. Cette manœuvre est perçue par l'Occident comme une tentative d'intimidation visant à affaiblir les traités de contrôle des armements.",
+        "category": "Géopolitique",
+        "sources": [
+          {"name": "Reuters", "url": "https://www.reuters.com/world/"},
+          {"name": "Le Monde", "url": "https://www.lemonde.fr/international/"}
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Découverte d'un nouveau mécanisme de propagation du cancer du pancréas",
+        "summary": "Des chercheurs ont identifié comment les cellules tumorales pancréatiques colonisent des organes secondaires comme le foie. Cette avancée permet d'envisager de nouveaux traitements ciblant spécifiquement ces voies de migration cellulaire critiques.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {"name": "ScienceDaily", "url": "https://www.sciencedaily.com/releases/1"}
+        ],
+        "reading_time": 2,
+        "importance": 3
+      }
+    ],
+    "2026-07-11": [
+      {
+        "title": "Explosion de violence et manifestations en Iran",
+        "summary": "Des heurts majeurs ont éclaté dans plusieurs villes d'Iran suite à l'annonce de la succession du Guide suprême. La situation reste confuse et fait craindre une escalade de l'instabilité politique régionale dans les prochains jours.",
+        "category": "Géopolitique",
+        "sources": [
+          {"name": "Reuters", "url": "https://www.reuters.com/world/middle-east"}
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Nouveau traitement contre l'arthrite inflammatoire",
+        "summary": "La découverte de deux gènes clés responsables de la maladie par dépôt de pyrophosphate de calcium ouvre la voie à des thérapies ciblées. Cela offre de nouvelles perspectives pour les patients souffrant de cette forme douloureuse d'arthrite.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {"name": "ScienceDaily", "url": "https://www.sciencedaily.com/releases/2"}
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Le Kazakhstan entame des extraditions de ressortissants russes",
+        "summary": "Le Kazakhstan a commencé à extruder des citoyens russes fuyant la conscription vers Moscou, marquant un alignement diplomatique renforcé avec le Kremlin. Cette décision suscite une vive inquiétude parmi les réfugiés russes présents dans le pays.",
+        "category": "Géopolitique",
+        "sources": [
+          {"name": "Le Monde", "url": "https://www.lemonde.fr/international/"}
+        ],
+        "reading_time": 2,
+        "importance": 3
+      }
+    ]
+  }
+}

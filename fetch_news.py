@@ -1,0 +1,188 @@
+#!/usr/bin/env python3
+import os
+import sys
+import json
+import time
+import calendar
+from datetime import datetime, timedelta, timezone
+import feedparser
+import requests
+import google.generativeai as genai
+
+# Configuration des flux RSS
+FEEDS = {
+    "Le Monde": "https://www.lemonde.fr/rss/une.xml",
+    "The Guardian": "https://www.theguardian.com/world/rss",
+    "BFM TV": "https://news.google.com/rss/search?q=site:bfmtv.com&hl=fr&gl=FR&ceid=FR:fr",
+    "Reuters": "https://news.google.com/rss/search?q=site:reuters.com&hl=en&gl=US&ceid=US:en",
+    "Bloomberg": "https://news.google.com/rss/search?q=site:bloomberg.com&hl=en&gl=US&ceid=US:en"
+}
+
+DATA_FILE = "data.json"
+
+def fetch_articles():
+    print("Début de la récupération des articles...")
+    articles = []
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(hours=30)  # Récupère les articles des dernières 30 heures
+
+    for source_name, feed_url in FEEDS.items():
+        print(f"Récupération de la source : {source_name}...")
+        try:
+            feed = feedparser.parse(feed_url)
+            count = 0
+            for entry in feed.entries:
+                # Récupération de la date de publication
+                pub_date = None
+                if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                    pub_date = datetime.fromtimestamp(calendar.timegm(entry.published_parsed), tz=timezone.utc)
+                elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
+                    pub_date = datetime.fromtimestamp(calendar.timegm(entry.updated_parsed), tz=timezone.utc)
+                
+                # Filtrage temporel
+                if pub_date and pub_date >= cutoff:
+                    articles.append({
+                        "source": source_name,
+                        "title": entry.title,
+                        "description": getattr(entry, "summary", ""),
+                        "link": entry.link,
+                        "pub_date": pub_date.isoformat()
+                    })
+                    count += 1
+            print(f"-> {count} articles récupérés de {source_name}")
+        except Exception as e:
+            print(f"Erreur lors de la lecture du flux {source_name}: {e}", file=sys.stderr)
+            
+    print(f"Total articles récupérés : {len(articles)}")
+    return articles
+
+def generate_digest(articles):
+    if not articles:
+        print("Aucun article récent à traiter.")
+        return []
+
+    print("Initialisation de l'API Gemini...")
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        print("Erreur : GEMINI_API_KEY n'est pas définie dans l'environnement.", file=sys.stderr)
+        sys.exit(1)
+
+    genai.configure(api_key=api_key)
+    
+    # Préparation du contenu textuel des articles
+    articles_formatted = []
+    for idx, art in enumerate(articles):
+        articles_formatted.append(
+            f"[{idx}] Source: {art['source']}\n"
+            f"Titre: {art['title']}\n"
+            f"Description: {art['description']}\n"
+            f"Lien: {art['link']}\n"
+            f"---"
+        )
+    articles_text = "\n".join(articles_formatted)
+
+    prompt = f"""
+Tu es un analyste de veille stratégique et un rédacteur en chef d'un grand média.
+Voici une liste d'articles d'actualité récoltés ces dernières 24 heures depuis diverses sources (Le Monde, BFM TV, Reuters, Bloomberg, The Guardian).
+
+Tâche :
+1. Analyse et regroupe les articles qui parlent du même sujet ou événement pour éviter les doublons.
+2. Pour chaque sujet important, rédige une synthèse claire sous forme d'un digest d'information.
+3. Chaque résumé doit faire 2 à 3 phrases claires, fluides, professionnelles et rédigées en français.
+4. Assigne chaque sujet à l'une des catégories suivantes :
+   - "Cybersécurité & IA"
+   - "Intelligence Artificielle" (pour l'IA générale, hors cybersécurité)
+   - "Finance & Marchés"
+   - "Géopolitique"
+   - "Médecine & Santé"
+   - "Sciences & Technologies"
+   - "Général"
+5. Associe au sujet toutes les sources d'origine correspondantes (nom de la source et URL exacte de l'article). S'il y a plusieurs sources pour un même sujet, liste-les toutes dans le tableau "sources".
+6. Estime le temps de lecture du résumé en minutes (un entier, typiquement 1 ou 2).
+7. Évalue l'importance du sujet sur une échelle de 1 à 5 (5 étant une actualité mondiale majeure ou critique).
+
+Renvoie le résultat STRICTEMENT sous la forme d'un tableau JSON d'objets, respectant le format suivant :
+[
+  {{
+    "title": "Titre accrocheur et court en français",
+    "summary": "Résumé concis en français...",
+    "category": "Catégorie parmi la liste imposée",
+    "sources": [
+      {{"name": "Nom de la source", "url": "URL d'origine"}}
+    ],
+    "reading_time": 2,
+    "importance": 4
+  }}
+]
+
+Articles collectés :
+{articles_text}
+"""
+
+    try:
+        model = genai.GenerativeModel("gemini-1.5-flash")
+        print("Envoi des articles à Gemini pour synthèse...")
+        response = model.generate_content(
+            prompt,
+            generation_config={"response_mime_type": "application/json"}
+        )
+        
+        # Parse du JSON retourné
+        digest_data = json.loads(response.text)
+        print(f"Digest généré avec succès ! {len(digest_data)} sujets identifiés.")
+        return digest_data
+    except Exception as e:
+        print(f"Erreur lors de l'appel à l'API Gemini : {e}", file=sys.stderr)
+        # En cas d'erreur de parsing JSON de la réponse, on affiche la réponse brute pour déboguer
+        if 'response' in locals() and hasattr(response, 'text'):
+            print("Réponse brute de Gemini :", response.text, file=sys.stderr)
+        return []
+
+def update_data_store(new_digest):
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    
+    # Chargement de l'ancien magasin de données s'il existe
+    data_store = {
+        "last_updated": "",
+        "digests": {}
+    }
+    
+    if os.path.exists(DATA_FILE):
+        try:
+            with open(DATA_FILE, "r", encoding="utf-8") as f:
+                data_store = json.load(f)
+        except Exception as e:
+            print(f"Avertissement : Impossible de charger {DATA_FILE}, création d'un nouveau fichier. ({e})")
+            
+    # Mise à jour des données
+    data_store["last_updated"] = datetime.now(timezone.utc).isoformat()
+    data_store["digests"][today_str] = new_digest
+    
+    # Limitation de l'historique aux 30 derniers jours
+    sorted_dates = sorted(list(data_store["digests"].keys()), reverse=True)
+    if len(sorted_dates) > 30:
+        for date_to_remove in sorted_dates[30:]:
+            del data_store["digests"][date_to_remove]
+            print(f"Suppression du digest obsolète du : {date_to_remove}")
+
+    # Enregistrement
+    try:
+        with open(DATA_FILE, "w", encoding="utf-8") as f:
+            json.dump(data_store, f, ensure_ascii=False, indent=2)
+        print(f"Base de données {DATA_FILE} mise à jour avec succès pour le {today_str}.")
+    except Exception as e:
+        print(f"Erreur lors de l'écriture dans {DATA_FILE}: {e}", file=sys.stderr)
+
+def main():
+    articles = fetch_articles()
+    if articles:
+        new_digest = generate_digest(articles)
+        if new_digest:
+            update_data_store(new_digest)
+        else:
+            print("Le digest généré est vide, aucune mise à jour effectuée.")
+    else:
+        print("Aucun article récupéré, fin du script.")
+
+if __name__ == "__main__":
+    main()
