@@ -66,14 +66,6 @@ def generate_digest(articles):
         print("Aucun article récent à traiter.")
         return []
 
-    print("Initialisation de l'API Gemini...")
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        print("Erreur : GEMINI_API_KEY n'est pas définie dans l'environnement.", file=sys.stderr)
-        sys.exit(1)
-
-    genai.configure(api_key=api_key)
-    
     # Préparation du contenu textuel des articles
     articles_formatted = []
     for idx, art in enumerate(articles):
@@ -106,7 +98,7 @@ Tâche :
 6. Estime le temps de lecture du résumé en minutes (un entier, typiquement 1 ou 2).
 7. Évalue l'importance du sujet sur une échelle de 1 à 5 (5 étant une actualité mondiale majeure ou critique).
 
-Renvoie le résultat STRICTEMENT sous la forme d'un tableau JSON d'objets, respectant le format suivant :
+Renvoie le résultat STRICTEMENT sous la forme d'un tableau JSON d'objets (pas de texte avant ou après le JSON), respectant le format suivant :
 [
   {{
     "title": "Titre accrocheur et court en français",
@@ -124,24 +116,95 @@ Articles collectés :
 {articles_text}
 """
 
-    try:
-        model = genai.GenerativeModel("gemini-2.0-flash")
-        print("Envoi des articles à Gemini pour synthèse...")
-        response = model.generate_content(
-            prompt,
-            generation_config={"response_mime_type": "application/json"}
-        )
-        
-        # Parse du JSON retourné
-        digest_data = json.loads(response.text)
-        print(f"Digest généré avec succès ! {len(digest_data)} sujets identifiés.")
-        return digest_data
-    except Exception as e:
-        print(f"Erreur lors de l'appel à l'API Gemini : {e}", file=sys.stderr)
-        # En cas d'erreur de parsing JSON de la réponse, on affiche la réponse brute pour déboguer
-        if 'response' in locals() and hasattr(response, 'text'):
-            print("Réponse brute de Gemini :", response.text, file=sys.stderr)
-        return []
+    # Détection des clés d'API disponibles
+    groq_key = os.environ.get("GROQ_API_KEY")
+    mistral_key = os.environ.get("MISTRAL_API_KEY")
+    gemini_key = os.environ.get("GEMINI_API_KEY")
+
+    if groq_key:
+        print("Utilisation de l'API Groq (Llama-3.3)...")
+        headers = {
+            "Authorization": f"Bearer {groq_key}",
+            "Content-Type": "application/json"
+        }
+        payload = {
+            "model": "llama-3.3-70b-versatile",
+            "messages": [
+                {"role": "user", "content": prompt}
+            ],
+            "temperature": 0.3,
+            "response_format": {"type": "json_object"}
+        }
+        try:
+            r = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, json=payload, timeout=45)
+            r.raise_for_status()
+            res_json = r.json()
+            raw_content = res_json["choices"][0]["message"]["content"]
+            data = json.loads(raw_content)
+            if isinstance(data, dict):
+                # Llama peut parfois enrober le tableau dans un objet
+                for v in data.values():
+                    if isinstance(v, list):
+                        data = v
+                        break
+            if isinstance(data, list):
+                print(f"Digest généré avec Groq ! {len(data)} sujets identifiés.")
+                return data
+            else:
+                print("Erreur: Le format retourné par Groq n'est pas un tableau.", file=sys.stderr)
+        except Exception as e:
+            print(f"Erreur lors de l'appel à l'API Groq : {e}", file=sys.stderr)
+
+    if mistral_key:
+        print("Utilisation de l'API Mistral (Mistral Large)...")
+        headers = {
+            "Authorization": f"Bearer {mistral_key}",
+            "Content-Type": "application/json"
+        }
+        payload = {
+            "model": "mistral-large-latest",
+            "messages": [
+                {"role": "user", "content": prompt}
+            ],
+            "temperature": 0.3,
+            "response_format": {"type": "json_object"}
+        }
+        try:
+            r = requests.post("https://api.mistral.ai/v1/chat/completions", headers=headers, json=payload, timeout=45)
+            r.raise_for_status()
+            res_json = r.json()
+            raw_content = res_json["choices"][0]["message"]["content"]
+            data = json.loads(raw_content)
+            if isinstance(data, dict):
+                for v in data.values():
+                    if isinstance(v, list):
+                        data = v
+                        break
+            if isinstance(data, list):
+                print(f"Digest généré avec Mistral ! {len(data)} sujets identifiés.")
+                return data
+            else:
+                print("Erreur: Le format retourné par Mistral n'est pas un tableau.", file=sys.stderr)
+        except Exception as e:
+            print(f"Erreur lors de l'appel à l'API Mistral : {e}", file=sys.stderr)
+
+    if gemini_key:
+        print("Utilisation de l'API Gemini...")
+        try:
+            genai.configure(api_key=gemini_key)
+            model = genai.GenerativeModel("gemini-2.0-flash")
+            response = model.generate_content(
+                prompt,
+                generation_config={"response_mime_type": "application/json"}
+            )
+            data = json.loads(response.text)
+            print(f"Digest généré avec Gemini ! {len(data)} sujets identifiés.")
+            return data
+        except Exception as e:
+            print(f"Erreur lors de l'appel à l'API Gemini : {e}", file=sys.stderr)
+
+    print("Erreur : Aucune clé d'API valide ou fonctionnelle trouvée dans l'environnement.", file=sys.stderr)
+    return []
 
 def update_data_store(new_digest):
     today_str = datetime.now().strftime("%Y-%m-%d")
