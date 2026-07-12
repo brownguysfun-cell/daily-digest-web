@@ -26,10 +26,15 @@ def fetch_articles():
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(hours=30)  # Récupère les articles des dernières 30 heures
 
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    }
+
     for source_name, feed_url in FEEDS.items():
         print(f"Récupération de la source : {source_name}...")
         try:
-            feed = feedparser.parse(feed_url)
+            response = requests.get(feed_url, headers=headers, timeout=15)
+            feed = feedparser.parse(response.text)
             count = 0
             for entry in feed.entries:
                 # Récupération de la date de publication
@@ -120,7 +125,7 @@ Articles collectés :
 """
 
     try:
-        model = genai.GenerativeModel("gemini-1.5-flash")
+        model = genai.GenerativeModel("gemini-2.0-flash")
         print("Envoi des articles à Gemini pour synthèse...")
         response = model.generate_content(
             prompt,
@@ -173,7 +178,19 @@ def update_data_store(new_digest):
     except Exception as e:
         print(f"Erreur lors de l'écriture dans {DATA_FILE}: {e}", file=sys.stderr)
 
+def load_env():
+    # Charge les variables d'environnement depuis un fichier .env s'il existe
+    env_path = os.path.join(os.path.dirname(__file__), ".env")
+    if os.path.exists(env_path):
+        with open(env_path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#") and "=" in line:
+                    key, val = line.split("=", 1)
+                    os.environ[key.strip()] = val.strip().strip('"').strip("'")
+
 def main():
+    load_env()
     articles = fetch_articles()
     if articles:
         new_digest = generate_digest(articles)
