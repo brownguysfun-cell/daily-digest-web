@@ -20,6 +20,16 @@ FEEDS = {
 
 DATA_FILE = "data.json"
 
+import re
+
+def clean_html_and_truncate(text, max_len=200):
+    if not text:
+        return ""
+    # Nettoyage des balises HTML
+    clean = re.sub(r'<[^>]*>', '', text)
+    clean = re.sub(r'\s+', ' ', clean)
+    return clean.strip()[:max_len]
+
 def fetch_articles():
     print("Début de la récupération des articles...")
     articles = []
@@ -48,8 +58,8 @@ def fetch_articles():
                 if pub_date and pub_date >= cutoff:
                     articles.append({
                         "source": source_name,
-                        "title": entry.title,
-                        "description": getattr(entry, "summary", ""),
+                        "title": clean_html_and_truncate(entry.title, 120),
+                        "description": clean_html_and_truncate(getattr(entry, "summary", ""), 200),
                         "link": entry.link,
                         "pub_date": pub_date.isoformat()
                     })
