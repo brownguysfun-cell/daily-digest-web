@@ -54,7 +54,7 @@ def fetch_articles():
                 elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
                     pub_date = datetime.fromtimestamp(calendar.timegm(entry.updated_parsed), tz=timezone.utc)
                 
-                # Filtrage temporel et limitation à 12 articles par source
+                # Filtrage temporel et limitation à 5 articles par source
                 if pub_date and pub_date >= cutoff:
                     articles.append({
                         "source": source_name,
@@ -64,7 +64,7 @@ def fetch_articles():
                         "pub_date": pub_date.isoformat()
                     })
                     count += 1
-                    if count >= 12:
+                    if count >= 5:
                         break
             print(f"-> {count} articles récupérés de {source_name}")
         except Exception as e:
