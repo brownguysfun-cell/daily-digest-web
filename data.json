@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T09:09:38.503577+00:00",
+  "last_updated": "2026-07-13T13:40:52.093294+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -162,6 +162,111 @@
         ],
         "reading_time": 2,
         "importance": 3
+      }
+    ],
+    "2026-07-13": [
+      {
+        "title": "Incendie en forêt de Fontainebleau",
+        "summary": "Un incendie a ravagé plus de 800 hectares de la forêt de Fontainebleau, nécessitant l'intervention de deux avions bombardiers d'eau. Le ministre de l'intérieur, Laurent Nuñez, est sur les lieux.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeWZjU2dWdllkY3hDZHZ1anVZaDQ1a0ZXN1pPQkh2QXFvUlhodDhCMlR3djFMY2JNaU5jV3RHVF9ORjRLVWZGeDd4V2tIMWNHUllxZ2N3ekJVd1p1MGg5OUlrV0hpekdpcWp4NWtqYVNpbHBjeEdscmdBMEg5MXZKemxvVU1GZzljVm1GMlVCUmxNTERmQVhuQWtsNkN1SllLME1UR3luSGxjRW5mUFZoZ3NuMVB6V3ZvVWRpTmZLVURTT0paT3VnM1BXN1hwRVR4T3hzb3JSRkFLYkZfVUR1LWlqSWxjbUU2M1d0YjFEckNsM2xSVTIyS1c4SWVBWVNjN2xDcHVHUUw?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Diplomatie américaine face à la reprise des hostilités au Moyen-Orient",
+        "summary": "La diplomatie américaine est impuissante face à la reprise des hostilités entre l'Iran et les États-Unis. Les frappes aériennes américaines ont visé des cibles iraniennes.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/07/13/la-diplomatie-americaine-impuissante-face-a-la-reprise-des-hostilites-entre-l-iran-et-les-etats-unis_6723050_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Décès de Sam Neill",
+        "summary": "L'acteur néo-zélandais Sam Neill, célèbre pour son rôle dans « Jurassic Park », est décédé à l'âge de 78 ans.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/disparitions/article/2026/07/13/sam-neill-celebre-pour-son-role-dans-jurassic-park-est-mort_6723059_3382.html"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-tributes"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Essais de traitement contre Ebola en République démocratique du Congo",
+        "summary": "Les premiers patients ont été inscrits dans un essai de traitement contre Ebola en République démocratique du Congo, avec l'espoir de réduire les taux de mortalité.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Incendie dans un bar à Bangkok",
+        "summary": "Un incendie dans un bar à Bangkok a fait au moins 27 morts et 22 blessés graves. Il s'agit de l'un des incendies les plus meurtriers dans la ville ces dernières années.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeW5VZGpiZHM0VldSQ2FVRl9FVlBncFZtanVpRTNzRVBjSmRIelQ4QTZUQ0h0dEp4eFF0anFnZHh0ck1PbXZzdnBmcDhINmUyUGpIZllYOXV1OFBIbDQ3QzM5aWM4RE9BcG1hbF9McG9xNmJNNzV2d2h5ZHZ6alNNRXZhdUpOSFlGZEZVbmRuVWFRZXB3UDl1YkUtekd2Rm9Hbkd1b2s0em5rTjA3VHpWYw?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Investissement d'Intel en Irlande",
+        "summary": "Intel a annoncé un investissement de 5,7 milliards de dollars en Irlande, principalement dans le domaine de l'intelligence artificielle.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUpmMER1MXFvS29zY1R4cWY5N3pGQkR0bnFYeVFuY0NCWkFMWXBCQlBLWFh3Vk5VVDkwaTlwMWtxQm1jTG9MY0dRSVA4R2VmVmtxZ1o2eXlUVGl4Q1EwUjBwdjRlSWEtZW1TQVRUVkRYemJHWXYyamQwVmxHWUotVzhlRDltRXBLZURpdDhSYmM1ZmZYUVljcEtCSHo0c2szblRQQ0RDdThoT2NLZFdEREpjbVI?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Rallye boursier d'Apple",
+        "summary": "Apple a connu une rallie boursière de 600 milliards de dollars, en partie due à la fuite des investisseurs de l'effondrement du marché de l'intelligence artificielle.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0lpbllQOU44UXlKVGFYQjRLa3F5MFlxV0FZRUNvUUlBTTBsMVhvc3RjNVpfZ001My0xTEVNSXVoU1EtVjJYZnUxcGdTS2hQMEo2YURKSWhoTC1LaFJEWkk4UTZIWllaQVF0bzhBSk1OWHZRUW5yYTVUdXBOOG4xUUo1blpBYmxhSnZzRHgwZlE5YXBvMVo3S294ak9ZNGhBNGN1dFQ5OEtyNXdaSlBoLTFoZw?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
       }
     ]
   }
