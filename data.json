@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T13:40:52.093294+00:00",
+  "last_updated": "2026-07-14T11:13:02.405970+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -267,6 +267,220 @@
         ],
         "reading_time": 2,
         "importance": 4
+      }
+    ],
+    "2026-07-14": [
+      {
+        "title": "Défilé du 14-Juillet à Paris",
+        "summary": "Le président Emmanuel Macron a passé en revue les troupes le long des Champs-Élysées pour son dernier défilé. Le défilé était placé sous le signe du « réveil stratégique de l’Europe ».",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/politique/live/2026/07/14/en-direct-14-juillet-suivez-le-dernier-defile-d-emmanuel-macron-dans-un-contexte-de-rearmement-europeen-et-sous-le-signe-du-soutien-a-l-ukraine_6723269_823448.html"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "Incendie de la forêt de Fontainebleau",
+        "summary": "Un incendie a ravagé la forêt de Fontainebleau, avec plus de 1 900 hectares déjà parcourus par le feu. Des Canadair et des hélicoptères bombardiers d’eau ont été engagés pour lutter contre l’incendie.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/article/2026/07/14/a-fontainebleau-plus-les-heures-passent-plus-ca-devient-irreel-de-se-dire-que-la-foret-est-en-flammes_6723244_3244.html"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeFRpUlZLUmVQVTQzWU4zbzFlbzlQN3pOemhXOTV3eEtBenpZR3o2STdWWFdvZVY0a1g0bHhHNVlsUDZHUl83dGptOTJEWkt1djBTbldLdUxpUzBPZEdBNzVFWlRLVGtAVjNOXzBFVjNDRUhDaDY2OGtkbFVHVkh6MWVZYW5odE40ZU9fT3dMWGhzaURvV181ZUJIX0E2MnlZb1R1ZjlQOW9IeDJYTlktdnptYUJDSWFtNm1qdG5qbnQwUTlW"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Guerre au Moyen-Orient",
+        "summary": "Un pétrolier a été touché par un missile au large d’Oman, selon l’agence de sécurité maritime. Le commandement américain pour le Moyen-Orient a annoncé avoir lancé une nouvelle salve de frappes contre l’Iran.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/14/en-direct-guerre-au-moyen-orient-les-etats-unis-disent-avoir-lance-une-nouvelle-salve-de-frappes-contre-l-iran-donald-trump-estime-qu-un-accord-est-encore-possible_6722873_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "DP World, une puissance portuaire et logistique",
+        "summary": "DP World, une entreprise majoritairement détenue par le gouvernement de Dubaï, est présente dans 75 pays et est le bras armé des Émirats arabes unis en matière de ports et de logistique.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/economie/article/2026/07/14/dp-world-l-entreprise-qui-a-fait-des-emirats-arabes-unis-une-puissance-portuaire-et-logistique_6723274_3234.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Coupe du monde 2026",
+        "summary": "La France affrontera l’Espagne en demi-finales de la Coupe du monde 2026. Les Bleus rencontrent un adversaire à leur mesure pour la première fois depuis le début du Mondial.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/sport/article/2026/07/14/france-espagne-des-retrouvailles-pour-une-affiche-aux-airs-de-finale-avant-l-heure-dans-la-coupe-du-monde-2026_6723262_3242.html"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Tensions au Moyen-Orient",
+        "summary": "Le Liban et Israël ont entamé des pourparlers à Rome pour mettre en œuvre un accord-cadre. Les États-Unis ont annoncé avoir lancé une nouvelle salve de frappes contre l’Iran.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVVXQVlKRGllTXBnSWpyQXlJUTZBOFl1Y1FjRE12cjc3MFZKeXRENlJXTlVuRGg1dXB3cGxSa2I1V1EwcHFxaHk5ZEo5anp0NjhuNE5NR0I2eG5Sc0xnb2p4dDZycF9rUVRVdGxPQWFYMlNGT1hLakh2MEh6dElLQU96bDN3WHhsbjF5V3UzcENhWXlSZ21pWWdkSlhjdklPWENzaFBsR2pPcGk3LV93aWVQNnEzRVE"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Morts au Kenya",
+        "summary": "Trois hommes ont été tués dans des incidents impliquant des gardes de sécurité de G4S sur une ferme de Del Monte au Kenya. Les familles des victimes et des politiciens ont exprimé leur indignation.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Colère au Venezuela",
+        "summary": "La colère grandit au Venezuela en raison de la lenteur de la réponse aux conséquences du séisme. Les autorités sont critiquées pour leur manque de réactivité face à la crise.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Tensions entre le Mexique et les États-Unis",
+        "summary": "Le Mexique va déposer des plaintes pénales contre les États-Unis après la mort de migrants tués par des agents de l’ICE. Le gouvernement mexicain est outragé par ces événements.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Exportations chinoises de voitures",
+        "summary": "Les exportations de voitures de Chine ont atteint un million pour la première fois. Le pays risque de nouvelles taxes de la part des États-Unis et de l’Union européenne.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/2026/jul/14/china-car-exports-june-trade-us-eu-trump-tariffs"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Incendie dans un bar à Bangkok",
+        "summary": "Un incendie dans un bar à Bangkok a fait 30 morts. La police enquête sur les causes de l’incendie et sur la possibilité de négligence.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Entretien avec Volodymyr Zelensky",
+        "summary": "Le président ukrainien Volodymyr Zelensky a accordé un entretien à BFMTV. Il a parlé de la défense européenne et de la situation en Ukraine.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQWnFLVGpVNWFINmVkZE9MZzI4Z3lEa1dGRTdaQ2Ywc0x0TXNHcDZUMU1CdGVxa3FTMDFrV081dVJBLTFtSmpVYTZuMlVRRUlUWHdrcjlMcm9vdDY0QlRlbmk2QkJqYjVzbDlKMEctZ3lZN0tvWFpuclVYUDBXOHBldUd2QW9HTmlIRGJTUzhQUVBiMlhqTlNfRXIweTAyRnVUZWlRd1drZzItMEZpWGhMWHBOazJqaEh1emhxY3dnOXM3ZmdaN2RSSFlJWkZSUXRXUGp5cFg1N3oxekcyYTl3U2Nic2RBMENKdzVCY19PeGFKLWhZQTRuNUxpV3NQTFExbE9WZXRmdDdHRkJmOVhCaWp5TWhhblUzcXBBM2pWUXg"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Interpellations pour incendies",
+        "summary": "59 personnes ont été interpellées en France pour des incendies, dont 2 pour l’incendie de la forêt de Fontainebleau.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOVFBqSDh5ektnRDNRajd1bENVT2Z5TVhhaFdObTJvaUtXSGRWRkhNV2ZISjNvSXNPazkyMDk2cDRMcE1HbFJFcmNKa0dxTloxdzdBTDJoXzU1MEdFSlVnVFl6YngzeTl2dzVfbnFCRF9tTTJNdGp2Vjhfc3F2X215alNQbjlmTTRvbEFscmwwTEN2Y1BXRDRHNVlFNzlSQWlXc0V6bGJMUDZNYUNMbFZEc3l2RWQzTGN0dlV3Z3pYZG83NDduNFVQLW54X3loRS1xOXNvY1RCX052bUU3aEhzdGpUcmZJWTVxZE5rTm5odjhrUF9tQjFvRUExY0t3X0JpbXZfYXFILUtUZ0FSTGs4R3FBbWp2ZDI5TV9mb19HWlRxZkVhYl80UnJkVkpEUQ"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Campagne cyber russe",
+        "summary": "La France va convoquer l’ambassadeur de Russie après une vaste campagne cyber attribuée à la Russie.",
+        "category": "Cybersécurité & IA",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU3FpWVNFRVZBckRsNlQxRWMxOF85Q2FOUnFCUFZpM2dGU2JIcUZuNzFVcUtiYmpxZE1RTS12Qk05dkctbFNKUUlVRTRMZnY3YU1IOXdWM2gtMnYtbnI5OHczY01Dd1lCZFdPa3RsWkprN1BhV3lYQVBUdjJIWDloSk9GZjdFR2hTdVgyZnl0Z05idXZlNk5IT1BBNVFRX0RaUWdqa2hYbFpreEtMU3h2ZzRIMWppX3FVWlRHTk5IcnVjcGthaEo3ZjVETUNNUzc0WWJDTG1vYUM2TG9BNl9uREh2MlU"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Moratoire sur les data centers à New York",
+        "summary": "L’État de New York est le premier à imposer un moratoire sur les data centers en raison de leur impact environnemental.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1VqV09jX0hhZXQxRXpwaGRHbnY1SmdGT1RMYVEyM1pBaWtyNlBoaTBKYWpCRlMyWHQzMFVCUTFyakRMaDlhTkJpWUtMQThfeFlPQml2RHRUbVJTQmVWMjRvb2w5al9CeW1iQzJ5dkVLUlJHaWZMcXNRbUxZSGdIX2VrZkhKSWplczI1Rlc5d1puZng2Mkc3SXdYM2VYUER4Vnc"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Investisseurs mondiaux",
+        "summary": "Les investisseurs mondiaux sont devenus les plus optimistes depuis février, selon un sondage de la Bank of America.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0syUTRmeTBwZUxyX1E0eWxuZlBhRzJaeHp5bTJHYmhDRXdSTjI4aGxoNFBoVENYa1hTd0ozOXF0TVRaRTVGTmNsR3VXVHlqNjlNbjFkZHJFbWdYRDlmbUtobVU0QnZ6LW54V1pnLTcyRXRJUkVIelRvV0ltcmViNkdPcWlhMU5lV2FNd2NzckZzNmtwVVFyQ2ExNjhSWlpTdUEyWU1tZTlfTnNfSTE3cTllUHctSnhRVkVZR0R4aw"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
       }
     ]
   }
