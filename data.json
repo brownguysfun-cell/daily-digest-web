@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T11:13:02.405970+00:00",
+  "last_updated": "2026-07-15T11:17:28.076322+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -481,6 +481,206 @@
         ],
         "reading_time": 1,
         "importance": 2
+      }
+    ],
+    "2026-07-15": [
+      {
+        "title": "Défaite de l'équipe de France en demi-finale de la Coupe du monde",
+        "summary": "La défaite de l'équipe de France en demi-finale de la Coupe du monde a déçu les supporters. Les incidents ont éclaté à Paris et à Lyon, avec une centaine d'interpellations.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/sport/article/2026/07/15/c-est-pas-grave-mon-bonhomme-le-foot-c-est-pas-grave-les-fans-tricolores-resignes-apres-la-defaite-de-la-france-en-demi-finales-de-la-coupe-du-monde_6723518_3242.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPeVc3TG1FNmdtdmRkSVUxUFJ4bkdjejQtUkpFcW5iRnNGM25ZeXRDZk5jQ0I1M1U0T1lkcEdfVmhwbFZycmt2OVVzR3R1dGl1NWR0ZE1FajhuVXBWY3BSUWkwMnNGRG9EeUs0QnhHLWZWYnBSUjdGUHM1dDAtTEh4c0t3RjFYZVhUZmNwZFBUekI2Y3pzVktpQ1RfeWJERHBLd24zYmF2eHdwREZQTU9IRmtobV9SanBLdTFnajlzNnVleWR0YkE3NG9KQzBHQldXbnFkQTQzdTBfWjF3bHZKZk0zSHBlX2J1MjRPTFMxZGZ3X3M5N3B3Nlh2M1JZenJ1Z0lnNERBSm9waV9kM3BsRGNkeXVWYzBFS3huU2RfbmI?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Aide à mourir : le long cheminement d'Emmanuel Macron",
+        "summary": "Emmanuel Macron a finalement décidé de légiférer sur l'aide à mourir, après avoir longtemps hésité. Cette décision intervient après des débats intenses et des pressions de la part de différents groupes.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/politique/article/2026/07/15/fin-de-vie-l-aide-a-mourir-un-long-cheminement-pour-emmanuel-macron_6723495_823448.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Guerre au Moyen-Orient : nouvelles frappes américaines contre l'Iran",
+        "summary": "De nouvelles frappes américaines ont été signalées contre l'Iran, dans le contexte de la guerre au Moyen-Orient. Les tensions entre les États-Unis et l'Iran restent vives.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-au-moyen-orient-le-detroit-d-ormuz-restera-ferme-jusqu-a-la-fin-des-actes-d-agression-des-etats-unis-dit-l-iran_6722873_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Incendies en France : les feux de la forêt de Fontainebleau sont fixés mais pas éteints",
+        "summary": "Les incendies en France, notamment dans la forêt de Fontainebleau, restent une préoccupation majeure. Les feux sont fixés mais pas encore éteints.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/live/2026/07/15/en-direct-incendies-les-deux-feux-de-la-foret-de-fontainebleau-sont-fixes-mais-pas-eteints_6723261_3244.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdG96VkJJSjlmZ2NTcWN2V2NGc2kxQXJfM0t0LWRYQ1dKOHJUMGJ4SUk4YUp0OFZuRGQwYTQ3X3Vqc1Z5WXgySUk4aDZaRnpQWFN2b0dMMlpCd0lkd1owSE02VWxyX2pXaEwzTE1DdlpQVlQ3RkxYOXBjN2o5TmVOWFBtSE1fb0pTQWdYQXVkNmt1VExWSkV4aHM2OHRJQ2pjMWczVUtXakd5ZjkzZ0NzWHZxVkluQ2E4UWFsSU81S2ZIWk5JRFhuY3M3NFF6UEgyb0VGeWp4MWp4OHBOamI2ZjE5OA?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Ebola : un nouveau cas aux États-Unis",
+        "summary": "Un nouveau cas d'Ebola a été signalé aux États-Unis, ce qui suscite des inquiétudes quant à la propagation de la maladie.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "Épave des navires de Shackleton et Scott en 3D",
+        "summary": "Les épaves des navires de Shackleton et Scott ont été reconstituées en 3D, offrant une nouvelle perspective sur ces expéditions historiques.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/science/2026/jul/15/deep-sea-expedition-builds-digital-twins-shipwrecks-scott-shackleton"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Chipotle ouvre un restaurant au Mexique",
+        "summary": "La chaîne de restaurants Chipotle a ouvert un établissement au Mexique, ce qui a suscité des réactions mitigées.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/14/derision-at-us-chain-chipotles-plan-to-sell-its-mexican-food-in-mexico"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Séisme au Venezuela : colère contre les autorités",
+        "summary": "Le séisme au Venezuela a provoqué de la colère contre les autorités, qui sont accusées de ne pas avoir fourni suffisamment d'aide aux victimes.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Croissance économique de la Chine en berne",
+        "summary": "La croissance économique de la Chine a ralenti, ce qui suscite des inquiétudes quant à l'impact sur l'économie mondiale.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHVTVEVvdlNTZWdrTlhvc2JVbVIyMEZLYWw3ckoxeThtQzhEZEtCZnRxTUhUWVc1TVZjdUtNTTNJbGxvcEpGbUFXV2E2ZWxsR25abVJNUEtNMXBVVkw0TmxYQ3dwTkFLdzBXc0laUktxN1BJcXJSbVBGaFRrT2pNQkVySkdsdWZmdHFHUDRvYmlMaEZfN2pBZUJST0htWEhqYWp5MWJiY2p0ZWYtQ1huZGZB?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Apple enregistre son service d'intelligence artificielle en Chine",
+        "summary": "Apple a enregistré son service d'intelligence artificielle en Chine, ce qui marque une étape importante dans la stratégie de l'entreprise sur le marché chinois.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdXhJVXVnNzlEYTBUN3BZOHg5cUlhVVVIcUZaMHVCc3Ixa3puV1AzVTExY3Z6V2NEXzdJOU9NNl9ZLWVLbGQ1b0xoZWI3RXFRNVltVEE2T29ONUhlSGcxMEJKRkFVUV95MkVXRUpMRUpyQU5JSlZ5cVZpWlh1MDJHckNpMDRMYnFtbktoYUpIdU9CaGRJRkdkeVVzdml6QnJoalQ0R3NrTV9SZXc4dndSaDBRRndzWjNKb24tSQ?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "La Lituanie accuse la Russie de planifier des attaques contre son infrastructure",
+        "summary": "La Lituanie a accusé la Russie de planifier des attaques contre son infrastructure, ce qui a suscité des inquiétudes quant à la sécurité régionale.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOckxRLXBWMlR0SjFYZVJlQlpkMmsySS1HQ3o0NS1YZlRuYTB2Ny1EQ05UM1NXeHBjSV90UlZnZW8yTkdvM1k2ZHlxcnhoNXhLbThzdFJXWkEwQUNlXzhDS3BhQUItSmItdlV0M0FueTF6WEpFMzRXQXdoYTlCdXlhUmNrN2hPalN0Y3RVdGxlUnpnNzZDWDAtczhCN0lQeVU?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "La Chine se tourne vers les taxis électriques pour atténuer le choc pétrolier",
+        "summary": "La Chine a décidé de promouvoir les taxis électriques pour atténuer les effets du choc pétrolier, dans le contexte de la crise énergétique actuelle.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQazduaE1oajJiQ1RMcHZaMko1YzZXaG1XRXFSYzNfYlFmVXlOUGJrTGlzV2R6X3VBMXd1bDVZTkFueTJBUjM5U1JGUTNhLXhhUGZCRXhWMUM1ZEZGZExTd0pOVHdwc05HXzJONlF0RUhIZEhYMTFra04zbVZpRmtXSmlXMERWemZwOGozRVFoR2xsNWh1aFFIa09zdk1VX25ueDlNbzk5a28ycjI0UU1zbG1kVjAtZDg?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Fuite de données au sujet de la centrale nucléaire de Kudankulam",
+        "summary": "Une fuite de données a eu lieu au sujet de la centrale nucléaire de Kudankulam, ce qui a suscité des inquiétudes quant à la sécurité de l'installation.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORkMzazNjc1U0Uk5pTUJ2bTBxaVl5UTR6VzZXSGpTY29VVXNSTzZvSG5KVEhJSGctWGZGelh0R0ZiV1YyUVRXSHZ1al9jNG5mNkhZa1dQVjY4Nm1MTW9HZjRkRDg1anU3YS05VG4wbmhvVnB1b29wU1BoVEtrWHhSaU1lTHBZVWJER3RnOUFLdGwxbUo5dXdGcGRBMVVnU1daaU1nNDhsQ200c1JHcjJfeWVSNDU5a1JVaG9KOHE3NXFlVko1N1NR?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "ASML augmente sa capacité de production pour répondre à la demande d'AI",
+        "summary": "ASML a décidé d'augmenter sa capacité de production pour répondre à la demande croissante de puces pour l'intelligence artificielle.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzZLbXpRNUdRRjYtV203dG1SS1l6U29PMFZGelkzMVV3Mm1tSXI4ak90clF2Q0EwMW5sV1ptV2JURmVSRzYtMUZjenlvLWNuQklqZ2FDX1EzUWR1ZWI0bkZYcXVrbXNTZHdPZS1sNmthTlpOTHNpMkMxc1FfSUR1NEplT3l5Nk84Z3c?oc=5"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM3FuX2pJaXEyc2l6RGFadnNQRzg1dDVRdGZCaWRoUVo2Mk96cnRDeVlQclVuS2tNQ245alRDdTFqanJxYmVrYUVNd3VsVHlvS0JLQ19vLXFzUHpnRlQ4MkhsU2dIWkE1UVVsTlBHT21TS3laTXR4ZndDZGszdEdMcDVEbE1ESThBWElreUF2S0ZKTHpmeldabVQ1QXJNMmJFSk9oMGlzamZjSWJabm8xcXZXeUY?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
       }
     ]
   }
