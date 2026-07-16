@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T11:17:28.076322+00:00",
+  "last_updated": "2026-07-16T11:56:06.435839+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -680,6 +680,137 @@
           }
         ],
         "reading_time": 1,
+        "importance": 3
+      }
+    ],
+    "2026-07-16": [
+      {
+        "title": "Guerre en Ukraine : les manifestations contre le remplacement de Fedorov",
+        "summary": "Des manifestations ont eu lieu en Ukraine contre le remplacement imminent de M. Fedorov, ministre des Technologies et de la Communication. Les manifestations ont été organisées à la veille de l'examen par le Parlement d'un remaniement gouvernemental.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-l-aiea-deplore-la-mort-de-l-ingenieur-en-chef-de-la-centrale-nucleaire-de-zaporijia_6722853_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Utilisation du logiciel espion Pegasus par le Maroc",
+        "summary": "De nouvelles preuves démontrent que le Maroc a utilisé le logiciel espion Pegasus, malgré les dénégations du royaume chérifien. Un ancien membre des services de renseignement marocains a révélé l'utilisation de ce logiciel.",
+        "category": "Cybersécurité & IA",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/pixels/article/2026/07/16/de-nouvelles-preuves-demontrent-que-le-maroc-a-utilise-le-logiciel-espion-pegasus_6723736_4408996.html"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Incendies en France : les dernières actualités",
+        "summary": "Des incendies ont éclaté en France, notamment à Fontainebleau. Les autorités ont mis en examen et placé en détention provisoire deux hommes soupçonnés d'avoir déclenché un feu de forêt.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/live/2026/07/16/en-direct-incendies-emmanuel-macron-se-rend-a-fontainebleau-foret-emblematique-en-partie-detruite-par-les-flammes_6723261_3244.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPX2JXMTN5TXhmSF8zQWhEd29fVkMteXBMOGN1RUFZTmVNYkhWWVFWQjE5N05MYTU3LWtpY3FUam1OSGU1QTFJU0g1QUVWT1NESjZjTUpRMUZFVk03bWJTVGNWdFFaVWRxQzZRd3Vua21HT3FBc3VlQ3VEVEFxcjhyLXl3M3Y2ZjFHcy1TN1dxaWRZRHltYVNvR0NRb0N5VEd2cDFaekZSeUVBaHdhTlhoZ2NqWmJHeVgxTHhzZGVCbTRQQVNVX3pDZXlROHFWMVNmbE5BZGZkcHZWajB1aHpUeGVJVm1makNfNllWWExXa2xXNFI0TGg4bWZZbW5WZWhwRUFfN0xjNWI0XzlPS2JiMTlB"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Ebola en Ouganda : les dernières actualités",
+        "summary": "L'Ouganda a commencé un comptage de 42 jours pour déclarer officiellement la fin de l'épidémie d'Ebola. Le pays a également demandé aux autres pays de lever les restrictions de voyage.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Inondations en Afrique de l'Ouest : les conséquences du réchauffement climatique",
+        "summary": "Les inondations en Afrique de l'Ouest sont aggravées par le réchauffement climatique. Les scientifiques mettent en garde contre les conséquences de ce phénomène.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Guerre au Moyen-Orient : les tensions entre l'Iran et les États-Unis",
+        "summary": "Les tensions entre l'Iran et les États-Unis se sont aggravées après que les États-Unis ont mené de nouvelles frappes contre l'Iran. L'Iran a menacé de réduire à néant des infrastructures de la région si les siennes sont touchées.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-lance-de-nouvelles-frappes-contre-l-iran-teheran-cible-des-installations-americaines-en-jordanie_6722873_3210.html"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGxQSEpXZmFYRldBSGhRcTZWZlBvbUFOZFJDeVoxdXVZczVtY2w1TlhqSnhFaGxsSWlINnBKbDZhNi1mT0Q1anJRTjM0Z0toaVg3QXhMcmkyZlBQRTZ1cVZvbmhZSmU4WDU4NGdnN3FJZGRzbnYzdm0zQUVxWjNUZ1dTZHlwMTA0VTNhbUg0UHVxZmFLUlVtSmVfeHZCb0tfWEE"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Incendie dans un orphelinat en Algérie : 11 morts et 19 blessés",
+        "summary": "Un incendie a éclaté dans un orphelinat en Algérie, faisant 11 morts et 19 blessés. Les causes de l'incendie sont encore inconnues.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXFJaF9YblFGOEZ1ZkhXTjJJaFJQdDZhbVZTTERLV2FkUnBsMFNEcFl4RHNGVUh6MUVPRHJ0TU9TSTNtVlJlVEk4b3pNMFZ5M3FNRjZwM0w0bFBOM2NzdG5wZGJLemxPVEk4YkpVYUQ4QU9iODRtcUJ3R3A4SDJkelkxTXU4bGdhdFRWUGFSelhVcWZOWFdwdC1lY2c1blBiSFNqWl9yZkRhT0pf"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Amendes contre Google en Italie : la cour de l'UE confirme la décision",
+        "summary": "La cour de l'UE a confirmé la décision de condamner Google à une amende de 854 250 euros pour publicité de jeux de hasard en Italie.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGJKT243LWdLT3pLMU8yOGVPRkxtOHJCb09COEFxWnhWdGZ3ejF5ampMTTBMZGtQcjZFcEhzRkZTT1RlUk5zakxDNTJCS19VcTR5TmE1X2otZGx4WU9JMXgwZkloXzhEb0dQSDlmcFRsOTVXeTlLMUVIMmtFYUtrbHNuZG1UYUVvZ19CN1JyMVlLd3RpVXRnY0ZjemNuYzRCWE5jV29ITFdOTzh2SWF5SU1B"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Uber rachète Delivery Hero : les détails de l'opération",
+        "summary": "Uber a annoncé son intention de racheter Delivery Hero, une entreprise de livraison de nourriture. L'opération vise à consolider le secteur de la livraison de nourriture.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWZSN3FUT3dZUFJoLWQxUGxCSHhiTThJeGtiLXdoZDZWZHhGWWl6d1dZc2ROczh5a0loNXdhcERlaWxMM3BBTEV5Tm81bThrWXNpYkdYaS0zVl9tU3RTNUV2TFI5dGl6dG5Lc1FPVzdSQnBxTTljVkpaVkFkTkFSUTJRbDJOQmc5U2l2T3ZTRUxJbnIta2RoaHdUODZKYVg4SzJfajZsSURQQ1hUbkg4WA"
+          }
+        ],
+        "reading_time": 2,
         "importance": 3
       }
     ]
