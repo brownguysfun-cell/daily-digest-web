@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T11:56:06.435839+00:00",
+  "last_updated": "2026-07-17T11:10:10.241376+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -812,6 +812,203 @@
         ],
         "reading_time": 2,
         "importance": 3
+      }
+    ],
+    "2026-07-17": [
+      {
+        "title": "Crise politique en Ukraine",
+        "summary": "Le président ukrainien Volodymyr Zelensky a provoqué une crise politique en choisissant de trancher en faveur du commandant en chef des forces armées contre le ministre de la défense. Cette décision a suscité de nombreuses manifestations.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/07/17/en-ukraine-apres-son-remaniement-volodymyr-zelensky-passe-outre-les-manifestants_6724085_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Discours de Donald Trump",
+        "summary": "Le président américain Donald Trump a livré un discours aux accents complotistes sur la vulnérabilité du système électoral américain et a accusé la Chine d'ingérence.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/07/17/donald-trump-livre-un-discours-aux-accents-complotistes-sur-la-vulnerabilite-du-systeme-electoral-americain-et-accuse-la-chine-d-ingerence_6724151_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Incendie de la forêt de Fontainebleau",
+        "summary": "Un incendie a ravagé la forêt de Fontainebleau, suscitant une profonde tristesse parmi les naturalistes et les amoureux du massif.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/article/2026/07/17/au-dela-des-dommages-faits-a-la-foret-le-feu-de-fontainebleau-suscite-une-profonde-tristesse_6724121_3244.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Guerre au Moyen-Orient",
+        "summary": "Les attaques américaines en Iran ont fait huit morts et 20 blessés, tandis que Téhéran a affirmé avoir frappé des radars américains à Oman et la base militaire d'Al-Tanf en Syrie.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-les-attaques-americaines-de-la-nuit-en-iran-ont-fait-huit-morts-et-20-blesses_6722873_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Présidentielle 2027",
+        "summary": "Les ministres LR cherchent leur place dans la prochaine élection présidentielle, entre fidélité à leur parti et tentation Edouard Philippe.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/politique/article/2026/07/17/presidentielle-2027-entre-une-fidelite-contrariee-a-leur-parti-et-la-tentation-edouard-philippe-les-ministres-lr-cherchent-leur-place_6724083_823448.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Aide au développement",
+        "summary": "Les coupes dans l'aide au développement du Royaume-Uni ont réduit le soutien bilatéral à certains pays africains de 90%.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Épidémie d'Ebola",
+        "summary": "L'Ouganda a demandé aux pays de lever les restrictions de voyage après la sortie du dernier patient atteint d'Ebola.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Qualité de l'air",
+        "summary": "La qualité de l'air a plongé dans 20 États américains en raison de la fumée des incendies de forêt canadiens.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Détention d'un blogueur russe",
+        "summary": "Un blogueur russe qui critiquait Poutine et la guerre a été détenu, selon TASS.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmFWUnd1OE9XanVTTXVmVldpM09tMVk5WWRVSGVGRUtma3lvT1NrMlNxUDBjT0xjVEVoejFHVVowOGQxdW0tY0hvMFA1ajZhbWZSbW4wRVlkb1pKaFpXekVmb2JJcllLSDA3LVdWQnlNc1gwdHhsMGNLMm45WUxIeHJPTkpJX2hIMVQ2dG1ieGxBQnVVdHExYTdlZlduUmw2bDJqbXZERlZIRVE4OFRHVXd3Rkt1VWpOa3hSRw?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Orages en France",
+        "summary": "Deux personnes sont mortes après des orages violents en France, laissant 53 000 personnes sans électricité.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSWlrOGJYV25ZOF9ZLVZ3bHl3ZVJ6ek9tWVlTWm9uX3ZwM1R3NlNjQTFmNTdYbUtVa2hnbHFJUVlTb0tpenVPTjJFaFRMbHNGVmJEQ3MtTGd4RzR6YTBEQ0c5WHlGZjM4UXFYcW1SNnQ1Rm91LXN2dU1ORGtVUUsycENDQjVhalZFODBvV0tTNVREbThwNWpnbVBSa3NGalpVV21tX0RLM2xZZFBYMEtmWEswNmxtbDA5Z1dwbA?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Marchés financiers",
+        "summary": "Les marchés financiers sont inquiets en raison de la vente de titres technologiques, ce qui a entraîné une chute des futures des indices boursiers américains.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHNPTWw4ZnU2LXdWc3N1Qmh0Y0Z2OG9JeG12TDA5dDktTHVQcUZZdnJiUTYxc3kyRWpqUDNfWi1BcTZuUFhERDJlTkdEQVdoeTEzOHJfZzlxTzdhZzUxNktCOVVheGpCQk4ycWN6MTJld25zZU9WUWJmVy00WWNDUUUxX0F1TUJEQ0cycndmQmFNY0VHUUJBM3ZKeXdRV1RXZms2TTlZVGtSQ0dEZVdrYg?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Tensions entre les États-Unis et l'Iran",
+        "summary": "Les craintes d'une escalade entre les États-Unis et l'Iran grandissent après six jours de conflits.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdEpwT1g2TVJSeVVhQkwzWWF0Z1k1VG5VdV8tcWtFR21Kdjd5MzJwbjV0djlyT1RRUGNkU3B2bXBOem9aTlNLY0dRNjNsUDFmQ0I3aE9yMTZMLVVDODVvaW0wU1lQQUtfSERPS29IX1Qzc2l6blExSDFfNnRhUER3YXMtMENNMG1jQ2VCWU9yN3B6YVpJNXlObTVDMTRYZnBBVXd1bXNiSTI5RlMyZ0RyN0RmX25qZw?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Progrès de l'IA en Chine",
+        "summary": "La Chine a développé un nouveau modèle d'IA qui ferme l'écart avec les rivaux américains.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmpiSkRuZWF2alRmVDB6RXpnWHdyaG1USU1wV3JiZDJSVVZmQldlOThRZzBBRzhvbExKbmc4SldOVk9BdThzRnlNQmxiU0Y2eUVYRi0tV0ZUdE9nbnVLb1UtOE9veTZPTWZ1amxKdHU1a0d4TDFBTHJ2Y2EzMkw4c183bzhVUGNTR1Y1YlFyYzdQZjZRbXJHamh3R3ZvbjdjaC1mYzNLM0dwUDJQUG9lVnB6RV9EQQ?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Conseils boursiers",
+        "summary": "Michael Burry pense que c'est un bon moment pour acheter des actions à Hong Kong à bas prix.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTMwN1dOQkFmNF9YWjVKVFFtcWtHbm5OdFNOTkdjV3M5Q3dNN1RQekFKaVo2RmxQM25vdVA5amN3c0ZTZXc3bUZ5RWxhOXU5LVFOYnY3cWRydXFPUTZHTGxFSmVFdVV5WmE0Q3lpSGFVeEQ5NlVUanBpNzBocVhteVM2SEZPWDdTMW9ZU1N6cTZNNXV4WHFRekFIaXY1VDdVa3hUaWtSekpkUGpWZFQxdzlrTQ?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Première entreprise d'IA chinoise à un milliard de dollars de chiffre d'affaires",
+        "summary": "Z.AI devrait être la première entreprise d'IA chinoise à atteindre un milliard de dollars de chiffre d'affaires annuel.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY3Z0ZUdwd254enlUUUNKMFJYY2sxVGl1aF9UV28tQ0Y0b1c2WG9jRmxNWmhtQVQ3bG5ybW5FV3poS25uVkYwNE5WN0FFNWVHLWlVYzMwZzM0YUFhSzF3S0tXVGthZ21sRHVGdXlqLXFVY0RMaS1oWHFmdVRGd3hqRlZGSGxrRHFKNlZVWWZuWEpfdjNwY3FXRUx6WVFSZGp4a3BYWjFRUS1GQnNrdTFQWkhjbg?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
       }
     ]
   }
