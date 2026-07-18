@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T11:10:10.241376+00:00",
+  "last_updated": "2026-07-18T10:47:00.042537+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -1005,6 +1005,163 @@
           {
             "name": "Bloomberg",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY3Z0ZUdwd254enlUUUNKMFJYY2sxVGl1aF9UV28tQ0Y0b1c2WG9jRmxNWmhtQVQ3bG5ybW5FV3poS25uVkYwNE5WN0FFNWVHLWlVYzMwZzM0YUFhSzF3S0tXVGthZ21sRHVGdXlqLXFVY0RMaS1oWHFmdVRGd3hqRlZGSGxrRHFKNlZVWWZuWEpfdjNwY3FXRUx6WVFSZGp4a3BYWjFRUS1GQnNrdTFQWkhjbg?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      }
+    ],
+    "2026-07-18": [
+      {
+        "title": "Canicules en France",
+        "summary": "La France a connu trois canicules consécutives, laissant les Français sidérés et inquiets pour l'avenir. Les températures extrêmes ont touché durablement le pays.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/article/2026/07/18/apres-trois-canicules-des-francais-sideres-et-inquiets-l-annee-prochaine-ca-va-etre-pire-comment-on-va-faire_6724357_3244.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Guerre en Iran",
+        "summary": "L'Iran a renouvelé ses attaques contre les États du Golfe après une nouvelle nuit de frappes américaines. Le Koweït a annoncé qu'une deuxième centrale électrique et de dessalement avait été attaquée.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-au-moyen-orient-l-armee-americaine-a-frappe-des-infrastructures-militaires-et-des-depots-d-armes-souterrains-en-iran_6722873_3210.html"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Guerre en Ukraine",
+        "summary": "Des centaines de drones ukrainiens ont frappé la Russie dans la nuit, faisant au moins sept morts. Les drones ont attaqué des entrepôts de Wildberries, le géant russe du commerce en ligne.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-ukraine-sept-morts-et-vingt-quatre-blesses-apres-une-attaque-de-drone-en-russie-selon-les-autorites-locales_6722853_3210.html"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdy1tV0VCdllFYU1ydXJTWE1YbmM3TlZIYU5yLTZSQ243TVZacXFXc3lzVmxBMEtHNzJLS1RfWEk2bGViWHgxdVBaUjVjN0tZV1dDS1VXN3BvVTZsMW1PeENJbVNrOUZXVHY1UHUxLV9HVVlodFdhQnczQldxd0QtTWh1a2RwR3EteTVINHhfM0hpZlh2SGZyUS1RZlo1cDR6WXZlVHNDU0tHUEtsUFlwRkg5cGpJT2JrY09mQUZIalVfRmtG?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Violations des droits des migrants en Grèce",
+        "summary": "Frontex continue sa mission en Grèce malgré de graves violations des droits des migrants. Une enquête du Monde documente les multiples alertes adressées par le Bureau des droits fondamentaux.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/les-decodeurs/article/2026/07/18/frontex-continue-sa-mission-en-grece-malgre-de-graves-violations-des-droits-des-migrants_6724350_4355770.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Tapisserie de Bayeux",
+        "summary": "La tapisserie de Bayeux, arrivée à Londres, est désormais aux bons soins du British Museum. Un long travail d'observation de son état de conservation va commencer.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/culture/article/2026/07/18/la-tapisserie-de-bayeux-arrivee-a-londres-desormais-aux-bons-soins-du-british-museum_6724568_3246.html"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Ebola",
+        "summary": "Sept Américains sont en quarantaine dans un centre d'Ebola au Kenya après avoir voyagé aux États-Unis. Le centre a suscité une grande opposition au Kenya.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "Feu de forêt au Canada",
+        "summary": "Le smoke des feux de forêt au Canada a envahi le Midwest, le Mid-Atlantic et le nord-est des États-Unis, affectant 109 millions de personnes.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Lettuce contaminée",
+        "summary": "Les autorités de santé américaines ont identifié une salade de laitue mexicaine servie par Taco Bell comme source d'une épidémie de cyclospora.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Tornade en Loire",
+        "summary": "Une tornade a touché la Loire, provoquant des dégâts et des blessures. Un témoin a décrit la scène comme « apocalyptique ».",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWlZSQVVPVXJ5cWVBeFB2dWRZM2dRZEhPQWNpWkVQRzJrSVlCbGFBX1VnRmU1Tk5zRWFUMHhsMnowc0htNkpKNzVzZmNsOHE2ZVBISklTZE85RFExMl9CTHFxamFXZW5obnJVc0lsMWRfUEZyTHpsMndEMUJ6cWlWMmVMMFBhbzNtSm16bGJkby1xdndrMzFSaWhiUHZrWEN2Yjc3cUJEaWFEaE5hUEk3WXpyeEx5REstck5ncmhaOHpma2FBUkpCLTZRNTV1aWsyV00ybmN2RTVFbDFnXzdCTGh3?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Lancement de la fusée Vikram-1",
+        "summary": "L'Inde a lancé avec succès la fusée Vikram-1, sa première mission orbitale privée. Cette réalisation marque un grand pas en avant pour l'industrie spatiale indienne.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUZqeXJNOXVSbW4yeUF2ZXdzY1Z4cWpPal9WRzI4RXYtYUdpR0s0WjdkNVZsRXpBMmFmRktTYTdDUE1CZG95dnQ3bkJLZzZDTlp6X05FVzBINmthbkhHaVhfUDRHTENxM2k1bzlvYjJ5aWU3TkljLWJNZVh0TXpPd3dIYlo5Qjg3bjAxZUdOelBXT0RwMWx4bmxxcUdTanpSRldzT2JFamRYcUhRcmVwVGtYTQ?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "Régulation de l'IA",
+        "summary": "Les États-Unis envisagent de créer un organisme de régulation pour les modèles d'IA, similaire à la Finra pour les marchés financiers.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN3BUb2lQbXdsMEZjLXcyY3ZlYkpmQm5JV3BKLWRvQ0NGRXVRaVlPeDBTNzRHRllLalp2aFVzUHVXSTFVUlVYOUVFWnZqUlJjTVQyN01EMmZjR1FLR1NrdVRVSjhFcE5PN2Rwcjd3S19qNHBmVWtrcVVIMHlwekFabTVWZXBpNkRyWlhnMVpoLUlZbF9qS0oyZU1EVEhrc1lRdzkycnIyQThlQnFkMFVnbFpBbw?oc=5"
           }
         ],
         "reading_time": 2,
