@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T10:47:00.042537+00:00",
+  "last_updated": "2026-07-19T10:57:48.781809+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -1162,6 +1162,94 @@
           {
             "name": "Bloomberg",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN3BUb2lQbXdsMEZjLXcyY3ZlYkpmQm5JV3BKLWRvQ0NGRXVRaVlPeDBTNzRHRllLalp2aFVzUHVXSTFVUlVYOUVFWnZqUlJjTVQyN01EMmZjR1FLR1NrdVRVSjhFcE5PN2Rwcjd3S19qNHBmVWtrcVVIMHlwekFabTVWZXBpNkRyWlhnMVpoLUlZbF9qS0oyZU1EVEhrc1lRdzkycnIyQThlQnFkMFVnbFpBbw?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      }
+    ],
+    "2026-07-19": [
+      {
+        "title": "Guerre en Iran : les Etats-Unis ripostent après la mort de deux soldats américains",
+        "summary": "Les États-Unis ont lancé des frappes contre l'Iran en réponse à la mort de deux soldats américains. Cette escalade des tensions entre les deux pays pourrait avoir des conséquences importantes pour la région.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/07/19/guerre-en-iran-donald-trump-est-pousse-a-l-escalade-par-la-mort-de-deux-soldats-americains_6725299_3210.html"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWC01Y25CS19vZjAxMUpMeU8zallocGM4ZmRGV0ZXYlpOUTJ1S2Nxc3lJaUZPNWhMY1pHbDZYeHAxWEp0Zl95RVVsVjhkb0xFXzduREJNN0RjM0FzSVRpMlNaOTN3RUtmSVpXaW04ZFJpeFp2cmhKVkhWMF9YU19JTlp5d0FIMGd2dzB4bDhTNHMxWVNXRi1PbEVHMGI5dGp1MjU3SDRQWUdidkFuV3NuZi1wNA?oc=5"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYlhDcGtOb1Y5NlRGZDQwRFVSUjhQM1dnZXkwSVh4OGt1d2NiSG9lUWh2NmZURGhSMDJqQVZUR2tjLVVoUjdjc201Ym1GWUtYWHFON2Q0XzlTNDFERW5BdVVDZkg3YUFXdGt3WHpzTTVwd2x3MzlFOExBYjNNUEhUV1Bic3lMeEF6VnpjaURzVTZHaVExRDdleHN6Y0QxUHFEaW96LWd5X1ZFNDlEMm9qbA?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Coupe du monde 2026 : Didier Deschamps quitte l’équipe de France",
+        "summary": "Didier Deschamps a annoncé son départ de l'équipe de France après la défaite face à l'Angleterre. Cette décision marque la fin d'une ère pour le football français.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/sport/article/2026/07/19/coupe-du-monde-2026-didier-deschamps-fait-ses-adieux-a-l-equipe-de-france-sur-une-defaite-spectaculaire_6725300_3242.html"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "Incendies : les conséquences écologiques à long terme",
+        "summary": "Les incendies peuvent avoir des conséquences écologiques à long terme, notamment en termes de biodiversité et de qualité de l'air. Il est important de prendre des mesures pour prévenir et combattre ces incendies.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/article/2026/07/19/apres-les-feux-le-lent-retour-de-la-foret-on-a-le-sentiment-qu-il-n-y-a-plus-du-tout-de-vie-mais-en-realite-il-y-en-a-encore_6725302_3244.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Élection présidentielle à São Tomé-et-Principe",
+        "summary": "Les électeurs de São Tomé-et-Principe se sont rendus aux urnes pour élire leur nouveau président. Cette élection est importante pour l'avenir du pays.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Crise en Ukraine : les derniers développements",
+        "summary": "La crise en Ukraine continue de s'enliser, avec des conséquences humanitaires et économiques importantes. Les parties impliquées doivent trouver une solution pour mettre fin à ce conflit.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX2tmdG9jeU9JcGhlNVVYMTRHSG9ZejlGb2pRbG1SNUpqZVF5aTZSa0pXSGxjeUl6WTUydUE1TmdORFZrbURGcmNYWHRhQ3hTNmNmZTZXamtaVVBkczh3T09LYWVQRXJweHlSamppc2ViWFZGbnlOYWU0d0hjNWhpRzNaZzd3cTZQUEVWdXBGRDN2eWtTc3VmSGQwaXlBOE45aVBwUkxqNHg5VDc0cnI4?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Intelligence artificielle : les derniers développements",
+        "summary": "L'intelligence artificielle continue de progresser, avec des applications dans des domaines tels que la santé et la finance. Cependant, il est important de prendre en compte les risques et les conséquences potentielles de cette technologie.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObkIwb3FxcDJpbndYYkJTMWlSbUI3VmVWMTNrXy1QRmQ1TmdJeElDMTRUYmlJWG14R3lqWks3S01WSUxCLVJXakd3QVJiRVAtLUVPUmZVelNGNVQ4OHZOYlFQd1lzV2o0YzN6MWp6V2FDdEdpTG1pbjJ5bHQweXJfOWI5dkhOYk50MHI4ZWgzX0VCMVJxYmRSMmhydFluRlFxY0hsLVJRVk1CUVRZX05tV28zTQ?oc=5"
           }
         ],
         "reading_time": 2,
