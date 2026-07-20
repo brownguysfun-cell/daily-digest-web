@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T10:57:48.781809+00:00",
+  "last_updated": "2026-07-20T13:22:38.165029+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -1250,6 +1250,89 @@
           {
             "name": "Bloomberg",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObkIwb3FxcDJpbndYYkJTMWlSbUI3VmVWMTNrXy1QRmQ1TmdJeElDMTRUYmlJWG14R3lqWks3S01WSUxCLVJXakd3QVJiRVAtLUVPUmZVelNGNVQ4OHZOYlFQd1lzV2o0YzN6MWp6V2FDdEdpTG1pbjJ5bHQweXJfOWI5dkhOYk50MHI4ZWgzX0VCMVJxYmRSMmhydFluRlFxY0hsLVJRVk1CUVRZX05tV28zTQ?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      }
+    ],
+    "2026-07-20": [
+      {
+        "title": "Incendies en France",
+        "summary": "27 départements sont placés en risque élevé de feux de forêt, avec six départements en vigilance orange. Les incendies se sont déclenchés dimanche dans le Var.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/article/2026/07/20/incendies-en-france-27-departements-places-en-risque-eleve-de-feux-de-foret-six-departements-en-vigilance-orange-canicule_6726844_3244.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUU85elZIVEdlSDQ2ZUd1VXVxRGg0T0Fac21fcTk5U1dkVGhEYktWTXpNY2plV2F1MTJEd2s5STN2Sjg5WmthRm5wWFpXb3FhNi1RMXpoa0lnV2doemUzb1NBTjBRbVo3WmxHNHY4YmhqUnVNVVFVeFBSUVQxck9INklIOXJwS0Z0R1hCVmh1SVVIcU5FV3V3MEszX2JQSUpXSkoycTVSQkM0SHpCSUFoZWhWVXlDZk5Ial83d1VXX0ZrRnlnZ0UyNFhJUEp4TTdfbFowa2wxWG8"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Guerre au Moyen-Orient",
+        "summary": "L'armée américaine a bombardé l'Iran pour la neuvième nuit consécutive. L'Iran a riposté par des attaques contre ses pays voisins.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-au-moyen-orient-l-armee-americaine-a-bombarde-l-iran-pour-la-neuvieme-nuit-consecutive-la-ville-de-bouchehr-dans-le-sud-ouest-du-pays-visee_6725301_3210.html"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcnFHQWNyTWNBejFIODB2cW1qRnNsb2IxQlFBOTNQN3hkb2hrV0p0TGdaTEpfZVNOdjc3RHVqX0xLQ3hDT3QySVllR1E0Q3B0Wm03VnlwY1JGTXZ6ZV9NRjY0Vk5MQUpQaTNIY1dybFlrQXpqcnNzM3oxejhXaHBMTjBWbGx3R3drZHFLcjdyX0FRNFk4cTFfN2Ryckxab2xwLXlIMW4tZUZ5ZmdESXdV"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Affaire Jubillar",
+        "summary": "Les ossements retrouvés jeudi à Mailhoc sont bien ceux de Delphine Jubillar. Le procureur général près la cour d'appel de Toulouse a confirmé les résultats des analyses ADN.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/societe/article/2026/07/20/affaire-jubillar-apres-la-decouverte-des-ossements-de-delphine-aussaguel-dans-un-champ-du-tarn-incertitudes-sur-le-proces-en-appel_6726566_3224.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNmNqdFFHOWFwa0xaSkhaTXNqTi1zTlhwbkZ0M0FVUWlsNi1jUVJERENXRUkxQnI1TDUwMHRwUlNLYkJjM1BFLU1DaEtXQ1RhTWYtRW5sQ19KQ2YyWUpxbWQ0Qk1rQ1lIRE94NEhuWHctWjA4YzlKRi1Eek1RZ19IZWJNdzdWTFUtdURzTkJEM3pyZ2NhekhkTWRGYmttSUdFYU5oY1ZYRGhqSlpBMHloNjVmdDIyNUVyN0hubHNjZ0VkcWs4QkxHNTQ0TW83M1VNTjFHUVZZNkFDbk96WUVZNG1tWWtWdnc"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Yémen : les Houthis menacent de bloquer les navires saoudiens",
+        "summary": "Les Houthis ont annoncé qu'ils allaient imposer un blocus naval contre l'Arabie saoudite. Cette décision intervient dans le contexte de la guerre au Yémen.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUowRTU0M2hEUzRtdXAxY1FENjh0OWdXcEJlb2h4VlpBOVdGM2YzZ1BQSVhLMFQwOXhRN01aQ1poMVd5TTNRUHBZbV9jNWZRaGFaejU2ckpkNW5HUlZSdlJXWU5GNTlFU0NFUU9DYkJ1LXVFNHZBanlSemdrb3M1Vm80azBhNlRmTGRWbjQ2dEtkQVNfbTVNMUVReDIwYXB6aDNjN0pReHQ5S1BBUFl1NUc4Z1VyVHB4MWNnQ09JZw"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU29GMmo2c1B4bHBFVGNBQTJLTnFrZEh1M0xrdTlDX0ZSU2NpUGR4Q3duWVNHbXNqZDZlNlItNndEbzQyMEt3UGZoaHpmWFJBc1lrVHd2RHdqU1VBb1BFSnBlSklGNVRRTDYwOFRnVVBTeFY4RDBIM2YzX05rbXVrZkdYMm13dWQyeExOZWc2aXg2ZUVQSXhBSVNpMFBHZUwzVC1yUXVLLUZ2Y3ZQQTQ2eFB1ck8"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "L'UE inflige une amende de 629 millions de dollars à AliExpress",
+        "summary": "AliExpress a été condamné à payer une amende de 629 millions de dollars pour la vente de produits illégaux et contrefaits. Cette décision a été prise par l'Union européenne.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUmhYRERFUHk2UW1BR09CaTRielRHOG5MYi1KTkl3OEw3YW55OUdzNW1PYzg5a2dxQ21uLVJnQ21WWEdUYUEtOUJjSHpxQXNSRVhxV1h4OXpoLUphV0dtdjZ5azVRd1VjTE9xUXlPZjYxaVFCbHA5NUFxM1hod0tmYnJnRnJGWkZ2T19IYVV1eG1zUzFoYklkcmdzMWRzVHZHNDRlZzBfak9Cc1ZpUTJXRWdIYlJyNFZ2MjdBNU1R"
           }
         ],
         "reading_time": 2,
