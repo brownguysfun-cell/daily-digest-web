@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T13:22:38.165029+00:00",
+  "last_updated": "2026-07-21T12:09:25.535646+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -1333,6 +1333,163 @@
           {
             "name": "Reuters",
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUmhYRERFUHk2UW1BR09CaTRielRHOG5MYi1KTkl3OEw3YW55OUdzNW1PYzg5a2dxQ21uLVJnQ21WWEdUYUEtOUJjSHpxQXNSRVhxV1h4OXpoLUphV0dtdjZ5azVRd1VjTE9xUXlPZjYxaVFCbHA5NUFxM1hod0tmYnJnRnJGWkZ2T19IYVV1eG1zUzFoYklkcmdzMWRzVHZHNDRlZzBfak9Cc1ZpUTJXRWdIYlJyNFZ2MjdBNU1R"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      }
+    ],
+    "2026-07-21": [
+      {
+        "title": "Tension entre les États-Unis et l'Iran",
+        "summary": "L'Iran évite pour l'instant une confrontation totale avec les États-Unis, malgré les frappes américaines. Le pouvoir iranien mise sur une guerre d'usure et menace de perturber l'énergie.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/07/21/face-aux-etats-unis-l-iran-parie-sur-une-guerre-d-usure_6728460_3210.html"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Loi d'urgence agricole",
+        "summary": "Le projet de loi d'urgence agricole a été adopté par l'Assemblée nationale, malgré les divisions sur la question des pesticides.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/politique/article/2026/07/21/le-projet-de-loi-d-urgence-agricole-adopte-dans-la-cacophonie-par-une-assemblee-nationale-fracturee-sur-les-pesticides_6728117_823448.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZnJSck45aER2cXdUMVZJdE1TTWlMZUZEWm5aaXZyZ2JQcGFrZkpEaERKRm0yS1dYU0pUa1VSMFoxTFFrOHpzMHdLY3JhaEpsVGJWRnZDVFJLNUpkcWdGOVpPLWFCUVpDUWltNWUxcmUtOWh5czlpTEZPNEtFQ19XVXZ3eGZGVkh5WW5ReVUwVUdzWlZkZjlEUkNRalVPcWw1ZDBfTDBOM0ZEYThwbmhrTk9pek9ud1ZVTjN6Y21QU2pzOGVkQjBUcGhfWGJ1TXlkUmhIS2szWWVJVUk2SlQ5cFVVTGdQYVQx?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Ébola en RDC",
+        "summary": "L'épidémie d'Ébola en République démocratique du Congo continue de faire des victimes. Les journalistes de Le Monde ont pu se rendre sur place pour couvrir l'événement.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/afrique/live/2026/07/21/ebola-en-rdc-posez-vos-questions-a-nos-journalistes-morgane-le-cam-et-philemon-barbier-de-retour-de-reportage-dans-l-epicentre-de-l-epidemie_6728461_3212.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Guerre en Ukraine",
+        "summary": "Le nombre de réfugiés ukrainiens en Europe continue d'augmenter. Le FMI a validé une enveloppe de 690 millions de dollars pour aider le pays.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-le-fmi-valide-une-enveloppe-immediate-de-690-millions-de-dollars-pour-kiev_6725306_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Concert de Barbara Butch à Grenoble",
+        "summary": "Le concert de la DJ Barbara Butch à Grenoble a été interrompu après un appel au boycott lancé par des élus insoumis.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/politique/article/2026/07/21/a-grenoble-la-gauche-se-divise-apres-l-interruption-du-concert-de-barbara-butch-boycottee-par-des-militants-locaux-lfi_6728356_823448.html"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Alimentation saine",
+        "summary": "Selon un rapport de l'ONU, un tiers de la population mondiale ne peut pas se permettre une alimentation saine en raison de son coût élevé.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Tarifs douaniers entre les États-Unis et le Canada",
+        "summary": "Les États-Unis ont imposé des tarifs douaniers de 50% sur la plupart des produits canadiens en raison de ce que Washington considère comme des pratiques commerciales déloyales.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Élections au Nicaragua",
+        "summary": "Le président du Nicaragua, Daniel Ortega, a annoncé que le pays n'organiserait plus d'élections.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "Affaire Jubillar",
+        "summary": "De nouvelles données téléphoniques ont été découvertes dans l'affaire Jubillar, ce qui relance la piste de la préméditation.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRTl1UHM2YWxmOHJDOU5NV1A1Qm1YMy1ncE9iQXBCSlgzZTJIemg5cVZ1OFF1UG4wQ2FJQ3NNOEpGc0YtNEQ4Rnp2YTFGVnhzTWpLVkRJdkdsVEpVWkdJdEdqUFBhTXlpTDVUSE1yMXJ5ZlRmbVJoSy1UOFI2eUdwdTNiS0Z5NEtPYi1LaWJreUowb2R6eW1NR1o3b0pJMHJqX21BVzEyMHRnU0lzb1ZuWTR6TmcwMzlIcjdFSnFacDYxT3FtTm5QNkRoNVNzcjg1LUoxa0RDbksxdw?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Intelligence artificielle",
+        "summary": "Les États-Unis et la Chine doivent tenir des discussions sur l'intelligence artificielle en septembre, selon des sources.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnA2ZW5UVVBMZkFtcExCdG5vSTJIMDFGYVhtcFpXellZRkpmcnJocExRNkp5c0VDdXRfVDdXcGs1OGszNEdMM3YxQ3R2UFVwYmdCQW85MjdYUHBlaWloVENJZmE1OVYxc2FFQml4LTFOWXEwOW5BcGIyVEQ3Rk5uMmxPQUFLVWY4cTYxNzJTZzZBbkJ1RkFr?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "Marché financier",
+        "summary": "Le marché financier est impacté par les tensions géopolitiques et les décisions économiques. La London Stock Exchange va introduire un système de négociation continue l'année prochaine.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV09LU2tXMlhaRDA3WkhxVUlvU3hUdVA2OGs0cEQ3NmVsWlVmcjlFaWtyYVdERVhaX1dXRGM3SVpoTng4RDFvYmlaZTBTSGpZMGZoOU5ac3piemNleDAtWVJkemN3c19EWlZxSTJndUVHdWFoY2lRM2NXeUYyeFBUcVF4S3J0R0R4Tm5BdFBvdDhZWUNOSDFkeHdZdEV0SjhqNzNkUjFYMWRzYzNCN1pUVQ?oc=5"
           }
         ],
         "reading_time": 2,
