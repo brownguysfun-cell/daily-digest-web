@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T12:09:25.535646+00:00",
+  "last_updated": "2026-07-22T12:13:46.016180+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -1490,6 +1490,129 @@
           {
             "name": "Bloomberg",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV09LU2tXMlhaRDA3WkhxVUlvU3hUdVA2OGs0cEQ3NmVsWlVmcjlFaWtyYVdERVhaX1dXRGM3SVpoTng4RDFvYmlaZTBTSGpZMGZoOU5ac3piemNleDAtWVJkemN3c19EWlZxSTJndUVHdWFoY2lRM2NXeUYyeFBUcVF4S3J0R0R4Tm5BdFBvdDhZWUNOSDFkeHdZdEV0SjhqNzNkUjFYMWRzYzNCN1pUVQ?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      }
+    ],
+    "2026-07-22": [
+      {
+        "title": "Démission de la ministre de la Transition écologique",
+        "summary": "La ministre de la Transition écologique, Monique Barbut, a annoncé sa démission après le vote de la loi d'urgence agricole. Elle s'opposait à une mesure controversée sur les pesticides.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/politique/article/2026/07/22/le-recul-environnemental-de-trop-la-ministre-de-la-transition-ecologique-monique-barbut-annonce-remettre-sa-demission-apres-le-vote-de-la-loi-d-urgence-agricole_6729994_823448.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOYi1tTWZGNUowMFBBOVpMVzlKLWo1dy1xLWZUS1RtS1ZxRkZoeXJSQjk5WWF3Q2l4b2s2ZE82UW5GRHhiRi1naG1sNjFWa2I0MFI5WGh1WXRhcTVyLThnYTBPaWYzTjNRengyd2diOURfb1phakZPWVMtS3lFNTVuOXFpSkpHOEh1YnllcTFHdWxid25VZHo1NW5Va1VGd0h0OENPUnhaVlA0eGVhMnUwb2EtOXZsSThrc1I5TGZNVHRudzVISlI3UkprNV9aVHI5Uml0TDZJdzdVTjBsUTQ3TzNDV0NOQVRxQ3hPYWFGYkstNDZDSjJSMjJsRUpGa3NDRGllRGh5SEl0bXFWRmNzWGo0b0U?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Ebola : un travailleur de santé surveillé à Londres",
+        "summary": "Un travailleur de santé a été évacué de la République démocratique du Congo et est actuellement surveillé à Londres pour une possible exposition à la maladie à virus Ebola.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Diet équilibré : un luxe pour un tiers de la population mondiale",
+        "summary": "Selon un rapport de l'ONU, un tiers de la population mondiale ne peut pas se permettre une alimentation équilibrée. Les prix des fruits, légumes et produits laitiers sont trop élevés pour de nombreuses personnes.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Beluga : six baleines quittent le parc marin canadien",
+        "summary": "Six baleines beluga ont quitté le parc marin Marineland en Californie pour être réinstallées dans des aquariums américains.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/22/six-beluga-whales-finally-leave-embattled-canadian-marine-park"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Tension commerciale : les États-Unis et le Canada annulent une cérémonie",
+        "summary": "Les États-Unis et le Canada ont annulé une cérémonie conjointe pour l'ouverture d'un pont frontalier en raison de tensions commerciales.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Piratage : le compte X de Marine Le Pen et le site du RN touchés",
+        "summary": "Le compte X de Marine Le Pen et le site du Rassemblement national ont été victimes de piratages informatiques.",
+        "category": "Cybersécurité & IA",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVXphNDFDZUIxSmdzRXRsNkRYZW5Yc2hfNkRxakVBWjN1NDg0emc5MGJxckxjeXhCbi1ZaklIZy0wRXlwR1RObGtielF3QWRYemRKY1p3eFJEWjJ2ZmpYLU1Sa2U1LTE0b0FTSHF1Wkw2dE51Y0ZfOE51aGs5WEQ5TXBvNFoxajRMMnkwU1lUbXRqcVFkUjRsZkstNmJiVDd6YjA2LUpNWDVROXhQcFdvLWgwWXVzbXJNbFBkbHlyRDdCMG9mUFJiRU1lVW9WdEFia1dxd3IwMFh4QmUxcFpNelBQU0dtRTdVX2ZCSjdPT1I4MkZqT3R2UHRlYVg5dXhMZjBxZlFjU2pPQXo5THdSTmVxb3FPZS12UFAyYWw3c05BNXc?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Intelligence artificielle : les employés de Meta attaquent l'entreprise",
+        "summary": "Des employés de Meta ont intenté une action en justice contre l'entreprise, affirmant que l'intelligence artificielle utilisée pour les licencier était biaisée.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0xVWTJIRjQyWEZXOGZVbHFrSnFsVG1yTUxWb0hJeklkdFZEWHRabmN4Y2trNnZlTW9rMm9hQUtUUHhfSFlGZnpISjRjWXg0UXNFSTBCdmxPOEpaa3N5VlBFblIwX2IwN3ZqeXRwT1VUY3Jzc2tlNC1MRWlBMmZnYUhSU3Eyb1JJU2tXWUJVY2pyalFUN0xVbzRYLWdtSlFRMVVveFRoWG52dmxHRXRSc3Y1QXF4S05OY0tkaFQtM0dHUUJqQnRaZVpMZk0?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Régulation de l'intelligence artificielle : une entreprise fait don de 20 millions de dollars",
+        "summary": "L'entreprise Anthropic a fait don de 20 millions de dollars à un groupe politique américain qui soutient la régulation de l'intelligence artificielle.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYjVuYzdvaWlCQnplaW5rS3FwcFNjOHpQT3plWjNtVkp5cXQ5eTlTcl9naTZ6WWpwR1FWdlROYTBhR0pRRHZXNzZiT0dDcTkzMmFaampfZzdEeWtEZVJ4SG8tbU5aQ0hrQmU5ZmJqcUh5bVNqM3ViX3Z6N2lUTHRnc2ZnVjNHcEFwblpQRUVnQ2pGTzl6SktMR2FtMURUeUY2ek5oa2IyVkJlR0V5RkZwSTZra1U4WlNGOUtFd2RFNWdheHR3Y0E?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Guerre au Moyen-Orient : les risques pour la production pétrolière",
+        "summary": "La guerre au Moyen-Orient pourrait perturber la production pétrolière et avoir des conséquences sur l'économie mondiale.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkJlZlZLZFBpWFlBb2M1MGRaYXdSdXk0WWMxREtZdmtVWVpGTmt0Y1VtTkdvTS1kc0NlRC0wX05hOHlXWW1rNnUtaWIzeVVMTUVWZzlTQ3BwamdISTVjbTBMODhwVWI0a1BKYndsZWRFelBtcWE1NWxVNXI1SER6bWhVekU2MVdNT0YwUGt2OWdGXzlmdzlSZXZLX09WOU8zZlVEQXR3U2dST09XYVRKaXkzZnU?oc=5"
           }
         ],
         "reading_time": 2,
