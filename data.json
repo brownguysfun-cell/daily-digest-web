@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T12:13:46.016180+00:00",
+  "last_updated": "2026-07-23T12:11:33.298978+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -1613,6 +1613,185 @@
           {
             "name": "Bloomberg",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkJlZlZLZFBpWFlBb2M1MGRaYXdSdXk0WWMxREtZdmtVWVpGTmt0Y1VtTkdvTS1kc0NlRC0wX05hOHlXWW1rNnUtaWIzeVVMTUVWZzlTQ3BwamdISTVjbTBMODhwVWI0a1BKYndsZWRFelBtcWE1NWxVNXI1SER6bWhVekU2MVdNT0YwUGt2OWdGXzlmdzlSZXZLX09WOU8zZlVEQXR3U2dST09XYVRKaXkzZnU?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      }
+    ],
+    "2026-07-23": [
+      {
+        "title": "Incendies en Gironde",
+        "summary": "Un incendie d'une intensité exceptionnelle a éclaté en Gironde, près du bassin d'Arcachon, avec des flammes qui ont parcouru 2 000 hectares et évacué 12 000 personnes.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/live/2026/07/23/en-direct-incendie-en-gironde-2-000-hectares-parcourus-par-les-flammes-12-000-personnes-evacuees_6730417_3244.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQejY2a0x6NXZSMUE1Y2lLYzgxX2U3Mmh3cXpCREVqVE1vTWk5bmxnQVVDMlFYSnZVdkYyYlB1MEM2a2E0bTJ1LURfVjlGZEt0VFNJNWphb01xcVU2Mkw5cEhIUzU0Mmw3a3NkNUt2R1hXRE4xMy1hYkl6U1k1MVFqMVVUWVdzbVdrQzB3OUxQc19UdmtjZ0VvbWlVZFRWUHJ5czRCVmVodTRIZVVBa3pZcW1FbFlqUHU2dU4ySjdYbkNvTDdBT21Z?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Épidémie de rougeole aux États-Unis",
+        "summary": "Les États-Unis connaissent une épidémie de rougeole sans précédent, avec une augmentation significative du nombre de cas, principalement due à une baisse de la couverture vaccinale.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/article/2026/07/23/la-rougeole-hors-de-controle-aux-etats-unis-sur-fond-de-vaccino-scepticisme_6730520_3244.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Résultats financiers de TotalEnergies",
+        "summary": "TotalEnergies a annoncé un bénéfice net de 11,2 milliards de dollars pour le premier semestre 2026, en augmentation de 72 % par rapport à la même période l'année précédente.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/economie/article/2026/07/23/totalenergies-engrange-11-2-milliards-de-dollars-de-benefice-en-six-mois-sur-fond-de-guerre-au-moyen-orient_6730624_3234.html"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Guerre au Moyen-Orient",
+        "summary": "La guerre au Moyen-Orient s'intensifie, avec des bombardements iraniens visant des sites militaires américains en Jordanie et au Koweït, et des frappes américaines contre l'Iran.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-au-moyen-orient-l-iran-revendique-des-bombardements-sur-des-sites-militaires-americains-en-jordanie-et-au-koweit_6725301_3210.html"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkxVQ1A5UHo4b2tRdnpPQ3JaZWtwZHZJNlA4M0hpN2U1dzR2clM1UjhGcjRPakxGNFBHUXlpMWtPcnBuTkxrTy1HVVVvRHpYaHMxM2JZSDVjdkdYc3c2eEcwODNmZ3o3aVMwSHpfd3BoSEYyMDIxYzZ1UGNMcWU5cGFTbmpjUF9DWDFkLTJsTFJCU0U2OFNrX1phTWw2ZFZKNkhtN1N2Q3plUkUwU1RJ?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Tensions commerciales entre les États-Unis et le Canada",
+        "summary": "Les tensions commerciales entre les États-Unis et le Canada s'accroissent, avec l'annulation d'une cérémonie conjointe pour l'ouverture d'un pont entre les deux pays.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Suspension des élections au Nicaragua",
+        "summary": "Le congrès du Nicaragua, contrôlé par le président Daniel Ortega, a annoncé un plan de travail pour suspendre les élections dans le pays.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "Découverte sur les baleines à bosse",
+        "summary": "Des scientifiques ont découvert que les baleines à bosse changent leur langage en présence de bateaux, ce qui pourrait aider à réduire les perturbations causées par les activités humaines.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/environment/2026/jul/22/sperm-whales-dominica-clicks-vowels-language-changes-shipping-noise-project-ceti"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Éclipse solaire totale en Nouvelle-Zélande",
+        "summary": "Les hôtels de la ville de Dunedin en Nouvelle-Zélande sont déjà complets pour l'éclipse solaire totale qui aura lieu dans deux ans, une éclipse qui n'a pas eu lieu dans cette région depuis 1163.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/23/total-solar-eclipse-new-zealand-2028-dunedin"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Amende de 1 milliard de dollars pour Google",
+        "summary": "Google a été condamné à payer une amende de 1 milliard de dollars par l'Union européenne pour des pratiques anticoncurrentielles.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkZ0Y296UnBOaHhsNXpXR29WRHJXSjJvOHFZYzBQSW04Z3FfZk9TcWU0Ty15TGEtUUZpeElDN0E5SmlpcV9GT0txMnBPV19HZkR5TDJEQ1NiX2VEcVB2UVY0c3FTZEZIRkRIODhwUVRrLTl0THB4U2R2QjhnekhtWDFkSk80ajd1a0VENUlSNW1ja09GeVpDc2N6b25GMG5tQVlMMw?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "Nouvelle sanction contre la Russie",
+        "summary": "L'Union européenne a imposé de nouvelles sanctions à la Russie en raison de son implication dans la guerre en Ukraine, visant notamment les banques russes.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDk5Tmt4am9MUUVyY0V1RGRnbm5hbE5TcDJqTDJuRXlmaVpOdVJuN2VRYXIwaUwyRU9UdDN0b3N1eGMxS0NlelNjWmhqemJfN252N2QyVTBNSU9QSHcxbmwySkRnQk5XSDZLdXEwNEVTbEhmMDJNdFpuM2RvcjItMGJwVF9JMElIekt4TEtjSlF0dXBJMG5XUkw3ZHg1aVdRX2paMnRBdkFWcHlCbW5zU1NWWDRpazZtQjJfTWlQMnZ5cDN1dE5J?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "Accord nucléaire entre l'Arabie saoudite et les États-Unis",
+        "summary": "Les États-Unis et l'Arabie saoudite sont sur le point de conclure un accord nucléaire, ce qui inquiète Israël qui craint que cela ne déclenche une course aux armements dans la région.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb3ZONFFlOHllMV9mTXRaaFpLZUNUQTZORk5IOGtpcjJQQjFzOWk3dVZVM3ppS0RJMkFtQ3lCaWRfNTFVYTlOb0FlVGxIMWc4MEp1cXZOaXR1QXBUZHhEYXJQQUQxWnpxSXI0Z1M3amlyTUREUmw5WVV5UTJBUEpkZUk4bVZZeUtPWjBSOWlVZDNBaGxOUGZwZEEtQ0U0M3NuVGRmUzdpWXl5MmRXMFRmeXVYS3NCeG5t?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Nokia : bénéfice en hausse",
+        "summary": "Nokia a annoncé un bénéfice en hausse pour le deuxième trimestre, grâce à la croissance de ses activités de centres de données.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS0RtVGxobHF5QXNxUThGcUI1S2l4SlhwVVFMdGxBa0NCRW1Ra0Q4Sm1yQUgtbTBzTXFJRU1FNURobklNbVBIUUU0bWdjVmVkOVlKSjdGc3hIdzRpcm9DYXdlUmRSRjFvOVA2UHk1YXNIalRBOHI5NXdUdW5lNE5MZlh6Tlk2V29sdjBzNlotaVpKMmNrWDZRTnlaazREQVhHYUR0SUltNEY?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Progrès de la Chine dans le domaine de l'IA",
+        "summary": "La Chine a réalisé des progrès significatifs dans le domaine de l'intelligence artificielle, notamment avec le lancement d'un projet de recherche sur l'IA appelé Zhipu.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdnN6U0hCR0xSSUlJZFZVTnVlX21qLW1iX3RhYlItQlVoSW9ZSXhuMURGZ2FYRGVVSk5ONE5tQk9weVpUbWhXR3hReVk1LXdWRVNfazFDSVN5TjV2ejJ4YWRIRFUxTUpyYjJ2S3ZKdVNSYVVENEN5SlVrQzI4QnlQMDlYdXRGME9JdEtGb2Z4cmpGbWk5UWRQX1g2aW9nYXlLUktDSmRVcVN5NW1LNkNsVWFvbFU?oc=5"
           }
         ],
         "reading_time": 2,
