@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T12:11:33.298978+00:00",
+  "last_updated": "2026-07-24T11:58:12.303358+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -1792,6 +1792,81 @@
           {
             "name": "Bloomberg",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdnN6U0hCR0xSSUlJZFZVTnVlX21qLW1iX3RhYlItQlVoSW9ZSXhuMURGZ2FYRGVVSk5ONE5tQk9weVpUbWhXR3hReVk1LXdWRVNfazFDSVN5TjV2ejJ4YWRIRFUxTUpyYjJ2S3ZKdVNSYVVENEN5SlVrQzI4QnlQMDlYdXRGME9JdEtGb2Z4cmpGbWk5UWRQX1g2aW9nYXlLUktDSmRVcVN5NW1LNkNsVWFvbFU?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      }
+    ],
+    "2026-07-24": [
+      {
+        "title": "Incendies en France",
+        "summary": "Des incendies ont éclaté en France, notamment dans la presqu'île du Cap Ferret, où 40 000 personnes ont été évacuées. Les flammes ont parcouru 10 000 hectares de terrain.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/live/2026/07/24/en-direct-incendies-plus-de-23-000-personnes-evacuees-dans-les-landes-en-gironde-la-prefecture-ordonne-l-evacuation-de-plusieurs-villages-de-la-presqu-ile-du-cap-ferret_6730417_3244.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQb2plcEpTYkFyRkJvekVQbHlIQWQ2RThtcW0ybENaTGJhUG5XZFpkQnUtcXNyVGVBVXFMVDhBQnNxY09WMUE5YmoyS1VETFpKX1JMUDRWa1RQTFNKMkpZNFR4RXhkWGNBUnloUGNlQWttMkh0UUhQbUdHeEVMemR2WkdnUGE5VEo1MmdXSWJBX1hPOWJpcVFUSUR4ZFlrZUwwMFhLM3FJcUJwWElQaUExTE54amtYSWFGdWRuX3o1dVFvNW90aHl1bEYxY0M1clBuc092SGc1WFdCZ0xQd3VjRXBPX2R0VTdSWjVEOE5BRTNnckJZalJMbml0T0s0dw"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Guerre en Ukraine",
+        "summary": "La guerre en Ukraine continue, avec des attaques de drones ukrainiens contre des cibles russes. La Russie a abattu 571 drones ukrainiens.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainiens-a-saint-petersbourg-provoque-un-incendie-dans-un-entrepot_6725306_3210.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOcGdReWF2NVB5MFRRM2ZzWklsU2xXbFdzQXlTU25aMzA2MEJEZGt1Q29jZHRJT1NHV25TdkZGSHV0Mi1xTFFXdzdUVF9RODE5Y0h3M1VJdVgzcWhCVTF1cGszRHZ2MWcyTHB0LVJDWHhZUW1yUTdLZ1hNeHBZc3gzRnR3SFVFT241X0s5YzFIcXpiRXFZYVFrMVd1ODZkU00xeHJEX0VncXpibmVFM3dNd2J4eENLaWd1TmZqNzFCZGFrZG5NZGdQWUxyNkg3U1NfblN0MEIwSklVa3FVN1hhQmljeDk0MlQ0Q09INXMwdVQ3dDBXcy12c1pPeXFzZWc4Yzh2aU05azZEeTJxMEFhLWo2SlVtZmE5RWRwYnY5RlEzNzM0NmY2MQ"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "TikTok accusé de violer les règles de sécurité en ligne pour les enfants",
+        "summary": "TikTok a été accusé de violer les règles de sécurité en ligne pour les enfants dans l'Union européenne.",
+        "category": "Cybersécurité & IA",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSEVZbTRlWVdyajhvLS1VZXlKck5mcVVRYmlPeWEwQVNpYlVDYUMzc205ZFBaUGwxZEE0UHR3TUlSMTZuZHFzQmMtUy1odHZJMjItM252TWJ4a0pHY1FUVE1rWjR4eFJpU2xGWHdoRHYyYmZpNEFQVDNnWlowbU1pRUFXb0tONGhydDVONk9xOS1nNWFzTGE0UXBDUzJhRUNlWktRNGNwVUxCVHc5bV9DWUtR"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Les États-Unis et la Chine en désaccord sur la sécurité de l'IA",
+        "summary": "Les États-Unis et la Chine sont en désaccord sur la sécurité de l'intelligence artificielle, ce qui pourrait avoir des conséquences sur les efforts de sécurité.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTVEV25mbEljZGR4REN5cm5RdFZockt4TlBqYUFPS3FseExuOGJ4NFdBR3NsY1l3dnhSNlJ5RXNrdktZaDlDRWN3OTZHRkJnbk1LVk5FS0F4LUZwOHVEQ3FXUFp2aWhYbnlabkZUS3p4M09DbVRvR2NpR3dITjhTWXpzajE3eVNVeEJyeVZadlFsMGFzMnZ0SVMwRS1oZUt0NFhZUExCR3NSYl9teXE5NTNWVUQ"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "La Chine achète du pétrole russe à l'est de la Russie",
+        "summary": "La Chine achète du pétrole russe à l'est de la Russie, ce qui pourrait avoir des conséquences sur les marchés énergétiques.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEtpeW1pRk52WjBScVREeFRyREgzM1FPRTd1bHNNRWh0WTRGTzZYQnY0T1E1ZTdEbHQ5QlhJcnI5dUlFWWZsRlMxRExKXzhQWnFBNmcwMFRMdkJQWkZRNWJvOFdVQUVRejJRZ05hUjA0aVFtQXJ4b1RFZk5aQkM1NVZodlQzSjVzaElueHViclZBYWVSYmdyQlBLaXVoNXZWX3FlUWtETndvbTNxNmNCTmpoTQ"
           }
         ],
         "reading_time": 2,
