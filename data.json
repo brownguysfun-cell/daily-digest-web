@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T11:58:12.303358+00:00",
+  "last_updated": "2026-07-25T10:53:44.829368+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -1867,6 +1867,81 @@
           {
             "name": "Bloomberg",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEtpeW1pRk52WjBScVREeFRyREgzM1FPRTd1bHNNRWh0WTRGTzZYQnY0T1E1ZTdEbHQ5QlhJcnI5dUlFWWZsRlMxRExKXzhQWnFBNmcwMFRMdkJQWkZRNWJvOFdVQUVRejJRZ05hUjA0aVFtQXJ4b1RFZk5aQkM1NVZodlQzSjVzaElueHViclZBYWVSYmdyQlBLaXVoNXZWX3FlUWtETndvbTNxNmNCTmpoTQ"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      }
+    ],
+    "2026-07-25": [
+      {
+        "title": "Incendies en Gironde",
+        "summary": "Des incendies ont éclaté en Gironde, nécessitant l'évacuation de plusieurs communes. Les autorités sont mobilisées pour combattre les feux.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/live/2026/07/25/en-direct-incendies-evacuation-preventive-de-sept-communes-pres-de-bordeaux-140-000-personnes-evacuees-en-gironde-et-dans-les-landes_6730417_3244.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOamhHcUROMENQRExFR3lnSElmVWQ0bUNGVXpPM21SdERqendfUUN1S0E1VEdqNHZYb1QyQUI1SlJKS2I1OXVDUkhXWVo2V1cyUDY4MHpUZkpRRFBNejZEZDFuN3pqYkR3a05MTVVLcVU1cHdXTmZxaTBTYXBDVW5GU1duV19oRkNET2dTTzJiOERIeWdCaTFZY0RBTVg4aW03R2dLa3FtMEN6SW13cURFT1Q1eHpkTGRZOFhTOGlGSFp5b1ZCSVpxdzU4emxwcUxXcF91QUtkcWtuRmVfNGRJ?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Tension entre l'Arabie saoudite et les houthistes",
+        "summary": "L'Arabie saoudite et les houthistes sont au seuil d'une nouvelle guerre au Moyen-Orient. Les tensions entre les deux parties sont vives.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/07/25/l-arabie-saoudite-et-les-houthistes-au-seuil-d-une-nouvelle-guerre-au-moyen-orient_6731930_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Feux de forêt au Canada",
+        "summary": "Des feux de forêt font rage au Canada, notamment en Colombie-Britannique. Les autorités sont mobilisées pour combattre les incendies.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Nouvelles technologies",
+        "summary": "Samsung a remporté un contrat de 200 milliards de dollars pour fournir des puces à Broadcom. Nvidia va investir 1 milliard de dollars dans Naver et étendre son accord avec SK Group.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTljX0ZWV1h2dHlTdGxDangyaUxwOVRTdzYzRWN6MVhrM214T3pmaG9WbVF2REIwU3YycFNXekRlQTR1ZE9CQVhFTGd5SWpHeHphUm1VRzNpUHB4RGRiVHd1VTU0NVhPNFU3c043MzY2QWR1VzdwNnZ6bGFaYzZLQlB1OVBTNnlqNVdoLUxtc2Z5ZVN5d2E2SFFjQWdiZ3BuTGpn?oc=5"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb0dFZkNBNG5XYW1JY2NVSFl3cTRYeXpUSk5FbHNkWV80MjJnZWFLSGlyVGY5QnVCMUZ3WnRjWmIyaUlOQWc0b1NqZnlPNXg4TzZ3aE1YVC1lZ3F6UVZqRDExWVNDT2lObzEyRjJzX1h6WTduWTEwVjBUMDMwWV9aOGJfWUg1QThlM3hIVThMMlRiclBSd2M4TnBNWUVDVWtwVXkyc1QzbHhzRGYtTWJ0dTd1VQ?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Finances",
+        "summary": "Blackstone, Brookfield et KKR ont signé un accord de 16 milliards de dollars avec Kuwait Oil. Les marchés financiers sont impactés par les tensions géopolitiques.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORFJOckl1b25kS3l3MG9hQWpHQW1TVzExNG9IRnUtNkVYdFIyZ0NfbnJyeXFhVzl3aGZNX3dmYUZDNTRKWElYem5QRTJzSmlpV3dNT2ZXUmk0aXhmMzVwU0E1aFVyb19xdXFXQjhkdTI2WUhOcmpJeVRFV3R5OHhLaXZodm1PS0llS2FhQVpSZXM0VkVNd1Y2NWJYeXZmZmRGZTJiZ3U3T25jOGZ3dXBYeXdR?oc=5"
           }
         ],
         "reading_time": 2,
