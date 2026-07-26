@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T10:53:44.829368+00:00",
+  "last_updated": "2026-07-26T11:09:41.877487+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -1942,6 +1942,101 @@
           {
             "name": "Bloomberg",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORFJOckl1b25kS3l3MG9hQWpHQW1TVzExNG9IRnUtNkVYdFIyZ0NfbnJyeXFhVzl3aGZNX3dmYUZDNTRKWElYem5QRTJzSmlpV3dNT2ZXUmk0aXhmMzVwU0E1aFVyb19xdXFXQjhkdTI2WUhOcmpJeVRFV3R5OHhLaXZodm1PS0llS2FhQVpSZXM0VkVNd1Y2NWJYeXZmZmRGZTJiZ3U3T25jOGZ3dXBYeXdR?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      }
+    ],
+    "2026-07-26": [
+      {
+        "title": "Incendies en Gironde",
+        "summary": "Les incendies en Gironde ont nécessité de nouvelles évacuations, les pompiers luttant pour maîtriser les flammes. L'avion militaire A400M a réalisé son premier largage pour aider à combattre l'incendie.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/article/2026/07/26/au-porge-en-gironde-avec-les-pompiers-qui-tentent-de-maitriser-le-feu-il-y-a-eu-2022-ce-qu-on-vit-aujourd-hui-est-encore-pire_6732808_3244.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdTB6dVJiTnI3aGw1a29DWnViWmVGX1Fpb2ktVUpjakgzYmZqdmVtY0NpSHk2OGJrQmttWGlEUmtoZ0RHT045ZjFqQ3ZpbzA5MElrejFsZlhZVGl0cTBlYTJiRExwR0pNdU5uV0NJOEdCWll3VUIwNmpmNi03b0xWTmhvRy15S1lVdERRZDBZNERuWTFpblhYZ0o1ckU5TkZHdEI2a29sQWw3Z085LVNNd1F4a2xjREM1Qkk4ZnRqcGNHY2s2bU9MSnBPU28?oc=5"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb2tPYTdZb0xNcjlBaXVDT0xLaHFIa3JMa0wxOHhqbVhrWVkta3RMSlZ5dG5XajRZcTdPUllNYXlOcFRiN1dkZ1JYRFVXcTFoMVI3cS1kaE1oUktYV1BOZHpieGIwc2k4djRkcGd2eXBWaHhMeTMzWkd0azF6elBTU3lfQXRJNEctbFlRcW9KblpLMExvNmNTRWFIejktLVhhOERZT2hfdEV2TWdfLW45aUxaeHZFeVhRSmdGNFdNRG9MTkstMGhEQjlNZ1Ftdw?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Attaque à la Pride de Berlin",
+        "summary": "Une attaque à la Pride de Berlin a fait un mort et une quinzaine de blessés. La police recherche le suspect, identifié comme un homme de 21 ans.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/07/26/marche-des-fiertes-de-berlin-un-mort-et-une-quinzaine-de-blesses-apres-un-incident-impliquant-un-vehicule_6732524_3210.html"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZTEwQTFyMmZYa21MWDhQYXk4ZzJSZFJpTVBzeHFkZmIwbXl5WVF1NzVlS2h1NkE3b2VSdnNQQXIzeEVwWnNZdlpnQU5tTHJkS1lTMVFRNm1mUmU3anV0SFpQQmdOQkhuZG94RzhtM1FNMWNLYVhQLTVtZDJMOHExUDVkbC0xOEZLR2VTVmJKVzVjZXFHZlBVbk1MTUhQWm81TEdBWEVTeTF2QmlhMjRGZl9NQ28tcjZZay13MUVEVmlVcThQNzNEcVBwWDhPZ1dIZ0ZQVHROQVBFRkJMOUs4UzQ0Qlp0OVpGZC1mS0Q0TDF3d0ZjbXNOWUUwRWVHSklUanpaNm13?oc=5"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUE1aUmxVOHNfRkY1bW5mZG5DMUxHaFBpSWtPb3FONXF6YjItMFMycmx4M1YzTHhyZ1hlYURXMjM0UmlPQ3VRTTJwZjBGWFhudGxDWGl5NjJtbGtRdVFlcVJnVnNwZEcxSjctdzNEOThDcWctYnl2bG93eHlhYkFOaEItUEl3S2hzYXFKbHNpYjA2MVo3U2tUUk9CQ1dldnNUNWdkbjdqakJ3a3FJYmR5OG5WNGQ?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Guerre au Moyen-Orient",
+        "summary": "La guerre au Moyen-Orient s'intensifie, l'Iran affirmant que la guerre va s'étendre si les attaques américaines reprennent.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-au-moyen-orient-l-iran-accuse-l-ukraine-d-avoir-attaque-un-de-ses-navires-en-mer-caspienne_6725301_3210.html"
+          },
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/07/26/l-impossible-victoire-d-israel-contre-le-hezbollah-a-amene-a-solliciter-la-france-en-2006-et-la-syrie-en-2026_6732908_6116995.html"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYVRXNGx5LUVaamFUNzZveUUtd2RTUDVxcGtoNW5acjl1NzJNSlFjSlA0aFNJWkNvRnJNUUZWUVFCU3RuUERaRGVZSzBIOWNsU05XRVVfeERBRFU3T0JQQXA4UXE0SzZLRWRRTi1PRWhFWXE4Mm9FU3RJb0FlMHIxTmQwNXhDSnYxVDJTQVZWMzJQTFd2a1lXdEJGX3Ixclp4WUJHbG5yNDBITWFFaW50MmVTVDIzdw?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Doctolib et l'IA",
+        "summary": "Doctolib va utiliser les données de ses utilisateurs pour améliorer les parcours de soins, ce qui soulève des questions sur la confidentialité et l'utilisation des données personnelles.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/pixels/article/2026/07/26/doctolib-et-l-ia-ce-qu-il-faut-savoir-sur-son-programme-de-recherche-utilisant-vos-donnees-personnelles-a-partir-du-mois-d-aout_6732692_4408996.html"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Incendies en Europe",
+        "summary": "Les incendies en Europe, notamment en France et en Espagne, ont déplacé des milliers de personnes et ont nécessité des opérations d'évacuation à grande échelle.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations"
           }
         ],
         "reading_time": 2,
