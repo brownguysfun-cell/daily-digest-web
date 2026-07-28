@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T15:51:41.512854+00:00",
+  "last_updated": "2026-07-28T12:24:56.611769+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -2155,6 +2155,172 @@
         ],
         "reading_time": 2,
         "importance": 4
+      }
+    ],
+    "2026-07-28": [
+      {
+        "title": "Incendies en Gironde",
+        "summary": "Les incendies en Gironde ont ravagé 42 000 hectares en moins d’une semaine. Les autorités ont annoncé une reprise de feu à Lège-Cap-Ferret et des campings et villages de vacances de Lacanau ont été évacués.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/live/2026/07/28/en-direct-incendies-les-pompiers-craignent-une-eventuelle-reprise-du-megafeu-en-gironde-en-direction-de-lacanau-4-000-campeurs-evacues_6730417_3244.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORFFKNjZwZHFYblQ2ZVR5NFBycjh1dUZXaWZHWE5nUUlZVnBSMjhxZ0pqYlFSWk1MX09GRnJLRDdReEV5bm54ckk1RUlIZlBTVk1UWWdVcVpITmpuRVlVUktRR2xmZU1EZjVlRkxVZG5kdXp0U3JUWmtlWGRQYWdfWlM5NlREdDJUMEEwWnhKUGgtR2wtaXRRQmFDY2dZU1J3RkJkU095YVlNbXlFWjRhTlJIck5kN1FvRlNEMGJkbUVYNDFFcWFocUdLQ3VnRVJPaFRua2g4UjVEeUxXRzFXR2l4UVd1dEhBbzgwTWx1TVNsZWhodXMtbVFpcERVNWVTRUYwOWsxWQ"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Découverte d'un gisement d'hydrogène en Moselle",
+        "summary": "Un immense gisement d’hydrogène a été découvert en Moselle. Cette découverte ravive les espoirs de l’ancien bassin minier.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/economie/article/2026/07/28/en-moselle-un-immense-gisement-d-hydrogene-ravive-les-espoirs-de-l-ancien-bassin-minier_6734458_3234.html"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Nomination de Zinédine Zidane à la tête de l'équipe de France",
+        "summary": "Zinédine Zidane a été officiellement nommé à la tête de l’équipe de France. Cette nomination était attendue après des années d’attente.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/sport/article/2026/07/28/zinedine-zidane-officiellement-nomme-a-la-tete-de-l-equipe-de-france-une-evidence-apres-des-annees-d-attente_6735008_3242.html"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Séisme au Japon",
+        "summary": "Un séisme de magnitude 7,1 a frappé le Japon, faisant au moins 50 blessés et entraînant la suspension du trafic ferroviaire dans tout le sud du pays.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/07/28/japon-un-seisme-de-magnitude-7-1-frappe-kumamoto-et-declenche-une-alerte-au-tsunami_6734975_3210.html"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Uganda : distribution de nourriture d'urgence",
+        "summary": "Le gouvernement ougandais a lancé une distribution de nourriture d'urgence après la mort de 19 personnes des suites de la faim.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Risque élevé de feu de forêt en Essonne et dans six départements du pourtour méditerranéen",
+        "summary": "L'Essonne et six départements du pourtour méditerranéen ont été placés en vigilance orange en raison d'un risque élevé de feu de forêt.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQaDN3bE5WNThSRjVnRnBkM29qbXdLUzBPNHBOTjd5TkhOVVpaSFI1LWlnaVh5X28tOFpSM2VLX0xJWXpiRDVCUmhSbmdNU21oUVVycW1KNk0xc3pBNUJYUi1YSlNYX3VPXzZlRHNMVnpWcjJXTDEyM1hNcF90elVQRmpISFNFNHNLRENjLTRmVmFvX0FwNkx1U3pZYw"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Déficit des hôpitaux publics",
+        "summary": "Le déficit des hôpitaux publics s'est réduit de 600 millions d'euros en 2025, mais il reste à son troisième niveau le plus élevé en 20 ans.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdTdpREFxdGFUNmNvdjZFSXVsZFMwQTFfalVMa05YT21Uc1NsSmd3TGJxOHhybV9pXzcwZXZldEt3M0x1NGw3ZGJMeWItVWVuZlJpQ29VcVdwVHRRcThhWGc4OEZBdjhHaUplNE9GckZVbWJlZ0hFQUZCQmw3LURISWp2NmNGY3hDNzQ4ZUtRaTZ6MlNsblpkczVuM3dBZDZVWjNZRzRCbVl2VEtpdWdaOHZXY3pUY0otUFl6R1hkdW0xLTgzSVRYcG92azYzaERxb2NnR1dTZkliTi1HVDM0Y1NCcW91QWpKMzFETHEza19hVXR0WXoxVXhWeW9DM2o4N3FPTTFJaGJsZjJ5UjJzanhwX3Y1UUViSjVHRlRicnI3U0NWU1VJMy1sdDJFUQ"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Oman présente un plan pour les droits de passage dans le détroit d'Hormuz",
+        "summary": "Oman a présenté un plan pour les droits de passage dans le détroit d'Hormuz, soutenu par les pays du Golfe.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmRMakdN"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Avertissement de Fitch sur le risque de correction du marché de l'IA",
+        "summary": "Fitch a averti que la correction du marché de l'IA pourrait devenir un risque de crédit majeur au niveau mondial.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnVBTFdsSkpXUXYxYmFNSTF0dFRUWnBacGpRQnhBbnRiZ0dZR1ZfcHZ5QnlIY3NRMF95dUkzNTUzMDhBam9kak5LY3pFbHpMcXNUenhtOEtuQkRXT01xWU05TlZGNFc3d2ZXblZpSTcwNlNzUGQzYXN0UEJxbTRITURHQ1JROVhhRHM5TV9IV3U3QjRJdW5hMkY3ZkVMZUhuZTNsZDVPYTltcjFCd2s4VHJjMVo"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Fin de l'épidémie d'Ebola en Ouganda",
+        "summary": "L'Ouganda a déclaré la fin de l'épidémie d'Ebola.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXRUcFFGVXBPS1c1NDJyRUptZmR1UHdjeUg0WmpRY3pMaUdoOHNsSDlReVhzaGhmcDFKY1pTUU80SGxFNnkzRmNoelNYWFNZUFJEUURCcURUcW5jYVlCVEtSYUZwdHRucEVBZDBZa01Fal9wWWs1VDEzYUlqX3N5MUJ3M0djQm1QLUF4d3QyWHVJMzZPWGlLWE4ydXVoWklKTjNDamtpSkw4SHRpdzZJVXVMbWRVdld6M20yWUhLYVE"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Démarrage de la production de outils de fabrication de puces électroniques en Chine",
+        "summary": "La Chine a démarré la production d'outils de fabrication de puces électroniques.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1Zubmoxd1FlV0N3dFpST2F0QUFhNS04Mlg5cmNUcndrWXlwYVFfSFZZODc5UzQxTWZiNzktWEZ6dlJfVm4xVXZWYUlSdndZUXFyNjNhLUZlWm9Zc3pSN001WmZFQWZRSjd3dFo0dmptM1VIbGg2aUhVYU9aNllfV3VkRFZGREJsczdOZThmQ2tidTJMc2dweFp3V1FWQ0hLOEIzaU9mMFRWWGhrUXoySUxST3VqekE4Rnp5Qg"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Investissement dans un centre de données de 14 milliards de dollars",
+        "summary": "Meta et BlackRock prévoient d'investir dans un centre de données d'une valeur de 14 milliards de dollars.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3ZMd1k2ekw5RHM3RlBQamEtQW9PVUhFMDhsTVVvYjhwelg2blBMX01uRTFTNGhJd2hrNGNUejVKZVVCdVN1WV9Dd1Y3OEk1TUYxVVZvSnVNd3BtMTBtcmlrSk8wM1AyVk1zSWVZTkVXVUl2bE8tT2FZNVB6WGR2UHlOS0ZsMnBlWFRqdy03dnNJVVpVTW5KNDBlWXNNT0RmMThEZ2JUVGpOalk"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
       }
     ]
   }
