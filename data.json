@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T12:24:56.611769+00:00",
+  "last_updated": "2026-07-29T13:07:47.877770+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -2321,6 +2321,233 @@
         ],
         "reading_time": 1,
         "importance": 3
+      }
+    ],
+    "2026-07-29": [
+      {
+        "title": "Incendies en Gironde",
+        "summary": "Les incendies en Gironde sont toujours « stabilisés », mais les vents et les fortes températures menacent de les raviver. La situation est considérée comme critique.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/live/2026/07/29/en-direct-incendies-vents-et-fortes-temperatures-menacent-de-raviver-le-megafeu-en-gironde-situation-critique-au-village-du-porge_6730417_3244.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Expulsion de Xenia Fedorova",
+        "summary": "La propagandiste prorusse Xenia Fedorova a été visée par un arrêté d'expulsion par le ministère de l'intérieur français en raison de son comportement portant atteinte aux intérêts fondamentaux de l'État.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/07/29/la-propagandiste-prorusse-xenia-fedorova-visee-par-un-arrete-d-expulsion-annonce-le-ministere-de-l-interieur-francais_6736367_3210.html"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Fast-fashion asiatique à Prato",
+        "summary": "La fast-fashion asiatique à Prato, en Italie, est gangrenée par la mafia chinoise, avec des pratiques frauduleuses et une économie parallèle.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/economie/article/2026/07/29/a-prato-en-italie-la-colere-monte-contre-les-derives-de-la-fast-fashion-asiatique-gangrenee-par-la-mafia-chinoise_6736360_3234.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Ubisoft et Rayman",
+        "summary": "Ubisoft a changé de dimension avec la saga Rayman, qui a contribué à faire décoller l'entreprise de jeux vidéo au niveau mondial.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/29/avec-rayman-ubisoft-change-de-dimension-et-met-une-vraie-claque-a-la-concurrence_6736010_3451060.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 2
+      },
+      {
+        "title": "Guerre au Moyen-Orient",
+        "summary": "La situation au Moyen-Orient s'est dégradée après plusieurs jours d'accalmie, avec des frappes iraniennes et des attaques contre des alliés de l'Iran en Irak.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-les-etats-unis-et-l-arabie-saoudite-attaquent-des-allies-de-l-iran-en-irak-les-gardiens-de-la-revolution-visent-une-base-americaine-en-jordanie_6725301_3210.html"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUg5S3lTRTJTbHVsX3N3NHpYQmU0dHlRZV9mbUNzTXNaamF0eXpmelBXVzN2NWtiTkM5SWNyZ29HcE1JXy05bGsxWEoyWWcxM2FUbEltV2dXeWhOdTN3MlRGZWZpX0JKLTFNWV9UUjA2WWlsNjR0ZkJlYlMxc1Z6RHBha1hsV2Y3OG1yQThmRlNzSldiSlVZejQ1UHNLNVhvUF8yb05DS00wQjYyNFpfZg?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Morts d'éléphants au Kenya",
+        "summary": "15 éléphants sont morts dans le parc national d'Amboseli au Kenya, et les autorités enquêtent sur les causes de ces décès.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Déclin du tourisme canadien aux États-Unis",
+        "summary": "Les Canadiens ont dépensé 3,3 milliards de dollars de moins pour voyager aux États-Unis en 2025, apparemment en raison de la réélection de Donald Trump.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Incendies en Europe et en Amérique du Nord",
+        "summary": "Les incendies en Europe et en Amérique du Nord pourraient avoir des effets à long terme sur l'environnement et la santé humaine.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Accusations de Javier Milei",
+        "summary": "Le président argentin Javier Milei a accusé les démocrates américains de financer une campagne contre l'Argentine lors de la Coupe du monde.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Séisme au Japon",
+        "summary": "Un séisme a frappé le Japon, faisant au moins 13 morts, et les équipes de secours sont à la recherche de survivants.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Décès de Kavinsky",
+        "summary": "Le DJ Kavinsky, connu pour son morceau « Nightcall », est mort à l'âge de 50 ans.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWhwTnkydGhuVmRxaWgxcXpBWml1TUJjQmFCd0xjcGRreWEzbXdUemhZWnlNb3NETmNfVDZuSjJ1d0FjdXYxN2hJNHZsQ1pBU29WcDgtSnZfaXIxZ3M4ZjRZdmFsbFhiQTJzUGJmM3Q4UGYzU0pWb1VQRHI0Mm54TXBHanNpR3dpdGNYbGphaF81ZEdSdV9LTzF0WWc2QWhWQnlXSkx3SHl3OGctWjZjdlZDQldYS01wa3BTSE9sTXM?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 1
+      },
+      {
+        "title": "Vol d'essai d'Airbus",
+        "summary": "Airbus a réalisé un vol d'essai de 24 heures et 24 minutes entre Melbourne et Toulouse.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNb3cwZ0tlRXlHWmpGS2dFVU9iNzMwblFrX0FOMXM4Q05tRU5lQ0p2SnNsOUdlZGpwVVdYYVlxNmp2ZXZMMGdiLUFUUUFSQlExRDVKTlc4VXJCMEhYaXVlYWk5eHpOeXRZR1gzSUwzTk9BRUxaTldmQldkcXR6NjRKYzJLOVVxS0RvTExlM2xYQ2gzRkw5dllseDcwMnM2MUtLSVNDVG9yeFpSXzlIQ05MRE5TTXJkNmZmUFRBNzcwS1MzXzJvWDlGY2cxVWFPbG51cFB0UUY1S3pxUDl3OFNQT1N0MV9OelRnVUZVWnM4bmZyQll3a0Y4dUwxTWlFRmwyLW1oQVM1RGJhVnNfS1pNRFdZbzNkNjJjUkdMTzl4eVZFNVdtRzFrMV95ZmU0eHQzcVdpLWZoUmY?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Découverte d'ossements à Orange",
+        "summary": "Des ossements suspectibles d'appartenir à des nouveau-nés ont été découverts à Orange.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNby1QUldFUU1SZ09kaTV0aVBWVk5ZT05LM3k2X25XdFlaaHotYXByMjB6U2NwMVpBYU13SDB2alBRVjhTVVdwLXk0aXZ2dlZSaFNVU3pEaTFsVlhKSGE4ZFdUYkFjUTVwZ1d2b3ZHN1NUZzZ5MGZfYW4wMUw5bzU2QWNpS2ZQSGdSc3ZsVkRsZ1lLSHFTbnNZTUtocV9LcGRObEdNTUl5SlF3WVlzMkFNaGpIVmYzOGdDalR2Yy0ydVhLYnBxa01EdGV5X1U0R2M?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 1
+      },
+      {
+        "title": "Décès de Glen Hansard",
+        "summary": "Le musicien irlandais Glen Hansard, lauréat d'un Oscar, est mort dans un accident de moto.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObGw5bUF3TmNmVXVIbm9JbUtmbURVTnlybXpnY3RXbnN0dnk2OFJIck9Ea1hNem9oMFFNbTNJRjREc1pvODd4bnlIU2tLdWJ6Q2lTRkZxRV9pbE1NdFlmNFBZaURGU04xUW1NTFdjUlo2RVp5UV9FcW80X3ZzT2lUT1hFNFRub1Z1ZThxQncxZl9OQUI1RXpFb01ZWmRaZ1RqZmFWWHVjYjB6aXlhanFoZ2w3RE9KQnltcEJaekFtVUdaMmxEVzAxZnctMEprNmc?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 1
+      },
+      {
+        "title": "Frais pour les navires dans la mer Rouge",
+        "summary": "Les Houthis du Yémen envisagent d'imposer des frais aux navires qui traversent la mer Rouge.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZzFWSEJjR1NNV3libHZfdlE0dkVfbW9jdG5VX3NpbEg4OGJQSllPQ2RsZmoyNXFjVEFMZkdoME5wRHZMS3NrZlEzT2JUT2hPVXZnQkROOTV0YVJIQk80cEw2ODNKWnlMcmNXYVVFcng4UlVEOVUzYWkzYVhCU19HaHVnQ0JSQzVzSE9OQjdDYzNDRjZiWXZQeDlMandraXA3d1NtRzhHVWRBMlA3NExVblNTY3dYbUpXb2pjVnRkcGhEWWU1U0E?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Avertissement du commandant américain",
+        "summary": "Un commandant américain a averti les troupes que leurs vidéos pouvaient aider l'Iran.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnRvd2JkQWxrSjBpdHRBSkU2bnZMZUtQc0g0SVZ3eHhzb2FSRFJ6UF9yZlNlcXVWek9jZkVmWVhnNVRSeFNrdUNBZm1PNEQ0RmxxMDY1SkZOS0NHM04xSk1iQzN5b29UbEdhY21IaGZSQU12WWsxR0VNd2t5LXoya1VoRHVET015cWM5emFfM1lhYWZTbS1BWGlfSFdZeXJGalRYdVZCYWFEM1hzd0l5ekQ5M2hJb19YSkNR?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Résultats de Microsoft",
+        "summary": "Les résultats de Microsoft pourraient entraîner une variation de 190 milliards de dollars de sa valeur marchande.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMmdTdm5hbGdYQlREcmpoNTJ6SjZjTHotOGlpUWpZOG5FY2lEWHBkRU9odFM1WTZUTUk2Q09uZXFrb25rRHJ2R3RyOHcyeUJZNUJtQ0s2aGlWYUNJOUJYX2VxUy0tN1VsOUFjSVNQdDZWVmFTNUxpbG9LSmRKQXNaeVBuWXZ1WXFxSUlaSXppZzZUemtBUGFoSUR3Y2txclRWekVDaHl2MWozZkFvUEE3bDlJemRaSFYyMEwxR3hlanhEQWpETU1Z?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
       }
     ]
   }
