@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T13:07:47.877770+00:00",
+  "last_updated": "2026-07-30T12:13:16.145822+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -2548,6 +2548,107 @@
         ],
         "reading_time": 1,
         "importance": 2
+      }
+    ],
+    "2026-07-30": [
+      {
+        "title": "Incendies en France",
+        "summary": "Les incendies en France, notamment dans le Var, continuent de faire rage, avec 263 interpellations pour des feux de forêts recensées depuis le début de la saison. Le couple Clooney a dû évacuer sa luxueuse villa en raison des incendies.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/live/2026/07/30/en-direct-incendies-la-situation-demeure-compliquee-dans-l-hexagone-declare-laurent-nunez-en-gironde-une-legere-amelioration-ne-veut-pas-dire-qu-on-baisse-la-garde_6730417_3244.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR0JsR2R2VXltYjhYZENhbTdJaG1GV1Q5UGRoRzktQmZvR3hkQUFJa1ViQnE2QVp4RWNUblllSXpLNi16elFLWVlJenZEUEFoVDcxcVVHV0lfcUJmRTNpZXdRZ0o4VlpFSWdHZzFWcUtVWGtWemhVcWpoR004YXRlcG8xTldEYm83M1ltY0FOZDFlZHNIOU5NMW1zSmcxMmdsSWZIam5jOTlJb192WExMaWNCUksyalBXeTNWcHduWlJnNnc2QmNzdHV6c3U1ZmMyLXlnZXprdFJnLXNYODRLWWRtUzdITV8xY1hpaW1QaXFIQQ?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Guerre en Ukraine",
+        "summary": "L'UE va verser près de 3,5 milliards d'euros supplémentaires à Kiev pour renforcer ses capacités de défense. Cette nouvelle tranche est versée au titre du volet défense du programme de prêts de soutien à Kiev.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-l-ex-ministre-de-la-defense-ukrainien-mykhailo-fedorov-affirme-que-son-eviction-est-liee-a-la-resistance-suscitee-par-ses-reformes_6732775_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Sécurité en Arabie Saoudite",
+        "summary": "L'Arabie saoudite est passée de la retenue à la riposte face à l'Iran et ses alliés. Riyad assume désormais ses opérations militaires contre les réseaux soutenus par Téhéran.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/07/30/de-la-retenue-a-la-riposte-l-arabie-saoudite-durcit-sa-posture-face-a-l-iran-et-ses-allies_6737010_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Tremblement de terre au Japon",
+        "summary": "Le tremblement de terre au Japon a fait au moins 30 morts. Les secouristes sont à la recherche de survivants dans les débris.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Incendies en Grèce",
+        "summary": "Les pompiers grecs luttent contre des incendies meurtriers à Crète pour la deuxième journée consécutive.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRTM0YXRxREhDN19wWV9FcTQxUUwySHpoT2J6UlhIRDBUeTR0Z0lNc1psUklqU0tIRWdrZ292SG5SS3lGRDBfcTJERHdRcEE3Wi0zZWdOMjB5UXF1alREaDJ4bGZzNTRZZlV0Y0FWRWRGQ1ZrWHZpZDlvSnpsWm0wYzNiamFKQkRqRU5uQmhjYlFpbnJ3TWs0dTlyOWJDZXpHQTc0ZlhXemJKczBGaFNtc0gzUVFJUjQ?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Économie de la zone euro",
+        "summary": "L'économie de la zone euro a grandi plus vite que prévu, grâce aux dépenses en intelligence artificielle et à la confiance des consommateurs.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXgwY1BYbk9QMmE3WW5aUXhhampyaXFHRWZXWXp5ZlhEdGRLNlVSR2ZlRks0ak9JMjFnQXN0OXZVZFZWUnBZSDNVUG9lN0xQa21CLUJ3RnlNMV9MUEQwREFPU1lnZkVkangwTnhvbGlFZUhPWDFnQ3FfejVUMFkweVBSUnc0dk9QbVJWcUhFaWdwWHBsOWRxNk44a2tTVldnaTBPbHZMX3k4RTJPLWZCSWJ5OTloOWhLUkE?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Énergie en Chine",
+        "summary": "La Chine a franchi un jalon énergétique important, le charbon représentant moins de 50% de la production d'électricité.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWtPb3poMzBwT01zMEcyNWF3aVFEWUU5ZlV1cU5ScmcxZjJBS0VxS0xUMjhPVDhCNHRVXzRuRE5RSHJ5ZWI2ZWg2c2psSUZXeDU3aTBER2lBWVVoUF9zbHJzVF9JUGJVTmhRQ09xWU1CZWJ6eXdtY0RmSFIwVTA1ZFhfVzM2bkg1WTFvMk85Z2doOTZTMTJxVEViSUNOOThYYnRXSjNBMTRjanN1VldiUFZaQQ?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
       }
     ]
   }
