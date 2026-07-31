@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T12:13:16.145822+00:00",
+  "last_updated": "2026-07-31T12:32:03.632677+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -2649,6 +2649,202 @@
         ],
         "reading_time": 2,
         "importance": 4
+      }
+    ],
+    "2026-07-31": [
+      {
+        "title": "Afflux de migrants à Ceuta",
+        "summary": "Plus de 60 000 migrants sont entrés en Espagne via l'enclave de Ceuta, en provenance du Maroc. L'Italie a demandé la suspension de l'Espagne de l'espace Schengen en raison de cette affluence. L'Espagne dénonce une attaque contre son intégrité territoriale.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-ceuta-plus-de-60-000-migrants-sont-entres-depuis-le-maroc-l-espagne-denonce-une-attaque-contre-son-integrite-territoriale_6737133_3210.html"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdnI4LVp5aHcxZmhlWkdYRkVPaG1HUXBhSGVaQWdLbVZGalRkT0xmMGlMb1VKUl85ZUQ0OFlOcllVN3ZEVW1aekRmQjBJZkxtVUg4al83OGNmMGo5eWZDZFRRMFBJb2ItWXFNNGNKTHU4RDBtVXNYcFp2Y1piQmxQTnJIeXhJN29pNmpYQ0hQN0l5bmUzcUlrNXJLUmV4NkRwaGpsUHRtb1dYSUUzU1BvaWpjeGE2M25Ha0pTNUI1emlPQWpIcEZwSlBjaWxkdVhjOEJlUllUTzlfbjFXTXB6M0tXU213MFJ1bHh3VkpqdVVuVEU?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Incendies en Gironde",
+        "summary": "Les incendies en Gironde ont entraîné l'évacuation de plusieurs communes. Les habitants de Biganos et d'Audenge ont été autorisés à réintégrer leur commune.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/live/2026/07/31/en-direct-incendies-en-gironde-les-habitants-de-biganos-et-audenge-autorises-a-reintegrer-leur-commune_6737097_3244.html"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Tensions entre les États-Unis et l'Iran",
+        "summary": "L'Iran a mené une attaque contre les forces américaines en Jordanie, présentée comme « préventive ». Les États-Unis et l'Iran sont en tension depuis plusieurs semaines.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/07/31/face-a-trump-l-iran-sort-de-la-logique-de-represailles-et-cherche-a-reprendre-la-main-sur-le-conflit_6737112_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Gel des avoirs de Xenia Fedorova",
+        "summary": "La France a gelé les avoirs de Xenia Fedorova, une propagandiste pro-Poutine, visée par un arrêté d'expulsion.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/politique/article/2026/07/31/la-france-gele-les-avoirs-de-xenia-fedorova-propagandiste-pro-poutine-visee-par-un-arrete-d-expulsion_6737102_823448.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPcU9tU0tvWGg5d0FyamdndWd4OWgtUU1IWHVWX2N4aWhzeTVXQk9JcjFtODRFRnpMTEppU0hQR2VSVGY2UjEyelM5YVFldEpNbUl4N2t3XzZNdG1SLW9uOXpLWXk3QnAzUDM2dHZWNV9qNUprbHVnS2FoQy1sSDZ0VjdONzJ0dWtleENCbU8wcWNQbEFBUE1oZjZnYkdEZk9FZGNUWkthSEU5NDdnMjdIdmgzZDRRa2lyZkZVak1tNDh2Mm93N01CXzR4cnRyOUY0b3dKNmRheTV5bkNfUElRRF9FakJacmJHbFVSaEtncXAyN21RSVVraWloTUhyc0EycndORzVXcmJmemVWYnpB?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Accord historique entre les États-Unis et le Hamas",
+        "summary": "Donald Trump a annoncé un accord historique entre les États-Unis et le Hamas, mais les modalités de l'accord sont floues.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/07/31/donald-trump-annonce-le-desarmement-du-hamas-par-un-accord-historique-mais-aux-contours-flous_6737121_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Épidémie d'Ebola en République démocratique du Congo",
+        "summary": "L'épidémie d'Ebola en République démocratique du Congo est la plus rapide de l'histoire du virus.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Carte de l'Afrique avec des erreurs",
+        "summary": "Une carte de l'Afrique présentée par le gouvernement américain contient des erreurs, avec chaque pays mal étiqueté.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Mort d'éléphants au Kenya",
+        "summary": "Quinze éléphants sont morts au Kenya, probablement empoisonnés au cyanure.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Renforcement du contrôle à la frontière franco-espagnole",
+        "summary": "La France renforce le contrôle à la frontière franco-espagnole en raison de l'afflux de migrants à Ceuta.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQWjRUeTZBMUsxVjdKNk14NHJ0ZWcxOGVVVlR6U1pkQ0Q3Y21sUF9CR1dHR1NtTWRJNW1uQmRtYnJXbm1Ld1RITXJ3QVQyWHEyUU45d2RDTE43U2tlRjdyLTBSMlVGa3lySDZxekZ5TEtsUVRldUpTX0tMbXptS296ejM0SmliUmVrM2hmZklXSWhGalpBZHRzdFFValU3Sk1objZTVHZHbm9BUm5CUF9lUUozTTFHbE8xenQ2MnFaUkhxenlJX2ozd0tQa1lHMVFzcW5jOEtnSGkzRlB5eXdlYU81a2JrS3J6LTMwZmJlblBqVXlBSkdWOVNWbTh2TWNEdVVpLWZqdVJmcDQ0UFhwUQ?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Urgence humanitaire à Ceuta",
+        "summary": "L'afflux de migrants à Ceuta a créé une urgence humanitaire, avec plus de 1 500 arrivées ces derniers jours.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZENha25abEZ3R3R3QWcyRVBpdk1faGZXYjV5bXNabDRZWlpadHhUSTV3dHNlOW41bThiQUNRTjZfcmJ0b1hPOGM2YjZiaFNBb2hUbVNjWlA0T1RudnY2dHBOVlRyZ1BxRFZuQnlZd1pOVmkyNUJBS2xLUDdLNE12WXFMZHdqUHJ4OGVTM1R3bVFYTHdLemNxNTRrQk9jeXI0THp5M0loZXgwV0tBWW1kSDkxd29ETTU0Ui1TSUNfdU9hYUJQdzQxTXRrcWYwc1hFZWpXTjg1aElCT1VmUGhybmdjWTFadXdacGYwdmtDb1JWV2trZzlWX3N6cUw?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Évacuation de la villa de George Clooney",
+        "summary": "La villa de George Clooney en France a été évacuée en raison des incendies dans la région.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYkswYjJpNEVlX19vV1NmSExlOGRNWkdwVTVSNk8tOG5tVzZ4eXNteEFITWE5ZXQ2alFkNWNjWW4tWHNYTVlJSWtUN0l4R1hJeFJTRzZwS2pYSUlVZlNRVmNBNWJjcFh6eUhKMDdYVFdyUS1RUEhrV1pUV0hRZGVfSndNN2s5Ty12TGloMHpKa2dnNU5XUFRTalRYelB4U0xEUGpkNU0yX19Bd0ZybFpMOWFLRmhGMjdWdHgzYzlaVGsxYlBnS1g0V1NvZGRTNUVGVUhTa2V5ZUl2Q0Y1M1JmamZQQXRrbVVsZkI2WXVRNVJaaXNmUk1wcVBLLTI0T0E?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Réunion du Cabinet américain à Camp David",
+        "summary": "Le président américain Donald Trump a réuni son Cabinet à Camp David pour discuter de la situation avec l'Iran.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZks0akNQUmpqVGdGaE5rakdfRldLS25IaTFzeVF2VzVmVGc5TkF4VTI2NjI1UlVVdXlveTFxRXFMRWlGTEN4STFsYUdySDQzNE9pSGF6SzJ5bk83M3RsWGc3a3N1Q21oQlQtMGZ4QnFjSHd1dlhlbkNsZ3dvVmFhOFpwVVpNaUx0TmxTTEp2bGZzRExacFhmaEdBS3VjQ0l3cGpPWQ?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Démission du conseiller senior de Gianni Infantino",
+        "summary": "Le conseiller senior de Gianni Infantino a démissionné après une proposition de vendre une partie de la FIFA.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOC0wOF9qV0lDYTRvWUQtdU1YdXJiVExGX1FsWXlESTlDS2FNN3lFYlFfU0lMQUN2QlNxbU1nOS1ZYzcxd3RSN1o4V1RRQkdhd3FTRnVGaHF6QTk4OEdNaXZpT3p0MWxvYjlGbWE0NGgtVjltNUl5azhMdVBIRWNlamZyY0hTZzBjcHN5SkdjMmt0TURmbkxJNllEWDhwR1N1TnlCdmNuQUp2ZW1qVVl4OGRNclpZMnNYbVV2ZTVmQUFCeTNmUlE?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Réseau de jeux illégaux iranien",
+        "summary": "Un réseau de jeux illégaux iranien a aidé à contourner les sanctions américaines pour 4 milliards de dollars.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0c1Y3Z1S3JvRDl6YklGRHdRWXJWWDdOMUJYQ0FURHpwLTByV1N0bzBCZ0ZGWGZoc0FwakZlLTI2S3cxWGxOV010X1I1NWlBVGRRbmdJeW9penZraklmQ2dtVERtdVMwM1ljR2t4QTl0OEZicThhNTZnN1ZJb3dlMC05TXBoOG4ybGpka1hRX2hUVGtkYTVjRHhBbk9CZDlMYWluVk03Yl9HeWt6UnhyMXZTMGtBQTE3S2l6NHoxOW96WTg?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
       }
     ]
   }
