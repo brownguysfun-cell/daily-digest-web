@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T11:07:23.595010+00:00",
+  "last_updated": "2026-08-02T11:07:18.992261+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -2911,6 +2911,145 @@
         ],
         "reading_time": 2,
         "importance": 4
+      }
+    ],
+    "2026-08-02": [
+      {
+        "title": "Incendies en Gironde et dans le Var",
+        "summary": "Les incendies en Gironde et dans le Var sont toujours sous surveillance. Les autorités sont prêtes à intervenir en cas de reprise du feu.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/live/2026/08/02/en-direct-incendies-le-feu-en-gironde-toujours-fixe-mais-sous-surveillance-au-moins-jusqu-aux-pluies-de-l-hiver-pas-d-evolution-du-perimetre-du-feu-dans-le-var_6737097_3244.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUTRvLXJMZzBJOWYyT25qZDhKT0JlZnFlWUtBc2JqZzFXVzJ4NS1hbGV5REE3TDRMR2MtN1pBMkx1bVpZSlYzUnBqNXdYUmpDT29sNjF4TVB5RUVHSms2Z1JCWUI4TkUyRW1hWWlsamlGei1FZGs5VzFueTkwRU1odTVHWDNoVERITkJsNFdHU1JwaVpudXlTX3FhYUEtLVpkeHVnS1BONVJudHVZZF9xMDAydkZicXVkaGU4dFZHNGctVzJpM0tldkxGbnEzSUltZERr"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Guerre au Moyen-Orient",
+        "summary": "Les États-Unis et Israël ont suspendu leurs frappes contre l'Iran en attendant un accord rapide. La situation reste tendue dans la région.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-donald-trump-dit-suspendre-les-frappes-contre-l-iran-dans-l-attente-d-un-accord-rapide-teheran-contraint-face-a-des-capacites-militaires-amoindries-selon-marco-rubio_6737099_3210.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPN2ZqalhjaXF6M09zNE4wdGhVbjlpYWV3UDhZbU16cWZ3bTdTUHJBZy1xZXRBTlNfZ1RHNllRbDFrY3RFdFNjdmdmellGME1IMGl5aXY3Z2p4VmJla1Q5cEozTzhwWmlOTGhPNzctVmdzOWdDU3U1clBhUjZIeXhUTm1RWUo4MnN2Q011ODhmRUwyUjUybHBGVlRvV1R2OHZsSzFmV3VRYWJuSlhXeks4RXV6OTRHUU9nNDIzUlpZLXRZRnB3eF9yTmV5NTBtUGVkcTZJQzNNNzhVRm1wdTRuVFhubkVGclZBcUQteVJGOUtya3FRVHdfZFhkUmJQb2JOcnhScEp1T29LUWFzUlE"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVo3dGdxY2VTTVREYUphQmZETi1naGt0SXBzSnZvbUY3UGRSZm5ERE83cWN0bHE5Z2MzUGVwR2xHUXAweUlxVE4xVElvNUdndUFnSGtnVGRVNkUxUDR2eUNCMHllcTRTUUdIY1I4bkxSQWkya0RkbmRJemxHVlMteVJDNFR4NXFjYTVTY0ppUTM4ZnlJNGtQNkRRNC1nRHUwcHEzUmh5VGNmc190OGFz"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Explosion dans un café à Moscou",
+        "summary": "Une explosion dans un café à Moscou a fait trois morts et 21 blessés. Les autorités ont ouvert une enquête pour déterminer les causes de l'explosion.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSEtwcGI4bzdGZ3hHeEQxZnhNanQ0bHQ3anVHaThaN2t2ZmYtdUFKN2RjTmx2R29MazB5d1N5ZUZidHFENmx6UWFYbUhraEpnblVNejV5VFNRUjU1Q2c1eTR2NVpXU2U5ZDdPTmJCWDd2QUJ2TGIxbEo3MGZsMDk5V0d6cGlVdUg4TWJCTkw1bjdEQXl6akowUEkwb0kzV2pacE1DSnFEdDl5Tm04RlBUTVpCbldXTmdZODJTR3ByekFFX2VRdTV0UkVkT2FuQmxw"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRENJV3V6amU0MlZqenVoS3ZlaUNFMGpwMmE4anUtWklia1N1S3U1c0NRcWlXS0lsZUlCam8xYmVCSGNGcWpMY1RTZWlXYy05Z0pROGtac0k0anduZ29fYVZwSE9pZndHcWs5cHRVSUpDMUh3RjRzbnhmVE9PUHlxdTlGZXRTZWhUTnJBVE9lR0p4RnhiSUlmRzJORGxnZ3VtRkxCblp3OGJ1cHQzMEk2bjhlNGQyQzFnaDVia2RqUXY"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Crise migratoire à Ceuta",
+        "summary": "La crise migratoire à Ceuta continue de faire l'actualité. L'UE a annoncé une réunion d'urgence des ministres de l'Intérieur pour discuter de la situation.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/afrique/article/2026/08/02/a-fnideq-pres-de-ceuta-la-desillusion-des-jeunes-marocains-apres-une-traversee-eclair-en-europe_6737266_3212.html"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Lois anti-LGBTQ+ en Afrique de l'Ouest",
+        "summary": "Les lois anti-LGBTQ+ sont en augmentation en Afrique de l'Ouest. Les activistes dénoncent une augmentation de la discrimination et de la violence contre les personnes LGBTQ+.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Crash d'un avion de tourisme au Pérou",
+        "summary": "Un avion de tourisme s'est écrasé au Pérou, faisant 13 morts. Les autorités ont ouvert une enquête pour déterminer les causes de l'accident.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Grève des hôtesses de l'air de WestJet",
+        "summary": "Les hôtesses de l'air de WestJet sont en grève après l'échec des négociations. Les vols ont été annulés et les passagers sont invités à contacter la compagnie aérienne pour obtenir des informations.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblhNTDVZU3dqTmw4d252dTlOaS1pdnFEcU5ZTjdobll4RnNJYXdVVkszRExqOHRLRGFYbG5XNVE3a0h0TUp3UzZocVNic3l1dXdPMzNGaDljWWZmS2kwUF90RVlfcG02TVc0LVJTS0dqbUV2QWhLZlhEVTloNHUxUjZJLXdwb0FRUk8td1FDaHdUdC1SalhBTWlJVEJ5cDBiaGlmeWtLNHBycWJlVFU0VTlFYThLamVfMGNB"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Séisme en Nouvelle-Zélande",
+        "summary": "Un séisme de magnitude 5,9 a frappé la côte est de l'île du Nord en Nouvelle-Zélande. Les autorités ont annoncé qu'il n'y avait pas de victimes ni de dégâts importants.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWdaQkJhWGNkUHZsUkZqQXAyLWJ1MGs1XzJCTlVuUFVrald2bzBLdnU4TnNHVjFIYXNmOTJJNVVrVFR2QmVDZjJJU0x2b0NiOF9iLVViQjk2VkViT0lmZ0Fpd1R4T1NiLTdWQ1JKemFTNmhaM2lxQ0FaV2NvdW1RbHJYMkZQZElYN29kcWNxd09rUzRVRHMxS05SbzVFal9TNUgzS1hka2xLcmFMbUFHNVc3eWppcUJBTElvbjRsNHpfU2VGcEJLczNn"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 2
+      },
+      {
+        "title": "OPEC+ prévoit d'augmenter les quotas de production",
+        "summary": "L'OPEC+ prévoit d'augmenter les quotas de production de pétrole en septembre, suivie d'une pause. Les décisions seront prises lors d'une réunion à venir.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
       }
     ]
   }
