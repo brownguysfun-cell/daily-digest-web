@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T11:07:18.992261+00:00",
+  "last_updated": "2026-08-03T15:58:16.486766+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -3049,6 +3049,155 @@
           }
         ],
         "reading_time": 2,
+        "importance": 3
+      }
+    ],
+    "2026-08-03": [
+      {
+        "title": "Incendies en Gironde",
+        "summary": "Un incendie a ravagé 42 000 hectares en Gironde, les habitants des communes les plus touchées expriment leur colère. Les autorités sont interrogées sur la gestion des premières heures du feu.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/article/2026/08/03/incendie-en-gironde-la-gestion-des-premieres-heures-du-feu-au-c-ur-des-interrogations_6737323_3244.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Anta, la marque de sport chinoise",
+        "summary": "La marque de sport chinoise Anta rachète des marques étrangères pour conquérir le marché occidental. Elle a déjà racheté Fila, Wilson, Salomon ou Arc’teryx.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/economie/article/2026/08/03/anta-la-marque-de-sport-chinoise-qui-rachete-ses-rivales-etrangeres-pour-conquerir-le-marche-occidental_6737371_3234.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Tensions au Liban",
+        "summary": "Israël continue de faire régner la peur dans le sud du Liban avec des dynamitages massifs, malgré les négociations en cours.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/08/03/liban-en-pleines-negociations-israel-continue-de-faire-regner-la-peur-dans-le-sud-du-pays-avec-des-dynamitages-massifs_6737441_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Assèchement du Danube",
+        "summary": "L'assèchement du Danube met les pays d'Europe centrale au bord d'une crise énergétique, avec des réacteurs nucléaires à l'arrêt.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/article/2026/08/03/l-assechement-du-danube-met-les-pays-d-europe-centrale-au-bord-d-une-crise-energetique_6737474_3244.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Tour de France Femmes",
+        "summary": "Sigrid Haugset remporte la 3e étape du Tour de France Femmes, après un long parcours en solitaire.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/sport/live/2026/08/03/en-direct-tour-de-france-femmes-2026-suivez-la-troisieme-etape-entre-geneve-et-poligny_6737364_3242.html"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Crise migratoire à Ceuta",
+        "summary": "Le leader de Ceuta accuse le Maroc d'être à l'origine de la crise migratoire, avec des milliers de personnes ayant traversé la frontière.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Incendies en France",
+        "summary": "375 personnes, dont 142 mineurs, ont été interpellées pour des incendies en France, selon les autorités.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxORlNLalQ0bVptMHdDeDVrRFhuOGlVUXhISFNUTWNBZzFJWkI1NDhVQ0dpa09hZFNzRjMyRE9Rc2NTMXFPQy1feVJpMGdSM2tFbmJYQ1JZanhzalRpX0V6R1hfelU3NHRVcTRzZzFLZXpycnowVkd5VjFZX0MzVmJsMzYwTVYxLUlIaTZ4bk04MlMzTWF5RlQydkJSWmU1VGR0dGk2TGdVRGRISlVBT3FaVlJ3RDlXcnFpM1dGVzNZR2czZHlNSE5yZzhtNGFXazl4TGE2QXhhM2F2NUE4NG9wcGwxeldzRTNJbFJqeVEweTNLUFVUdVZRUHlUdTJZZDR3eHh5VTREV2RBYm5FQVluakxfc1ZxRV9XYzJsNGdudGN1NEVveEN2SHFXc1Q3elRZZk1CYlZRNERjTWU5bU16b21NQWVLT0hZSzhNZ1dFT3NtOThkMU5JQWNEeDZlQQ?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Amazon dépasse les 3 000 milliards de dollars",
+        "summary": "Amazon est devenue la troisième entreprise à dépasser les 3 000 milliards de dollars de capitalisation boursière, grâce à la croissance de son activité dans l'intelligence artificielle et le cloud.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2h5X3dkMzhkV3ZxZ3UtZ2ZlMEh4bVVzeUF6RDlYS3R6SEFrSXlRRlJ6SDBCVFZITUV1eUYwX21VcFlIQkhrV05NM3Rudnp4LVNxNEN5WnlFM0FrSDZFNC1nX2dISGx5Z0xqQndiWHRqdkxDaHJ3ek5hcjNnZERtWTRnYThyd3MwRkVHdmg3djFLeFdFMFBLeW91NXVaVjUxQUpwSDhkUUpBa2hHNGxlcHVEbUc2NUlrUjdIYWhwcWFsZw?oc=5"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUC1Ubll5MmJwbGRZT2FqMlJnWFl1TlVGUGtVS3dwY0N3czUwXzNhXzlzZ0lZdDhXNEU5cDJTRm1jak9PN21EUnVLY0R6TndGYW1jUmRvVGl2MlNuc1VuX3dyWXkxWEkwb1d4Y2Q4cWlYSnZseEdGek5PY0lnajZ2M1ZkSTFUMWk5aktObFh1QldrSkZnLUdHdko4UE84MGZ2dHNiWDQtMjdlTEFWZ3pWRQ?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Danemark : conscription militaire étendue",
+        "summary": "Le Danemark a décidé d'étendre la conscription militaire en réponse aux menaces de la Russie et de Trump.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFFyX2FGQlBGYWZVYkc5dlBIbGZFaEFQa0dHVkpCLU9wQS1kbWVsclUtNUdnUDBDNXNGUVpfTU96UlY3SUpsN1FRb1M2bzZFY1Z0OXAxS1ZHSmxISVJId1ZVNGZ0dE5vQVRNUkVoak90c1VkYWFVLWJVdXhnVWVSUWxXcHdEX0NCaGV5Ty04RER2NktkQllod1dPSDljSFphaTNlYUQ5Slh0TUJ6c0E?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "UBS condamné pour blanchiment d'argent",
+        "summary": "La banque UBS a été condamnée à payer 125 millions de dollars pour des violations de la réglementation sur le blanchiment d'argent.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2NEeHdNTkNSVkRlY2RoazlTc1F6U2tjOEd0TkpIZVY4cmZjRS1mMGdYVnRTcXQ4UmFxNENaem5tUGhKcjNDU3Y3RG1NOGEtdU9NQzlIdXhKLVBRVjBXZE9wTGVFQ1dUbmU3MHJ1c1VjbjZVTlZJUGlLaWM5Ym5vYk1feXlzLUE2Vk0tQ01KV2Y2Qk1vMkx2bkFxVHFscXhtSkpXcFJZak9pOXBydjlQbVJsZw?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Compétences en IA plus valorisées que les MBAs",
+        "summary": "86% des dirigeants financiers estiment que les compétences en intelligence artificielle sont plus valorisées que les MBAs.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUW81YmNNal9nLUZ4UTI1RmQ1aXRqUUN0VEpRbDFlVUVxUmVKYThaYV9FTzlSMXppMVYwby0wbnc2eTZ2MVJnTzVNOXJpeVN2WW4zNkx3RTFlZHVUQ1RQMEZHMWJrTEtldnlCbzAtVXpWdUZIeTVwSi1yMnl5WXJnd3N2YjhGV1NpS1FfWVNHUm5tWVVxb2FudDZZWGtjbU41UlRtZkdTeXJmMHZJdlpIVjVQVQ?oc=5"
+          }
+        ],
+        "reading_time": 1,
         "importance": 3
       }
     ]
