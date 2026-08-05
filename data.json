@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T12:30:08.740775+00:00",
+  "last_updated": "2026-08-05T12:26:59.173533+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -3382,6 +3382,207 @@
         ],
         "reading_time": 1,
         "importance": 3
+      }
+    ],
+    "2026-08-05": [
+      {
+        "title": "Guerre en Ukraine : attaques nocturnes contre Kiev et sa région",
+        "summary": "Des attaques nocturnes contre Kiev et sa région ont fait au moins 17 morts. Le président ukrainien Volodymyr Zelensky a regretté que l'armée ukrainienne n'ait pu abattre aucun des missiles russes lancés.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-au-moins-17-morts-dans-des-attaques-nocturnes-sur-kiev-et-sa-region-ursula-von-der-leyen-denonce-les-atrocites-russes_6737250_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "L'écologie, bouc émissaire des dégâts climatiques",
+        "summary": "La colère et l'exaspération face aux dégâts causés par les incendies et autres catastrophes climatiques sont légitimes, mais elles devraient porter sur l'insuffisance de l'action collective.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/idees/article/2026/08/05/l-ecologie-bouc-emissaire-facile-de-ceux-qui-n-ont-rien-vu-venir_6739413_3232.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Revolut, la banque britannique à l'assaut de la jeunesse mondialisée",
+        "summary": "Le développement de la néobanque Revolut bouscule les acteurs traditionnels du secteur et inquiète les régulateurs chargés de combattre le blanchiment d'argent.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/economie/article/2026/08/05/revolut-la-banque-britannique-a-l-assaut-de-la-jeunesse-mondialisee_6739215_3234.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Décès de l'écrivain Didier Decoin",
+        "summary": "L'écrivain et scénariste Didier Decoin, Prix Goncourt en 1977, est mort à l'âge de 81 ans.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/disparitions/article/2026/08/05/l-ecrivain-didier-decoin-prix-goncourt-en-1977-et-ancien-president-de-son-jury-est-mort-a-l-age-de-81-ans_6739418_3382.html"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Mehdi Laribi, cadre de la DZ Mafia, arrêté en Algérie",
+        "summary": "Mehdi Laribi, connu comme l'un des fondateurs de la DZ Mafia, a été arrêté fin juillet en Algérie sur exécution d'un mandat d'arrêt français.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/societe/article/2026/08/05/mehdi-laribi-presente-comme-un-cadre-de-la-dz-mafia-a-ete-arrete-en-algerie-sur-execution-d-un-mandat-d-arret-francais-a-la-fin-du-mois-de-juillet_6739406_3224.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUDJENHZxLURkUVVNSlJmVG9sNE1oTTY2OUVRenR6VzA2cG1CWlZzRVR6R0lUMGJlSGpZMVBtclNYdmFuaXMwV0FtRC1jcG1qSkVIZ19zMS15R1FuR1JDNW81cFVlMU5EUTExSGtaSjRicldiWGNpeXNIVFQ1b0REd05FNzBlMlpZME5HeFJKRE9FU2NBbms4MGs3YXMxa1g5RjRfaFBaRHlMT0RsWFdtWThQX201MjVyN0ktUDRqOVJqMU1iWFNGRGFOYl9WSzJ3RGZwbGFIeUxxYUgyVUdsaw?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "El Niño pourrait pousser 50 millions de personnes dans la faim aiguë d'ici la fin de l'année prochaine",
+        "summary": "Les prévisionnistes de l'ONU avertissent que les conditions pourraient s'aggraver dans 45 pays actuellement touchés par une insécurité alimentaire grave.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Crise migratoire à Ceuta",
+        "summary": "La semaine dernière, environ 72 000 migrants ont tenté de traverser la frontière entre le Maroc et l'enclave espagnole de Ceuta.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Disparition d'une femme emportée par une coulée de boue en Haute-Savoie",
+        "summary": "Une personne a été portée disparue après une importante montée des eaux et une coulée de boue en Haute-Savoie.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVGJ5NVp1QjBzZ1V4X0EwSmRIeXRUQkRFOU9mbXk4T2hPVW95OUFEc1dVdkVreER1bkV4QktRVlBJcXF0OGxzbmJUYjZmM0RhajhKYlE1VnZncFZnRXJHemVlWm5YOC15RURDel9FOUc0cVhhVXp2OVU0N1BpVmRubjZnZndsU3N1bFNTWHN3OGk2UWozUEdOOGxiVjFzb0RjdGI2ZVlPU19NRUxhb3pjREk4M1o1cy1zYjZoa19pLUo5QndjWGd0TWw3UVBtNU9CZ3hWNXhsUERqU1QxMXI1eWVLeF80S1lmTWV5ckN3QWgyRUNzV19MSWUzZDUtR3ZzWTNrdWIwYnZkUkFBLThrSg?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Jean Imbert accusé de violences conjugales",
+        "summary": "Le chef cuisinier Jean Imbert a été présenté à un juge d'instruction pour être mis en examen pour des faits de violences conjugales.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWUh5ZXk0RUdza0todG9lbkpFbm9qdFdsTWtIRjlNaGlmWXdxaG1ja21BODlvenZzX1FtUnQ1WnR1ak1Eem5jRmhJTEVVZm1IYUY4VkVDVnBfNFYwd3dldkw0MlFpbFhYYW91WnhIZFU5U1RTZGZDQm5KMURkbkNITnRmZ2JmdnVIOWxlR1ljQVdZQU8teFNyTXNpM2dpOEpGdlljeU9RNzF6NzhsZmtJWmRrdTltZDlKaW9mQzZlSDU0Nzg5MG9GTWRyU05zakE4VGxMamc?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Poutine nomme le chef des nouvelles forces de drones russes",
+        "summary": "Le président russe Vladimir Poutine a nommé le chef des nouvelles forces de drones russes dans le cadre d'une réorganisation militaire.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWRFZk1NZFA0NXNZNmlPcF9ieHFTQjloNURNQURIcnZ1SDQ0YkZXRHFNTlA2S21Qa1dLNDJKVUwtcHpXam83c2l0dVdLcURabDR3UlR4OWZFOXJuZEJKbkdSMHFweXJZS3pKUXZ6cDRERnl2UnVWa0FoZnhqV2s1bGdmVmFKNG5tbm1wcnVEdmNDcS1LZFdnS0p1cDNrYjZsYlhwM181YnFYeGdPZkE?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 4
+      },
+      {
+        "title": "Les États-Unis et la Chine renforcent leurs liens en matière de sécurité",
+        "summary": "Les États-Unis et la Chine ont forgé des liens sans précédent en matière de sécurité, notamment dans la lutte contre la criminalité.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkc0TkxMdzFlMmMxeHNQTzUyYjZxYVU0TnVtaFlmMWJSQ0ZqRUNHZzlzQlN4UnJha1hhX0dQcVBwbm5UbmRwczgyUXRzM3l5YTlIeDZ2OGtJZlpROXM1aGxzSEYyaVlKMWlqeDZGVWFwLWNxUnp5UlhqRDhnaGxRNkhNZjR6WEo0YnFFOFl6OGVQeXVHdUw4RUFJUk1ZeFM2a0hfS0drZFljTDlNNVhTT0dFaEg?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "SpaceX : les dépenses en IA plombent les résultats",
+        "summary": "Les dépenses en intelligence artificielle de SpaceX ont plombé les résultats de l'entreprise, malgré des retours positifs.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWU1MzhJUmZkZWYwa0ItM3ZsMHh3bnVZS3JiYllKRF83UWpmM0d6M2txVnY3eDdNVXdweUd0dFZDcmxZQWE0MlBTYlFzYTg0dFJWODl6Z0hfcWo0QXZwNkN6Z3pXZGJKMlY3SGZQcmZzWmhxbmxvNDdISHR6V29ST2hUVW1FUGUxR2ZOVVM5OUR0THhTcmJ6UXRhTld1WXFjNkdXYkM2REs2V1BnZC11VlR0WS1pUFU4?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Disney et TikTok s'associent pour la diffusion de vidéos courtes",
+        "summary": "Disney et TikTok ont conclu un accord pour la diffusion de vidéos courtes sur la plateforme de TikTok.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXl3dzBUMWFzY3VBNUl4U3NoODJFcFBIVkFCWHc1WHkwUmNRRE5PeUFjY2N4VWxBYXBJeXRPTXNmUEVEOXFmQmpsY1dQeUF3QUNTVmFOMTBXWWltYmsxd1BfVWQxUnpNNUJ5VlpISEN6aVlkbnlBLWsxdGdET0pZQV9EMDZqTldXSDF2SHEzYU4zODR1bVNoWTM3Sjc5MG9GTWRyU05zakE4VGxMamc?oc=5"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "AMD : les investisseurs attendent plus d'efforts en IA",
+        "summary": "Les investisseurs attendent que AMD fasse plus d'efforts en matière d'intelligence artificielle pour améliorer ses résultats.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUxPTFhLdHFva2dJZXRNX0YwX2wyeERqR1paUWV2VVljaWZ6dFBDZVFONHdEWmVPaVNXeUR4MjJxdUlRb2ZfVmFTbWlETHdyTlY0NklfOEhrZW5TeThlLV9CRnNZcHU1bmtpU2lRUGExeFZfRnhnQXNsaE00X3FMdFpTLVpTQy1WRi1WdXNYOA?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "La Chine cible les États-Unis avec des restrictions à l'exportation de drones",
+        "summary": "La Chine a annoncé des restrictions à l'exportation de drones vers les États-Unis, ainsi que des sanctions contre des entreprises américaines.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbG40M0xORmg3VG1SUU5PaGNiSkU4enZfU2Rva3NzVkJ1ZTBZLUhGamJpUVFubWdjaXpjaVpBRHA3OUd1UkxjWGtQc1NWQkh0TDRFbEprWEtJMWtYTVBzSlZNWlZnMHE5YkdsMXJBNi01UnBVYzBRSVJjTTlMUE8yUXFJamlVZDBacE1rZ2FURDNsRlNLWFFZcHJBUTFpdk02Qkh0NXZMdTI5VUROeE5mODBVWjc?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
       }
     ]
   }
