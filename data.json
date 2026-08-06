@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T12:26:59.173533+00:00",
+  "last_updated": "2026-08-06T12:30:26.537539+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -3579,6 +3579,229 @@
           {
             "name": "Bloomberg",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbG40M0xORmg3VG1SUU5PaGNiSkU4enZfU2Rva3NzVkJ1ZTBZLUhGamJpUVFubWdjaXpjaVpBRHA3OUd1UkxjWGtQc1NWQkh0TDRFbEprWEtJMWtYTVBzSlZNWlZnMHE5YkdsMXJBNi01UnBVYzBRSVJjTTlMUE8yUXFJamlVZDBacE1rZ2FURDNsRlNLWFFZcHJBUTFpdk02Qkh0NXZMdTI5VUROeE5mODBVWjc?oc=5"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      }
+    ],
+    "2026-08-06": [
+      {
+        "title": "Menaces du FLNC contre les non-Corses",
+        "summary": "Le Parquet national antiterroriste a ouvert une enquête préliminaire pour association de malfaiteurs en vue de la préparation d’actes de terrorisme. Les investigations portent également sur l’acquisition, la détention et le transport d’armes.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/societe/article/2026/08/06/menaces-du-flnc-contre-les-non-corses-le-parquet-national-antiterroriste-annonce-l-ouverture-d-une-enquete_6739831_3224.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Incendies en Gironde et dans les Landes",
+        "summary": "Les feux en Gironde et dans les Landes ont été reconnus « sinistres de grande ampleur ». Cette décision permettra aux propriétaires forestiers d’abattre sans délai les bois sinistrés pour protéger les forêts et soutenir la filière bois.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/live/2026/08/06/en-direct-incendies-les-feux-en-gironde-et-dans-les-landes-reconnus-sinistres-de-grande-ampleur-la-journee-de-jeudi-a-haut-risque-dans-le-var_6737310_3244.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Xenia Fedorova, propagandiste pro-Poutine",
+        "summary": "La chroniqueuse russe est accusée par la France d’être « un relais des campagnes de désinformation pilotées par les autorités russes » pour « déstabiliser l’ordre public » en France. La Russie considère l’arrêté d’expulsion comme une « persécution politique ».",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/08/06/xenia-fedorova-propagandiste-pro-poutine-l-arrete-d-expulsion-pris-par-la-france-est-une-persecution-politique-assure-la-diplomatie-russe_6739944_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "La filière aéronautique renforce sa cyberdéfense",
+        "summary": "La filière aéronautique lance un programme pour renforcer sa cyberdéfense face à l’essor des menaces. Le programme vise à augmenter les moyens de défense de 200 entreprises, principalement des PME-PMI.",
+        "category": "Cybersécurité & IA",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/economie/article/2026/08/06/la-filiere-aeronautique-veut-renforcer-sa-cyberdefense-pour-faire-face-a-l-essor-des-menaces_6739727_3234.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Trump et Milei ciblent Lula",
+        "summary": "Les États-Unis et l’Argentine font pression sur le président brésilien dans l’espoir d’une victoire de leur allié d’extrême droite, Flavio Bolsonaro, lors du scrutin des 4 et 25 octobre.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/08/06/trump-et-milei-ciblent-lula-a-deux-mois-de-l-election-presidentielle-bresilienne_6739941_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Influence de Trump au Maroc",
+        "summary": "Les liens entre Washington et Rabat sont sous scrutiny après le désastre de Ceuta. Les questions se posent sur ce qui a mené à l’afflux mortel dans le territoire espagnol.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Fermeture de consulats américains",
+        "summary": "Le département d’État américain a informé le Congrès de la fermeture de cinq consulats et missions à l’étranger, notamment au Canada, en Grenade, au Japon, en Indonésie et au Cameroun.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "El Niño et insécurité alimentaire",
+        "summary": "Les prévisionnistes de l’ONU avertissent que le phénomène El Niño pourrait pousser 50 millions de personnes dans l’insécurité alimentaire aiguë d’ici la fin de l’année prochaine.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Naissance d’un hippopotame nain",
+        "summary": "Le zoo de Toronto a annoncé la naissance d’un hippopotame nain, le troisième pour la mère, Kindia. Le taux de survie de l’espèce est difficile, et les autorités surveillent de près le développement du nouveau-né.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Influenceur mexicain tué en direct",
+        "summary": "Un influenceur mexicain a été tué par balle alors qu’il diffusait en direct sur les réseaux sociaux. L’incident s’est produit à l’extérieur d’un restaurant rapide à Sinaloa.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Affaire Jean Imbert",
+        "summary": "Jean Imbert a été placé sous le statut de témoin assisté après avoir été entendu par un juge d’instruction. Il est accusé de violences conjugales.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNzFsUlc1YTNiQnY5cnVlYUVYS0IyTDhYVkZVa284bllLLUNGYjFMZmJndlJlRGtmbkx6Q2RJcGpCRzljTHprNlVVcTVrRXMwUjBKTGN0MlhESUlJYS02T2NZQ29kcnBlSDlZNWx0RWlOZ0NKQVMyRXJpSXhCUU1KcW1udWZ6cFJaZ3dDcTZOeDF4UU9EWFRTQnFOWGxHXy1RSUZmX3pzLWd1ZFNYWXZpY3NhWk8zcGtYNmJuTkRWNUk2YV93SkFuRGNEZHdpTkUtQUNjV0FPLWxYbGw2YUJTR1JYVnNJZ1ZKbjk1di14TnY5MXFNU1VVNXJ4V1N0Zw"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Décès d’une femme à Haute-Savoie",
+        "summary": "Le corps d’une femme portée disparue après une coulée de boue en Haute-Savoie a été retrouvé.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWElHNS1LRGItNk1wOFpTejRzZXN3aEZDdjctNGdxbGp5Mml4TU5mb0JqZWFxMWxZNW05ZnRKcFZ3SEQydk9WNHJaTjRobzFTeHd4Xzl1clJRcHBUU2xaOHNRblUxU2JSYjhkZWs2cmx2OTJueU5YQmU2NktQYmI2RElkTHhVUDkxbUt4cDR1VDlDdlFKd3ZreWpsc1owdTRaR19oQklIazhtMlM0VGdFZlplalVrU0tOdEZzR2xjMm0xSk9wQ1JKekVMMjlkS0h2RWdKeU11TG1kUWJW"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Condamnation de streamers",
+        "summary": "Les streamers Naruto et Safine ont été condamnés à de la prison avec sursis et six mois de « bannissement numérique » dans l’affaire Jean Pormanove.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUDJENHZxLURkUVVNSlJmVG9sNE1oTTY2OUVRenR6VzA2cG1CWlZzRVR6R0lUMGJlSGpZMVBtclNYdmFuaXMwV0FtRC1jcG1qSkVIZ19zMS15R1FuR1JDNW81cFVlMU5EUTExSGtaSjRicldiWGNpeXNIVFQ1b0REd05FNzBlMlpZME5HeFJKRE9FU2NBbms4MGs3YXMxa1g5RjRfaFBaRHlMT0RsWFdtWThQX201MjVyN0ktUDRqOVJqMU1iWFNGRGFOYl9WSzJ3RGZwbGFIeUxxYUgyVUdsaw"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Mehdi Laribi arrêté",
+        "summary": "Mehdi Laribi, l’un des fondateurs de la DZ Mafia, a été arrêté fin juillet en Algérie.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUDJENHZxLURkUVVNSlJmVG9sNE1oTTY2OUVRenR6VzA2cG1CWlZzRVR6R0lUMGJlSGpZMVBtclNYdmFuaXMwV0FtRC1jcG1qSkVIZ19zMS15R1FuR1JDNW81cFVlMU5EUTExSGtaSjRicldiWGNpeXNIVFQ1b0REd05FNzBlMlpZME5HeFJKRE9FU2NBbms4MGs3YXMxa1g5RjRfaFBaRHlMT0RsWFdtWThQX201MjVyN0ktUDRqOVJqMU1iWFNGRGFOYl9WSzJ3RGZwbGFIeUxxYUgyVUdsaw"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 2
+      },
+      {
+        "title": "Guerre en Iran",
+        "summary": "Les Américains s’attendent à davantage de chaos au Moyen-Orient à mesure que la guerre en Iran se poursuit, selon un sondage Reuters/Ipsos.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMXI5TE1EUEdoRUpxYzZfdDNOck5jT29pcUNLdnl4TjE2Q1Y1bnlkZS02MmFzY25KUUwxTnZxNTVxWTQybmkxUExnUWN4OXdTT2xCR3RDcmU2eHpZdEhIMWU5QURfWjl5eDNQaGliMUlRYVhYdEgxY1hPbU1zOS1rTXhRX1F2MjRaajl5cmw1Y3ZrSUpBQnNKMFFWV2E1bHN4NXR3cEFwSWJhMjN0bkxkcFV1UmNiNFpKMjdLQ3REbEt3Z1dUbXB2TlU2MA"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Interdiction d’exportation de cuivre et de cobalt",
+        "summary": "La République démocratique du Congo a interdit l’exportation de concentrés de cuivre et de cobalt, selon un ordre officiel.",
+        "category": "Finance & Marchés",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Lien entre Trump et l’IA",
+        "summary": "Les liens entre Trump et l’industrie technologique sont critiqués pour leur inaction sur l’intelligence artificielle, selon des républicains et des démocrates.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXVRelpoYlFMckQtbW8wV3NQbTBrT0w4RV9XcXBSRm9LR1BhUXNTZkc3LXV5RXJkUUNJdkJCR0lQakRrZWY2MUhVeWJMNWVKUk96cEVVNWY3Q1Q0cFNMWFQ3clo3TkNDMW9GTE5HMUdDdk9FLW1yWjd6U3ZmTHh3SEpSNjBGYmZlZ1U3OXcyT1hMeThhalcxTVk3SnhFOERaOE9hZjVzbTQxa0QzZlpzdGdDYkRrX2pBOVE"
           }
         ],
         "reading_time": 2,
