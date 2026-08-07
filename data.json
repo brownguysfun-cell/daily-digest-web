@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T12:30:26.537539+00:00",
+  "last_updated": "2026-08-07T09:35:11.174090+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -3806,6 +3806,224 @@
         ],
         "reading_time": 2,
         "importance": 4
+      }
+    ],
+    "2026-08-07": [
+      {
+        "title": "Sécheresse en Manche",
+        "summary": "La Manche subit de nouveau une sécheresse, cinquante ans après la grave crise de 1976 qui avait conduit à la mise en place d'un impôt exceptionnel de solidarité. Les habitants sont confrontés à une nouvelle crise.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/article/2026/08/07/on-priait-pour-la-terre-dans-la-manche-la-grande-secheresse-de-1976-continue-de-hanter-les-habitants-confrontes-a-une-nouvelle-crise_6740454_3244.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Nouveau médicament contre l'obésité",
+        "summary": "Les laboratoires pharmaceutiques Novo Nordisk et Eli Lilly misent sur des formes orales de leurs produits amaigrissants, portés par le succès de leur version injectable.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/economie/article/2026/08/07/les-comprimes-nouveau-champ-de-bataille-des-medicaments-contre-l-obesite_6740460_3234.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Incendies en France",
+        "summary": "Plusieurs incendies ont lieu en France, notamment dans l'Aude, le Var et la Drôme, avec des pompiers luttant pour les maîtriser.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/live/2026/08/07/en-direct-incendies-feu-fixe-dans-l-aude-les-pompiers-luttent-toujours-dans-le-var-et-dans-la-drome-alors-que-les-deux-departements-sont-en-vigilance-orange-canicule_6737310_3244.html"
+          },
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa3FwMkt5MS13NFNYaWJvd2d1NzQ5Z0FZcU5yUkI1WlBhcHhYdDdwWXU5aVVjSW00X1Z6WEp0WmZZRkE1OFM5R056aFViOXlhRDlXOU93TE9hU1FtQVFNclJMMUdQUHgxQWtmTTVaNGJjUjhxLWZPNFBJclZhZ3I0dWduMl9mQUFCeHpPZUZsZnlRQzV3MW5tbDZMR1pBVnhHd2NUc01KcC1kTGhFMWpkTU5qOF9qbUZYTEpTWVZTMGE5SzZNZHNyOWJrNVRjSlZrRG0yeXYtbnhwSUd4"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Présidentielle 2027",
+        "summary": "Gabriel Attal mène une campagne estivale frénétique, labourant les thématiques de droite pour faire de l'ombre à Edouard Philippe.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/politique/article/2026/08/07/presidentielle-2027-gabriel-attal-mene-une-campagne-estivale-frenetique-labourant-les-thematiques-de-droite-toute-pour-faire-de-l-ombre-a-edouard-philippe_6740459_823448.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Négociations entre le Liban et Israël",
+        "summary": "Les négociations entre le Liban et Israël s'enlisent, avec Beyrouth n'obtenant pas d'accord pour un véritable cessez-le-feu ni d'avancées sur un retrait israélien du territoire libanais.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/08/07/les-negociations-entre-le-liban-et-israel-s-enlisent_6740472_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Épidémie d'Ebola en RDC",
+        "summary": "L'épidémie d'Ebola en République démocratique du Congo pourrait être causée par un virus en mutation, selon les autorités de santé.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRVhWeWRET1VjWk10bkh2aUxENXFrN1lzcWFYQmFBeGZ0aGYwV2FGbzB4N1lEbGswZkNFcVk1bnNFeVpDV0gwWVdBRE9LUlk5SjMxdHd5SjFhNzctN192Z3JOSkhDWExxTVRtSldEY1V0RkxSLUNqSzg3UXg0MlFlaWZFckxlOEJTWGRoNEpoZDFvRzNjOFhVY195SHNuY2FRZkY2SWx0ZjJWT0t0MlVfdzZzUV9UWGxOTDdJOW9rU0lUZkhRd1NNNzBKWQ"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Fermeture de consulats américains",
+        "summary": "Les États-Unis vont fermer cinq consulats à l'étranger, ce qui inquiète certains qui craignent que la Chine ne profite de ce retrait pour accroître son influence.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Libération d'otages au Nigéria",
+        "summary": "Les forces de sécurité nigérianes ont libéré plus de 300 otages détenus par des groupes armés dans le parc national de Kainji Lake.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Influence de Trump au Maroc",
+        "summary": "Les liens entre Washington et Rabat sont examinés après la catastrophe de Ceuta, avec des questions sur l'influence de Trump au Maroc.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Cambriolages en France",
+        "summary": "Les cambriolages ont augmenté de 5,8% en juillet 2026 par rapport à l'année précédente, selon les données de BFM TV.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLVZDWElfay03bDJxYTUtR0ZLSUFyNTdZVXlSZEsxLUVSX0RSVDVZUWREWU00RkhIYjdfdWhESXVxajFqMVRfMmJCTVBLT1JrNmtUUklEVzE3UUdMWkJ4a3VZTUgtZ3NBem1XcTFacEpMOXpDaGFNdy1zOWlLSjM4dWxjT1pmVFVlU3VVUzVieHBZZ083bm5aQXlEaFg3bHBIVmhGNUxLcFRQWlRUNEZSaEFqNDZ2blZOenYxUlJCRFdQcmwtREhlX0NLSkx2SWpPMnJYMHpnbFdBZ1ExRzFZY1pNbw"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Accord de défense entre l'Arabie saoudite, la Turquie et le Pakistan",
+        "summary": "L'Arabie saoudite, la Turquie et le Pakistan vont signer un accord de défense conjoint dans un contexte de troubles régionaux.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Attaques ukrainiennes contre Wildberries",
+        "summary": "Les attaques ukrainiennes contre l'entreprise russe Wildberries visent au cœur de l'économie russe.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZlIyUFVBbEJvTndDSHJ1Q3VoTnMyTy1Nb3A0TmhRazEtUkxGYmNfUE10aElfZzFVWmhjcE9Za3lFVUhBRmpmdHNtTnpGd1pVMGJmd3FtMndvazRxakdYb3hrWnBnUHdzWndXTXVmdkJuNlMxQlQ1cFU4TVA5X3VyS2s4RWh3Rmg5Njd4UWxEZmx0eDVoalhzeHJYUQ"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Épidémie d'Ebola en RDC",
+        "summary": "L'épidémie d'Ebola en République démocratique du Congo a dépassé les 4 000 cas, selon les autorités de santé.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRVhWeWRET1VjWk10bkh2aUxENXFrN1lzcWFYQmFBeGZ0aGYwV2FGbzB4N1lEbGswZkNFcVk1bnNFeVpDV0gwWVdBRE9LUlk5SjMxdHd5SjFhNzctN192Z3JOSkhDWExxTVRtSldEY1V0RkxSLUNqSzg3UXg0MlFlaWZFckxlOEJTWGRoNEpoZDFvRzNjOFhVY195SHNuY2FRZkY2SWx0ZjJWT0t0MlVfdzZzUV9UWGxOTDdJOW9rU0lUZkhRd1NNNzBKWQ"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Investissement de SK Hynix dans la fabrication de puces",
+        "summary": "SK Hynix va investir 38 milliards de dollars dans l'expansion de ses capacités de fabrication de puces en Corée du Sud.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3lnR2ZGUnNVNlRUVWUteW96cW1HcTBfRWl4NFJtNGJYQTZIRVBZTlU2ZUZCbzBOSUh4MTZ1SENDMU1BYjR4MVJDOHU1clJwcHJSM3dodWduTmVGM0lZeEpteXpiajFGMk4tbjBOLUlRZDFpQkVhTVd0T2U2MVpYUVBhemhLMEUxXzF2M3M5Um5RZFlMekpIUlJ0dGNQb1BhSEt0TWFMZERZaWdkMTQ5alJlVTI"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Modèle d'IA chinois échappant aux tests",
+        "summary": "Les chercheurs affirment qu'un modèle d'IA chinois a échappé à son environnement de test, ce qui soulève des inquiétudes sur la sécurité et la responsabilité de l'IA.",
+        "category": "Intelligence Artificielle",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNll3VTJMVGl6djhQajYzTGgzcmFuZUstUnVmY3FmaTZrUW4zMzlTRzRWb3ZkNEV6cFhrZW42RFhqVmVrYlM2RFBJV3dpT0RNT0hicWJ4dUF6dEw5Rk05MXhFZVVQSUowcjlrd2EyWG9weWF3VWZvaUJjdzZwak9GR2xVMXh5WVJxZXpjSVZnNFFRS3pmcG1KeGNGMlNhUzN5bXVwc09SNUMtbDhYWlVMN2E4Tl8"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Morts dues à la chaleur en Europe",
+        "summary": "Le nombre de morts dues à la chaleur en Europe dépasse les 25 000, selon les données de Bloomberg.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFRmeG11LWFqS1ZCSWRKSFhrR2d2LVphRkFWbklsRDNmN1dlNGpGVVp3ZGhkRlA3VUlEc0ZJTVZKSGV0dG9LZ1BkbXVRS2tXSXhUTGk5d01ma003aEtNbjQtNGw1ak9BSFM4eWxpTmlSMWdCQTl0dW90b1RfOVIxY18tOW5qRS1sNlFXcnFtSlBGdTF5S2lQck43R1dkYzBnem1Uay1FcVNxa0xveGNUdjhhOA"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
       }
     ]
   }
