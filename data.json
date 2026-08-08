@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T09:35:11.174090+00:00",
+  "last_updated": "2026-08-08T08:06:19.585973+00:00",
   "digests": {
     "2026-07-12": [
       {
@@ -4024,6 +4024,194 @@
         ],
         "reading_time": 2,
         "importance": 5
+      }
+    ],
+    "2026-08-08": [
+      {
+        "title": "Enquêtes pour atteintes sexuelles aux mineurs",
+        "summary": "Des magistrats dénoncent les dysfonctionnements dans les enquêtes pour atteintes sexuelles aux mineurs, notamment des dossiers abandonnés ou perdus et un manque de formation du personnel.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/societe/article/2026/08/08/dossiers-a-l-abandon-ou-perdus-malgre-des-auteurs-identifies-personnels-mal-formes-les-rapports-explosifs-des-magistrats-sur-les-enquetes-pour-atteintes-sexuelles-aux-mineurs_6740745_3224.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Incendies dans le Var",
+        "summary": "Un incendie dans le massif du Gros Bessillon a été déclaré « fixé » après dix-huit jours de combat. Les pompiers ont dû faire face à un feu extrêmement complexe.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/planete/article/2026/08/08/incendies-dans-le-var-les-lecons-d-un-feu-qui-a-tenu-tete-aux-pompiers-pendant-dix-huit-jours_6740785_3244.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 3
+      },
+      {
+        "title": "Alliance de défense entre l'Arabie saoudite, la Turquie et le Pakistan",
+        "summary": "Les trois pays ont signé un pacte de défense mutuelle, prévoyant que toute attaque contre l'un d'eux sera considérée comme une attaque contre les trois alliés.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2026/08/08/l-arabie-saoudite-la-turquie-et-le-pakistan-scellent-a-la-mecque-une-alliance-de-defense-inedite_6740783_3210.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Plainte de Gabriel Attal pour ingérence numérique",
+        "summary": "Gabriel Attal a déposé une plainte pour ingérence numérique extérieure et manipulation de l'information, soupçonnant une implication de la Russie.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/08/gabriel-attal-porte-plainte-pour-une-ingerence-numerique-exterieure-et-en-provenance-de-russie_6740860_6205049.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Arrestations en Algérie de présumés narcotrafiquants",
+        "summary": "Deux présumés cadres du narcotrafic, Mehdi Laribi et Djamel Djeha, ont été arrêtés en Algérie, ce qui marque un timide réchauffement entre la France et l'Algérie.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/afrique/article/2026/08/08/les-arrestations-en-algerie-de-mehdi-laribi-et-djamel-djeha-deux-cadres-presumes-du-narcotrafic-signe-du-timide-rechauffement-entre-paris-et-alger_6740743_3212.html"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Frontières espagnoles avec l'Italie",
+        "summary": "L'Espagne va introduire des contrôles temporaires aux frontières avec l'Italie en réponse aux mesures similaires prises par Rome.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Décision de justice sur les protections pour les Sud-Soudanais",
+        "summary": "Un juge a approuvé l'effort de Trump pour mettre fin aux protections pour les ressortissants sud-soudanais aux États-Unis.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Impact sanitaire de la fumée des incendies de forêt",
+        "summary": "Les scientifiques étudient les liens complexes entre l'exposition à la fumée des incendies de forêt et la mortalité, alors que les conditions météorologiques favorisant les incendies deviennent plus fréquentes.",
+        "category": "Médecine & Santé",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Aide de sécurité américaine à la Colombie",
+        "summary": "Les États-Unis ont promis 1 milliard de dollars d'aide de sécurité à la Colombie, alors que le nouveau président colombien a promis de lutter contre les drogues.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeW1jcFhmVTc4MXRBdGZsZ0FuVXZBUFdSVVlXVEVWZTNPR2JTUVZITGk4blEtVDFkVWNfSkJuUk1zRkZSYlBDZzVsWDE5ejZUWTl4TE9mOHFmZFZac1VxRVduQU1HWkhIMGRycWE2ZWNVYTdzWFpjanBrVEZvWW55alM4QS03YnBwQ2x6MXc0QVlWV3Zoak5hM21Tay1MY0FaOUQ5ejZ6MFdCMnNsc19LNE5WbWMxN3l4YzgtdTFDR3I"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 5
+      },
+      {
+        "title": "Officier de police américain accusé de meurtre au Mexique",
+        "summary": "Un officier de police du Texas a été arrêté pour son implication présumée dans la mort de trois personnes au Mexique.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Accident de manège dans un parc d'attractions",
+        "summary": "Plusieurs personnes ont été blessées dans un accident de manège dans un parc d'attractions de l'Oise.",
+        "category": "Général",
+        "sources": [
+          {
+            "name": "BFM TV",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVEkyb1JlcVJxdkU0SUgtNWYySGFoRGVYYWlROC13ZXV4bmlCQWhzd0JBMVllSG1JSVp1aXJzbmlZQnphVHB3N2xmRkZ4dzJtdkZxOUp2LTVEX004OXBYS3VueF9MN3Mtenl4Ul9mdF9QQnhBZVpNdy1nRExCbHNraU10Vm1IOTdoWks1c3VHMXBENHMyNzliOUVGMk5hQUNRb0tqek9LYVluajg0T1d6cldja2phWFlMT2dvX3RVenhFLTh4ajVtVzlvTUdlZFRNYzRBRTdjQTE4ZS1JdG5kcVBCUk5lZVV4"
+          }
+        ],
+        "reading_time": 1,
+        "importance": 3
+      },
+      {
+        "title": "Investissement de Nvidia dans Lancium",
+        "summary": "Nvidia va investir jusqu'à 3 milliards de dollars dans Lancium, une entreprise de développement de centres de données.",
+        "category": "Sciences & Technologies",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVlHNnRpWjl0RUFEajBjQnAtMGtUTnYyVXVBNEpCMFRFVEJNb3g4Q0FPWWtRNnAxX0x3RHMzdVFLN3dJLXQ3Z0pTOEtMQnFnUWFCVS1jUlhZYXZIaGpCTF9EQXVWVmhyemxIZmF5X1JveTNJbC1Hb2FWNjBrZkFyRjNmQlRhbFpET2Q2c3pRMjhYVUN4eUs1WURpaEVWWnpi"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Exercice militaire à Taiwan",
+        "summary": "Le président de Taiwan a supervisé un exercice militaire côtier dans le cadre des jeux de guerre annuels.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmRWNXBNUDIwNU1QVmU3UmctOVNZVXZfVk1idDQ3TWJZRDRKV0FleVRndE5ZTGJsY1p0aUNodG05dzNvdUR1eDJZa0RzdU9OZ0VYREg0RzdqaVBuNXVpYXltckRzNUhnaHZRV0RrNG9Kbm9tZzZ3aHZ1RXQ1U0xBdlA3Mm5BLTJsdFhrVnB1endPSjUtZ3Z2TjJ5ZVQ5M2IwUVZHcHJmcWs2SHNaOEdKa2d6TkhlVnRHc1E"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
+      },
+      {
+        "title": "Sanctions de la Nouvelle-Zélande contre la Russie",
+        "summary": "La Nouvelle-Zélande a imposé de nouvelles sanctions contre la Russie, suivant les pas des États-Unis.",
+        "category": "Géopolitique",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUkg5VUFNeTZIZDVoMGJjQUJSVXZ0OXJwbGRTSGFxV1ByOFNwV2JWZ3p4VHNtenlpc0JSbzNOdHpBWWZuY0dCcmkzaUJmU1FLN2ZzcjFHTzNNcHBNM2FUOGgwNGRSZHBGdkFab2ZKOC1pX0hLQlowVnVSZ0QwcHl4cG1YR0s1SUxKZkU2anQ1OFFIc21fdEF0dUZRYUlTS1huVmZRTTJiaFdVSGdOWHlpWg"
+          }
+        ],
+        "reading_time": 2,
+        "importance": 4
       }
     ]
   }
